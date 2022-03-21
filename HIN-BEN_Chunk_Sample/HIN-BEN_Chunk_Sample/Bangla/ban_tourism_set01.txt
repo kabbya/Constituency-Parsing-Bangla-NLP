@@ -1,0 +1,1001 @@
+﻿ID	Value
+htd1	[[সপ্তপুরি\N_NN দর্শন\N_NN]]_NP [[করে\V_VM_VNF]]_VGNF [[মোক্ষলাভ\N_NN]]_NP [[হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd2	[[হিন্দু\N_NN ধর্মে\N_NN]]_NP [[তীর্থের\N_NN]]_NP [[যথেষ্ট\JJ মহত্ব\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd3	[[যদিও\PSP]]_CCP [[সমস্ত\QT_QTF তীর্থ\N_NN]]_NP [[যথেষ্ট\JJ গুরুত্বপূর্ণ,\N_NN]]_JJP [[তাও\PSP]]_CCP [[সাতটি\QT_QTC জায়গার\N_NN]]_NP [[বিশেষ\JJ গুরুত্ব\N_NN]]_NP [[ও\CC_CCD]]_CCP [[মহত্ব\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd4	[[এই\DM_DMD সাতটি\QT_QTC ধর্মস্থল\N_NN]]_NP [[সাত\QT_QTC নগর\N_NN]]_NP [[বা\CC_CCD]]_CCP [[সপ্তপুরি\N-NNP নামে\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK 
+htd5	[[এটা\DM_DMD বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\RP_RPD]]_CCP [[চর্তুদশীতে\N_NN]]_NP [[এই\DM_DMD সপ্তপুরি\N-NNP]]_NP [[দর্শন\N_NN করলে\V_VM_VNF]]_VGNF [[মোক্ষলাভ\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd6	[[এর\PR_PRL নাম\N_NN বেনারস\N-NNP]]_NP [[বা\CC_CCD]]_CCP [[বারাণসীও\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd7	[[গঙ্গার\N-NNP ধারে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[এটা\DM_DMD হল\V_VAUX]]_VGF [[শঙ্কর\N-NNP ভগবানের\N_NN নগর\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd8	[[মোগলসরাই\N-NNP থেকে\PSP অমৃতসর\N-NNP]]_NP [[তথা\RP_RPD]]_CCP [[দেরারুন\N-NNP যাওয়ার\V_VM_VNG]]_VGNN [[প্রধাণ\JJ রেললাইনে\N_NN]]_NP [[মোগলসরাই\N-NNP স্টেশন\N_NN থেকে\PSP]]_NP [[৭\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP কাশী\N-NNP [[আর\N_NN]]_CCP [[তার\PR_PRL থেকে\PSP]]_NP [[৪\QT_QTC মাইল\N_NN এগিয়ে\V_VM_VNF]]_VGNF [[বেনারস\N-NNP ছাবনি\N-NNP স্টেশন\N_NN]]_NP [[পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd9	[[এলাহাবাদের\N-NNP প্রয়াগ\N-NNP স্টেশন\N_NN থেকেও\PSP]]_NP [[একটা\QT_QTC সোজা\JJ লাইন\N_NN]]_NP [[কাশী\N-NNP হয়ে\V_VM_VNF]]_NP [[বেনারস\N-NNP ছাবনি\N-NNP পর্যন্ত\PSP যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd10	[[পূর্ব\N_NN রেলওয়ের\N_NN]]_NP [[একটা\QT_QTC লাইন\N_NN ভাটনী\N-NNP থেকে\PSP]]_NP [[আর\CC_CCD]]_CCP [[দ্বিতীয়টি\QT_QTO ছাপরা\N-NNP হয়ে\V_VM_VNF]]_NP [[এলাহাবাদ\N-NNP সিটি\N_NN যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd11	[[এই\DM_DMD রাস্তা\N_NN ধরেও\PSP]]_VGNF [[বেনারস\N-NNP শহর\N_NN হয়ে\V_VM_VNF]]_NP [[ছাবনী\N-NNP যেতে\V_VM_VINF পারেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd12	[[পতিত\JJ পাবনী\JJ গঙ্গা\N-NNP]]_NP [[হরিদ্বার\N-NNP থেকে\PSP]]_NP [[পর্বতাঞ্চল\N_NN ছেড়ে\PSP]]_VGF [[সমতল\JJ ভূমিতে\N_NN]]_NP [[প্রবেশ\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd13	[[এই\DM_DMD জন্য\PSP]]_CCP [[হরিদ্বারকে\N-NNP]]_NP [[গঙ্গার\N-NNP দ্বারও\N_NN বলে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd14	[[হরিদ্বারে\N-NNP]]_NP [[প্রতিদিন\N_NN সন্ধ্যেবেলা\N_NN হওয়া\V_VM_VNG]]_VGINF [[মা\N_NN গঙ্গার\N-NNP]]_NP [[আরতির\N_NN সময়\N_NN]]_NP [[ভক্তদের\N_NN ভিড়\N_NN]]_NP [[উপচে\V_VM_VNF পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd15	[[গঙ্গা\N-NNP নদীর\N_NN ওপর\PSP]]_NP [[ভাসা\JJ]]_VGNN [[দীপমালার\N_NN দৃশ্য\N_NN]]_NP [[দেখতে\V_VM_VINF দেখতেই\V_VM_VINF]]_VGINF [[তৈরি\N_NN হয়\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd16	[[উত্তর\N_NN রেলওয়ের\N_NN]]_NP [[মোগলসরাই\N-NNP থেকে\PSP]]_NP [[অমৃতসর\N-NNP যাওয়ার\V_VM_VINF পথে\N_NN]]_NP [[প্রধাণ\JJ লাইনে\N_NN]]_NP [[এই\DM_DMD স্টেশন\N_NN পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd17	[[লক্সর\N-NNP থেকে\PSP]]_NP [[একটা\QT_QTC লাইন\N_NN]]_NP [[হরিদ্বার\N-NNP পর্যন্ত\PSP গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd18	[[প্রাচীনকালে\N_NN]]_NP [[পিতামহ\N_NN ব্রক্ষা\N-NNP]]_NP [[কাঞ্চীতে\N-NNP]]_NP [[মা\N_NN ভগবতীর\N-NNP দর্শনের\N_NN জন্য\PSP]]_NP [[দুষ্কর\JJ তপস্যা\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd19	[[তখন\RB]]_RBP [[মহালক্ষী\N-NNP]]_NP [[হাতে\N_NN কমল\N_NN ধারণ\V_VM_VNG করে\V_VM_VNF]]_VGF [[তার\PR_PRL সামনে\N_NST এসেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd20	[[দক্ষিণ\N-NNP রেলওয়ের\N_NN]]_NP [[চেন্নাই\N-NNP স্টেশন\N_NN থেকে\PSP]]_NP [[ধনুষ্কোট\N-NNP যাওয়ার\V_VM_VNG পথে\N_NN]]_NP [[প্রধাণ\JJ লাইনে\N_NN]]_NP [[চেন্নাই\N-NNP থেকে\PSP]]_NP [[৩৫\QT_QTC মাইল\N_NN দূরে\N_NN]]_NP [[চঙ্গলপেট\N-NNP স্টেশন\N_NN পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd21	[[চঙ্গলপেট\N-NNP স্টেশন\N_NN থেকে\PSP]]_NP [[একটা\QT_QTC লাইন\N_NN]]_NP [[অরকোনাম\N-NNP পর্যন্ত\PSP যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd22	[[চঙ্গলপেট\N-NNP স্টেশন\N_NN থেকে\PSP]]_NP [[অরকোনাম\N-NNP যাওয়ার\V_VM_VNG পথে\N_NN]]_NP [[কাঞ্জীভরম\N-NNP পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd23	[[স্টেশনের\N_NN নাম\N_NN]]_NP [[কাঞ্জীভরম\N-NNP]]_NP [[কিন্তু\CC_CCS]]_CCP [[নগরের\N_NN নাম\N_NN হল\V_VAUX]]_NP [[কাঞ্চীপুরম\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd24	[[অযোধ্যা\N-NNP নগর\N_NN]]_NP [[শ্রী\N-NNP রামের\N-NNP অবতারের\N_NN]]_NP [[পবিত্র\JJ ভূমি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd25	[[অযোধ্যা\N-NNP]]_NP [[পবিত্র\JJ নদী\N_NN]]_NP [[সরযূর\N-NNP তীরে\N_NN]]_NP [[অবস্হিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd26	[[উত্তর\N-NNP রেলওয়ের\N_NN]]_NP [[মোগলসরাই-লখনউ\N-NNP লাইনে\N_NN]]_NP [[মোগলসরাই\N-NNP স্টেশন\N_NN থেকে\N_NN]]_NP [[১২৮\QT_QTC মাইল\N_NN দূরত্বে\N_NN]]_NP [[অযোধ্যা\N-NNP স্টেশন\N_NN আছে\V_VAUX]]_NP [[৷\RD_PUNC]]_BLK
+htd27	[[সিপ্রা\N-NNP]]_NP [[বা\CC_CCD]]_CCP [[শিপ্রা\N-NNP নদীর\N_NN তটে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[মহাকালের\N_NN এই\DM_DMD উজ্জয়িনী\N-NNP নগরীকে\N_NN]]_NP [[পতিত\N_NN পাবনী\N_NN বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd28	[[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\RP_RPD]]_CCP [[উজ্জয়িনীতে\N-NNP মহাকালকে\N_NN প্রণাম\N_NN করলে\V_VM_VNF]]_VGNF [[মৃত্যুর\N_NN চিন্তা\N_NN থাকে\V_VM_VNF না\RP_NEG]]_VGF [[৷\RD_PUNC]]_BLK
+htd29	[[মধ্য\N-NNP রেলের\N_NN]]_NP [[মুম্বই-ভোপাল-দিল্লী\N-NNP লাইনে\N_NN]]_NP [[ভোপাল\N-NNP স্টেশন\N_NN থেকে\PSP]]_NP [[একটা\QT_QTC লাইন\N_NN]]_NP [[উজ্জয়িনী\N-NNP গেছে\V_VM_VF]]_NP [[৷\RD_PUNC]]_BLK
+htd30	[[পশ্চিম\N-NNP রেলের\N_NN]]_NP [[মুম্বই-কোটা-দিল্লী\N-NNP লাইনে\N_NN]]_NP [[নাগড়া\N-NNP স্টেশন\N_NN থেকে\PSP]]_NP [[একটা\QT_QTC বড়\JJ লাইনও\N_NN]]_NP [[উজ্জয়িনী\N-NNP গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd31	[[উক্ত\JJ লাইনের\N_NN]]_NP [[মহু\N-NNP স্টেশন\N_NN থেকেও\PSP]]_NP [[একটা\QT_QTC লাইন\N_NN]]_NP [[উজ্জয়িনী\N-NNP গেছে\V_VM_VF]]_NP [[৷\RD_PUNC]]_BLK
+htd32	[[চারটি\QT_QTC ধামের\N_NN]]_NP [[একটি\QT_QTC হল\V_VAUX]]_NP [[দ্বারকা\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd33	[[ভগবান\N_NN কৃষ্ণ\N-NNP]]_NP [[বিশেষরূপে\RB]]_RBP [[সমুদ্রের\N_NN মাঝে\PSP]]_NP [[এটি\DM_DMD বানিয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd34	[[পশ্চিম\N-NNP রেলওয়ের\N_NN]]_NP [[সুরেন্দ্রনগর-ঔখা\N-NNP পোর্ট\N_NN লাইনে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[এই\DM_DMD নগর\N_NN হল\V_VAUX]]_NP [[সমুদ্রপারের\N_NN স্টেশন\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd35	[[যমুনার\N-NNP তটে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[ভগবান\N_NN শ্রী\N-NNP কৃষ্ণের\N-NNP]]_NP [[অবতার\N_NN ভূমি\N_NN]]_NP [[হল\V_VAUX]]_VGF [[পবিত্র\JJ মথুরা\N-NNP নগরী\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd36	[[পূর্ব\N-NNP রেলওয়ের\N_NN]]_NP [[আগরা\N-NNP স্টেশন\N_NN ফোর্ট\N_NN থেকে\PSP]]_NP [[গোরখপুর\N-NNP যাওয়ার\V_VM_VNG লাইনে\N_NN]]_NP [[তথা\CC_CCD]]_CCP [[পশ্চিম\N-NNP রেলওয়ের\N_NN]]_NP [[মুম্বই-কোটা-দিল্লী\N-NNP লাইনে\N_NN]]_NP [[মথুরা\N-NNP স্টেশন\N_NN আছে\V_VAUX]]_NP [[৷\RD_PUNC]]_BLK
+htd37	[[গড়-মুক্তেশ্বর\N-NNP]]_NP [[হিন্দুদের\N_NN]]_NP [[পবিত্র\JJ তীর্থস্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd38	[[চলুন\V_VM_VF]]_VGF [[গড়-মুক্তেশ্বরের\N-NNP]]_NP [[গঙ্গার\N-NNP মেলায়\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd39	[[গাজিয়াবাদ\N-NNP জেলার\N_NN]]_NP [[গড়-মুক্তেশ্বরে\N-NNP]]_NP [[পতিত\JJ পাবনী\JJ গঙ্গার\N-NNP তটে\N_NN]]_NP [[প্রত্যেক\JJ কার্তিক\N_NN পূর্ণিমার\N_NN সময়ে\N_NN]]_NP [[বসা\V_VM_VNG]]_VGNN [[উত্তর\N-NNP ভারতের\N-NNP]]_NP [[প্রসিদ্ধ\JJ]]_NP [[আর\CC_CCD]]_CCP [[প্রাচীন\JJ ধার্মিক\JJ মেলা\N_NN]]_NP [[প্রায়\RB পাঁচ\QT_QTC হাজার\N_NN বছর\N_NN পুরানো\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd40	[[এই\DM_DMD গড়-মুক্তেশ্বরের\N-NNP মেলার\N_NN]]_NP [[প্রচুর\JJ উত্তেজনা\N_NN রয়েছে\V_VM_VF]]_VGF [[আর\CC_CCD]]_CCP [[এর\PR_PRL সাথে\PSP]]_NP [[প্রধাণ\JJ স্নানের\N_NN জন্য\PSP]]_NP [[ভক্তদের\N_NN]]_NP [[প্রচন্ড\JJ ভিড়\N_NN হচ্ছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd41	[[প্রধাণ\JJ স্নান\N_NN]]_NP [[১৩\QT_QTC নভেম্বর\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd42	[[গড়-মুক্তেশ্বরের\N-NNP বিষয়ে\N_NN]]_NP [[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\RP_RPD]]_CCP [[মহাভারতের\N-NNP]]_NP [[বিনাশকারী\JJ যুদ্ধের\N_NN পর\PSP]]_NP [[যোগীরাজ\N-NNP কৃষ্ণ,\N-NNP]]_NP [[ধর্মরাজ\N-NNP যুধিষ্ঠির\N-NNP]]_NP [[এবং\CC_CCD]]_CCP [[অর্জুনের\N-NNP মনে\N_NN]]_NP [[যুদ্ধের\N_NN বিভীষিকা\N_NN]]_NP [[আর\CC_CCD]]_CCP [[নরসংহার\N_NN দেখে\V_VM_VNF]]_VGNF [[ভীষণ\JJ গ্লানি\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd43	[[তারা\PR_PRP]]_NP [[এই\DM_DMD চিন্তায়\N_NN]]_NP [[পড়ে\V_VM_VNF যান\V_VM_VF]]_VGF [[যে\RP_RPD]]_CCP [[যুদ্ধে\N_NN]]_NP [[মৃত\JJ]]_RBP [[অসংখ্য\JJ কুটুম্ব\N_NN]]_NP [[,\RD_PUNC বধূ\N_NN]]_BLK [[এবং\CC_CCD]]_CCP [[নির্দোষ\JJ লোকের\N_NN]]_NP [[আত্মার\N_NN শান্তির\N_NN জন্য\PSP]]_NP [[কোনও\JJ উপায়\N_NN]]_NP [[বের\V_VM_VNF করা\V_VM_VNG]]_VGNN [[বা\CC_CCD]]_CCP [[সংস্কার\N_NN করা\V_VM_VNG]]_VGNN [[উচিত\RB]]_RBP [[৷\RD_PUNC]]_BLK
+htd44	[[তখন\RB]]_RBP [[সবাই\N_NN]]_NP [[একটি\QT_QTC সিদ্ধান্তে\N_NN এলেন\V_VM_VF]]_VGF [[যে\RP_RPD]]_CCP
+htd45	[[খান্ডবী\N-NNP বনে\N_NN]]_NP [[ভগবান\N_NN পরশুরাম\N-NNP দ্বারা\PSP স্থাপিত\N_NN]]_NP [[শিব\N-NNP বল্ল্ভপুর\N-NNP নামক\N_NN স্থানে\N_NN]]_NP [[মুক্তেশ্বর\N-NNP মহাদেবের\N-NNP]]_NP [[পূজা\N_NN যজ্ঞ\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[পতিত\JJ পাবনী\JJ গঙ্গায়\N-NNP স্নান\N_NN করে\V_VM_VNF]]_VGNF [[সেখানে\N_NST]]_RBP [[পিন্ডদান\N_NN করলে\V_VM_VNF]]_VGNF [[সমস্ত\QT_QTF সংস্কার\N_NN]]_NP [[পূর্ণ\N_NN হয়ে\V_VM_VNF যাবে\V_VM_VF]]_NP [[৷\RD_PUNC]]_BLK
+htd46	[[মনে\N_NN রাখবেন\V_VM_VF]]_VGF [[শিব\N-NNP বল্লহপুরই\N-NNP]]_NP [[এখন\RB]]_RBP [[গড়-মুক্তেশ্বর\N-NNP নামে\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd47	[[ভগবান\N_NN রামের\N-NNP পূর্বজ\N_NN]]_NP [[নহারাজ\N_NN শিবি\N-NNP]]_NP [[নিজের\PR_PRF বানপ্রস্থ\N_NN]]_NP [[গড়-মুক্তেশ্বরে\N-NNP]]_NP [[অতিবাহিত\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd48	[[ভগবান\N_NN শিবি\N-NNP]]_NP [[ভগবান\N_NN পরশুরামকে\N-NNP দিয়ে\PSP]]_NP [[এখানে\N_NST]]_RBP [[শিব\N-NNP মন্দির\N_NN]]_NP [[স্থাপন\N_NN করিয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd49	[[ওই\DM_DMD সময়\N_NN]]_NP [[গড়-মুক্তেশ্বর\N-NNP]]_NP [[বল্লভ\N-NNP সম্প্রদায়ের\N_NN]]_NP [[প্রধাণ\JJ কেন্দ্র\N_NN ছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd50	[[গড়-মুক্তেশ্বরের\N-NNP]]_NP [[নাম\N_NN]]_NP [[শিব\N-NNP বল্ল্ভবপুর\N-NNP হল\V_VAUX]]_VGF [[,\RD_PUNC]]_BLK
+htd51	[[শিব\N-NNP পুরাণে\N_NN]]_NP [[গড়-মুক্তেশ্বরের\N-NNP]]_NP [[বর্ণণা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd52	[[একাদশী\N_NN থেকে\PSP]]_NP [[চতুর্থী\N_NN পর্যন্ত\PSP]]_NP [[গড়-মুক্তেশ্বরে\N-NNP]]_NP [[মহাভারতের\N-NNP যুদ্ধে\N_NN মৃত\JJ]]_NP [[ব্যাক্তিদের\N_NN]]_NP [[আত্মার\N_NN শান্তির\N_NN জন্য\PSP]]_NP [[যজ্ঞ\N_NN করা\V_VM_VNG হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd53	[[চতুর্থীর\N_NN সন্ধ্যায়\N_NN]]_NP [[যজ্ঞ\N_NN সমাপ্তির\N_NN পর\PSP]]_NP [[ওই\DM_DMD আত্মাদের\N_NN জন্য\PSP]]_NP [[গঙ্গায়\N-NNP প্রদীপ\N_NN জ্বালিয়ে\V_VM_VNF]]_VGNF [[শ্রদ্ধাঞ্জলি\N_NN দেওয়া\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd54	[[তারপরের\N_NN দিন\N_NN সকালে\N_NN]]_NP [[,\RD_PUNC]]_BLK [[পূর্ণিমার\N_NN দিন\N_NN]]_NP [[সকলে\PR_PRF গঙ্গায়\N-NNP স্নান\N_NN করে\V_VM_VNF]]_VGNF [[পূজা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[অর্চনা\N_NN]]_CCP [[ইত্যাদি\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd55	[[প্রতি\JJ বছর\N_NN]]_NP [[কয়েক\JJ লাখ\QT_QTC ভক্ত\N_NN]]_NP [[গড়-মুক্তেশ্বরে\N-NNP]]_NP [[কার্তিক\N_NN পূর্ণিমার\N_NN দিন\N_NN]]_NP [[কুলষ\JJ বিনাশিনী\JJ]]_NP [[,\RD_PUNC]]_CCP [[পাপ-হারিণী\JJ গঙ্গায়\N-NNP]]_NP [[স্নান\N_NN করে\V_VM_VNF]]_VGNF [[নিজের\PR_PRF আত্মীয়ের\N_NN]]_NP [[আত্মার\N_NN শান্তির\N_NN জন্য\PSP]]_NP [[এখানে\N_NST]]_RBP [[প্রদীপ\N_NN জ্বালাতে\V_VM_VINF আসেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd56	[[চর্তুদশীর\N_NN দিন\N_NN সন্ধ্যায়\N_NN]]_NP [[অসংখ্য\QT_QTF লোক\N_NN]]_NP [[নিজেদের\PR_PRF স্বজনের\N_NN প্রতি\PSP]]_NP [[শ্রদ্ধাঞ্জলি\N_NN দিতে\V_VM_VINF]]_VGINF [[গঙ্গায়\N-NNP প্রদীপ\N_NN জ্বালান\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd57	[[সেই\DM_DMD সময়ে\N_NN]]_NP [[গঙ্গার\N-NNP ধারার\N_NN সাথে\PSP]]_NP [[বয়ে\V_VM_VNF যাওয়া\V_VM_VNG]]_VGNN [[প্রদীপের\N_NN দৃশ্য\N_NN]]_NP [[বড়ই\JJ মনোরম\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd58	[[গড়-মুক্তেশ্বরে\N-NNP]]_NP [[অনেক\QT_QTF মহত্বপূর্ণ\JJ]]_NP [[ধার্মিক\JJ স্থান\N_NN আছে\V_VAUX]]_VGF [[,\RD_PUNC]]_BLK [[যেমন\RP_RPD]]_CCP [[নহুষ\N-NNP কূপ\N-NNP]]_NP [[(নক্কা\N-NNP কুঁয়া)\N-NNP]]_NP [[মুক্তেশ্বর\N-NNP মহাদেবের\N-NNP মন্দির,\N_NN]]_NP [[বদ্রিনাথ\N-NNP মন্দির\N_NN ইত্যাদি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd59	[[বদ্রিনাথ\N-NNP মন্দির\N_NN]]_NP [[শুধুমাত্র\RB]]_RBP [[আরতির\N_NN সময়ই\N_NN খোলার\V_VM_VNG]]_VGNN [[প্রথা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd60	[[বছরে\N_NN একবার\QT_QTC]]_NP [[অক্ষয়\N_NN তৃতীয়ার\N_NN সময়\N_NN]]_NP [[পরশুরাম\N-NNP জয়ন্তীর\N_NN সময়ে\N_NN]]_NP [[সারা\JJ দিন\N_NN]]_NP [[দর্শনার্থীদের\N_NN জন্য\PSP]]_NP [[এই\DM_DMD মন্দির\N_NN]]_NP [[খোলা\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd61	[[মুক্তেশ্বর\N-NNP মহাদেবের\N-NNP]]_NP [[মন্দিরের\N_NN সামনে\PSP]]_NP [[বিশাল\JJ বড়\JJ বালির\N_NN মাঠ\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[,\RD_PUNC]]_BLK [[যা\PR_PRL মীরাবাইয়ের\N-NNP মাঠ\N_NN নামে\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd62	[[এটা\DM_DMD মনে\N_NN করা\V_VM_VNG হয়\V_VAUX]]_NP [[যে\PR_PRL]]_CCP [[এক\QT_QTC সময়ে\N_NN]]_NP [[মীরাবাই\N-NNP]]_NP [[এখানে\N_NST]]_RBP [[গঙ্গা\N-NNP স্নানের\N_NN জন্য\PSP]]_NP [[এসেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd63	[[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\PR_PRL]]_CCP [[একবার\QT_QTC]]_RBP [[পার্বতী\N-NNP]]_NP [[শঙ্করকে\N-NNP প্রশ্ন\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd64	[[প্রভু\N_NN]]_NP [[এমন\PR_PRL কোনও\DM_DMQ উপায়\N_NN]]_NP [[আর\CC_CCD]]_CCP [[স্থান\N_NN বলুন\V_VM_VF]]_VGF [[যেখানে\N_NST]]_RBP [[সংসারের\N_NN সমস্ত\QT_QTF ব্যাধি\N_NN]]_NP [[আর\CC_CCD]]_CCP [[পাপ\N_NN থেকে\PSP]]_NP [[জীবরা\N_NN মুক্তি\N_NN পাবে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd65	[[ওরা\PR_PRL কি\DM_DMQ কাজ\N_NN করবে\V_VM_VNF]]_VGF [[,\RD_PUNC]]_BLK [[যাতে\CC_CCS]]_CCP [[আপনার\PR_PRP স্নেহ\N_NN অর্জন\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd66	[[এতে\DM_DMD শঙ্কর\N-NNP বলেন\V_VM_VNF]]_VGF [[যে\RP_RPD]]_CCP [[দেবী\N_NN]]_NP [[সত্যযুগে\N-NNP সকল\QT_QTF তীর্থ\N_NN]]_NP [[পুণ্যের\N_NN ফল\N_NN দেয়\V_VM_VF]]_VGF [[,\RD_PUNC]]_CCP [[ত্রেতাযুগে\N-NNP পুষ্কর\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[দ্বাপরে\N-NNP কুরুক্ষেত্র\N-NNP পুণ্যের\N_NN ফল\N_NN দেয়\V_VM_VF]]_VGF [[আর\CC_CCD]]_CCP [[কলিকালে\N-NNP]]_NP [[শুধুমাত্র\RB]]_RBP [[গঙ্গা\N-NNP স্নান\N_NN করলে\V_VM_VNF]]_VGNF [[পুণ্যফল\N_NN প্রাপ্তি\N_NN হবে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd67	[[গঙ্গা\N-NNP তটে\N_NN]]_NP [[শিব\N-NNP বল্লভপুর\N-NNP নামে\N_NN]]_NP [[একটি\QT_QTC স্থান\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd68	[[শিব\N-NNP বল্লভপুর\N-NNP নামক\N_NN স্থানে\N_NN]]_NP [[শিব\N-NNP]]_NP [[বসবাস\N_NN করেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd69	[[শিব\N-NNP বল্লভপুর\N-NNP]]_NP [[শিবের\N-NNP]]_NP [[অতিপ্রিয়\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd70	[[শিব\N-NNP বল্লভপুর\N-NNP]]_NP [[জম্বুদ্বীপের\N-NNP]]_NP [[আর্যাবত\N-NNP দেশে\N_NN]]_NP [[হস্তিনাপুরের\N-NNP পূর্বদিকে\N_NN]]_NP [[অবস্থিত\V_VM_VF]]_JJP [[৷\RD_PUNC]]_BLK
+htd71	[[গঙ্গা\N-NNP তটে\N_NN অবস্থিত\N_NN]]_NP [[শিব\N-NNP বল্লভপুর\N-NNP]]_NP [[দেবতা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ঋষি\N_NN]]_NP [[আর\CC_CCD]]_CCP [[পিতৃপুরুষদের\N_NN]]_NP [[সন্তোষ\N_NN প্রদান\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd72	[[শিব\N-NNP বল্লভপুর\N-NNP]]_NP [[আমার\PR_PRF কাছে\PSP]]_NP [[কাশীর\N-NNP সমানই\PSP]]_NP [[প্রিয়\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd73	[[গড়-মুক্তেশ্বরে\N-NNP অবস্থিত\N_NN]]_NP [[গঙ্গা\N-NNP মন্দির\N_NN]]_NP [[যথেষ্ট\RP_INTF ওপরে\N_NST]]_NP [[তৈরি\N_NN হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd74	[[গড়-মুক্তেশ্বরে\N-NNP অবস্থিত\N_NN]]_NP [[গঙ্গা\N-NNP মন্দিরে\N_NN]]_NP [[মা\N_NN গঙ্গা\N-NNP ছাড়াও\PSP]]_NP [[ব্রক্ষার\N-NNP মূর্তি\N_NN আছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd75	[[গড়-মুক্তেশ্বর\N-NNP]]_NP [[গঙ্গা\N-NNP মন্দির\N_NN]]_NP [[এমন\PR_PRL একটা\QT_QTC পাথর\N_NN দিয়ে\PSP তৈরি\N_NN]]_NP [[যা\PR_PRL]]_CCP [[ভাল\N_NN]]_RBP [[করে\V_VM_VNF]]_VGNF [[মন\N_NN দিয়ে\PSP]]_NP [[দেখলে\V_VM_VNF]]_VGNF [[ভগবান\N_NN শিবের\N-NNP আকৃতির\N_NN]]_NP [[আভাস\N_NN পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd76	[[এক\QT_QTC কালে\N_NN]]_RBP [[গড়-মুক্তেশ্বরের\N-NNP]]_NP [[গঙ্গা\N-NNP মন্দিরে\N_NN পৌঁছানোর\V_VM_VNG জন্য\PSP]]_NP [[১০১\QT_QTC সিঁড়ি\N_NN ছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd77	[[কিন্তু\CC_CCS]]_CCP [[এখন\RB]]_RBP [[গড়-মুক্তেশ্বরের\N-NNP]]_NP [[গঙ্গা\N-NNP মন্দিরে\N_NN]]_NP [[৮৬টি\QT_QTC সিঁড়ি\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd78	[[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\RP_RPD]]_CCP [[১৯৩৭\QT_QTC সালে\N_NN]]_NP [[মা\N_NN গঙ্গা\N-NNP]]_NP [[গড়-মুক্তেশ্বরের\N-NNP]]_NP [[গঙ্গা\N-NNP মন্দিরের\N_NN]]_NP [[সিঁড়ি\N_NN ছুঁয়ে\V_VM_VNF বইতেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd79	[[কিন্তু\CC_CCS]]_CCP [[ধীরে\RB ধীরে\RB]]_RBP [[গঙ্গা\N-NNP দেবী\N_NN]]_NP [[জায়গা\N_NN ছেড়ে\V_VM_VNF]]_VGNF [[চলে\V_VM_VNF যান\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd80	[[এখন\RB]]_RBP [[গঙ্গার\N-NNP তট\N_NN]]_NP [[এই\DM_DMD মন্দির\N_NN থেকে\PSP]]_NP [[প্রায়\RB]]_RBP [[১০\QT_QTC কিলোমিটার\N_NN দূরে\V_VM_VF]]_NP [[৷\RD_PUNC]]_BLK
+htd81	[[গঙ্গা\N-NNP তটের\N_NN]]_NP [[বালির\N_NN ময়দানে\N_NN]]_NP [[মেলা\N_NN বসে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd82	[[মেলা\N_NN]]_NP [[চলাকালীন\PSP]]_RBP [[তটে\N_NN]]_NP [[তাঁবুর\N_NN]]_NP [[একটা\QT_QTC পুরো\JJ নগরী\N_NN বসে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd83	[[মেলা\N_NN স্থল\N_NN]]_NP [[দিল্লী\N-NNP থেকে\PSP]]_NP [[প্রায়\RB]]_RBP [[৭০\QT_QTC কিলোমিটার\N_NN দূরে\V_VM_VF]]_NP [[৷\RD_PUNC]]_BLK
+htd84	[[গাড়ি\N_NN ইত্যাদি\N_NN দিয়ে\PSP]]_NP [[আরামে\N_NN]]_NP [[মেলা\N_NN স্থলে\N_NN]]_NP [[পৌঁছানো\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd85	[[আগে\RB]]_RBP [[গড়-মুক্তেশ্বরের\N-NNP]]_NP [[মেলা\N_NN অঞ্চলে\N_NN]]_NP [[লোকেদের\N_NN হেঁটেই\V_VM_VNF]]_VGNF [[যেতে\V_VM_VINF হত\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd86	[[কিন্তু\CC_CCS]]_CCP [[এখন\RB]]_RBP [[যাতায়াতের\N_NN]]_NP [[অনেক\QT_QTF সুবিধা\N_NN হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd87	[[অনেক\QT_QTF লোক\N_NN]]_NP [[মোষ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ট্রাক্টর\N_NN]]_NP [[ট্রলি\N_NN]]_NP [[,\RD_PUNC]]_BLK [[গাড়ি\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[অন্যান্য\JJ যান\N_NN দ্বারা\PSP]]_NP [[মেলা\N_NN স্থলে\N_NN পৌঁছান\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd88	[[অনুমান\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\RP_RPD]]_CCP [[প্রতি\JJ বছর\N_NN]]_NP [[প্রায়\RB]]_RBP [[কুড়ি\QT_QTC লাখ\N_NN লোক\N_NN]]_NP [[গড়-মুক্তেশ্বরে\N-NNP]]_NP [[মেলা\N_NN]]_NP [[চলাকালীন\PSP]]_RBP [[গঙ্গা\N-NNP স্নান\N_NN করতে\PSP]]_VGINF [[আসেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd89	[[মেলাতে\N_NN অংশগ্রহণকারী\N_NN]]_NP [[বেশিরভাগ\QT_QTF ভক্তরা\N_NN]]_NP [[তৈরি\N_NN করা\V_VM_VNG তাঁবুতেই\N_NN]]_NP [[থাকেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd90	[[মেলা\N_NN ছেড়ে\V_VM_VNF আসা\V_VM_VNG]]_NP [[লোকেরা\N_NN]]_NP [[বজ্রঘাটের\N_NN আশেপাশে\PSP তৈরি\N_NN তাঁবুতেই\N_NN]]_NP [[থাকেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd91	[[যদিও\CC_CCS]]_CCP [[এখানে\PR_PRP]]_RBP [[খাওয়া\V_VM_VNG -\RD_PUNC দাওয়ার\RD_ECH জিনিষ\N_NN]]_NP [[অনেক\QT_QTF দোকানেই\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF
+htd92	[[কিন্তু\CC_CCS]]_CCP [[প্রচুর\JJ পরিমাণে\N_NN]]_NP [[মেলাতে\N_NN আসা\V_VM_VNG ভক্তরা\N_NN]]_NP [[নিজেদের\PR_PRF]]_NP [[আহারের\N_NN ব্যবস্থা\N_NN]]_NP [[নিজেরাই\PR_PRF করেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd93	[[কার্তিক\N_NN পূর্ণিমার\N_NN সময়ে\N_NN]]_NP [[গঙ্গার\N-NNP তটে\N_NN]]_NP [[গড়\N-NNP মুক্তেস্বরের\N-NNP মেলা\N_NN]]_NP [[বিশালতম\JJ মেলাগুলির\N_NN]]_NP [[একটি\QT_QTC]]_NP [[৷\RD_PUNC]]_BLK
+htd94	[[গঙ্গার\N-NNP কিনারায়\N_NN]]_NP [[প্রায়\RB]]_RBP [[১১\QT_QTC কিলোমিটার\N_NN এলাকা\N_NN জুড়ে\V_VM_VNF]]_NP [[মেলা\N_NN হয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd95	[[এই\DM_DMD বছর\N_NN]]_NP [[মেলা\N_NN স্থলকে\N_NN]]_NP [[২০\QT_QTC কিলোমিটার\N_NN সেক্টরে\N_NN]]_NP [[বেঁধে\V_VM_VNF ফেলার\V_VM_VNG]]_VGNN [[আয়োজন\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd96	[[সুরক্ষার\N_NN জন্য\N_NN]]_NP [[গড়\N-NNP মুক্তেশ্বরে\N-NNP]]_NP [[আগের\N_NST তুলনায়\N_NN]]_NP [[অনেক\RP_INTF বেশি\JJ]]_NP [[পুলিশ\N_NN রাখা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd97	[[অনেক\QT_QTF জায়গায়\N_NN]]_NP [[ক্লোজ\N_NN সার্কিট\N_NN টি.ভি.,\N_NN]]_NP [[ক্যামেরা\N_NN]]_NP [[লাগানো\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd98	[[গঙ্গাস্নানের\N_NN জন্য\PSP]]_NP [[অনেক\QT_QTF ঘাটও\N_NN]]_NP [[তৈরি\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd99	[[হস্তিনাপুরের\N-NNP]]_NP [[ঐতিহাসিক\JJ মহত্ব\N_NN আছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd100	[[জৈন\JJ জগত\N_NN]]_NP [[সারা\QT_QTF ভারতবর্ষের\N-NNP]]_NP [[সমস্ত\QT_QTF জাতির\N_NN জন্য\PSP]]_NP [[বিশেষ\JJ মহত্বপূর্ণ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd101	[[হস্তিনাপুর\N-NNP যাওয়ার\V_VM_VNG জন্য\PSP]]_NP [[আমরা\PR_PRF]]_NP [[দিল্লী\N-NNP থেকে\PSP]]_NP [[কাশ্মিরী\N-NNP বাস\N_NN আড্ডা\N_NN থেকে\PSP]]_NP [[যাওয়া\V_VM_VNG]]_VGNN [[সহজ\N_NN মনে\V_VM_VNF হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd102	[[কাশ্মিরী\N-NNP গেট\N_NN থেকে\PSP]]_NP [[ক্রমাগত\RB]]_RBP [[মীরট\N-NNP পর্যন্ত\PSP]]_NP [[বাস\N_NN যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd103	[[তারপর\RB]]_RBP [[মীরট\N-NNP থেকে\PSP]]_NP [[হস্তিনাপুরের\N-NNP বাস\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd104	[[দিল্লী\N-NNP থেকে\PSP]]_NP [[হস্তিনাপুরের\N-NNP দূরত্ব\N_NN]]_NP [[প্রায়\RB]]_RBP [[১০৫\QT_QTC কিলোমিটার\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd105	[[শাস্ত্রে\N_NN]]_NP [[হস্তিনাপুর\N-NNP]]_NP [[অন্য\JJ অনেক\QT_QTF নামে\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[যেমন\RP_RPD গজপুর\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[নাগপুর\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[অসংধিবন\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[বজ্রস্থল\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[শান্তিনগর\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[কুজারপুর\N-NNP ইত্যাদি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd106	[[হস্তিনারপুরে\N-NNP]]_NP [[জৈন\N_NN ধর্মের\N_NN]]_NP [[চব্বিশটি\QT_QTC তীর্থঙ্করের\N_NN মধ্যে\PSP]]_NP [[সর্বপ্রথম\JJ তীর্থঙ্কর\N_NN]]_NP [[শ্রী\N-NNP আদিনাথ\N-NNP প্রভু\N-NNP]]_NP [[নিজের\PR_PRF চারশো\QT_QTC দিনের\N_NN ব্রতের\N_NN পরে\PSP]]_NP [[শ্রেয়াংশ\N-NNP কুমারের\N-NNP হাত\N_NN]]_NP [[আখের\N_NN রস\N_NN পান\N_NN করে\V_VM_VNF]]_VGNF [[নিজের\PR_PRF ব্রত\N_NN]]_NP [[সমাপ্ত\N_NN করেছিলেন৷\V_VM_VF]]_VGF
+htd107	[[হস্তিনারপুরেও\N-NNP]]_NP [[শ্রী\N-NNP শান্তিনাথ\N-NNP প্রভু\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[কুঁন্থনাথ\N-NNP প্রভু\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[শ্রী\N-NNP আরহনাথ\N-NNP প্রভুর\N-NNP]]_NP [[বারোজন\QT_QTC হিতার্থী\N_NN ছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd108	[[ভগবান\N_NN মল্লিকানাথের\N-NNP সম্ভাষণও\N_NN]]_NP [[হস্তিনাপুরেই\N-NNP হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd109	[[হস্তিনারপুরেই\N-NNP]]_NP [[মুনি\N_NN সুব্রত\N-NNP নাথ\N-NNP স্বামী\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[ভগবান\N_NN পার্শ্বনাথ\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[ভগবান\N_NN মহাবীর\N-NNP স্বামীর\N_NN]]_NP [[নিজের\PR_PRF দিব্য\JJ বাণীতে\N_NN]]_NP [[ধর্মোপদেশ\N_NN দিয়েছেন\V_VM_VF]]_VGF 
+htd110	[[হস্তিনারপুরে\N-NNP]]_NP [[পূজা\N_NN অর্চনার\N_NN সময়\N_NN হল\V_VAUX]]_NP [[সকাল\N_NN ৪টে\QT_QTC থেকে\PSP]]_NP [[সন্ধ্যে\N_NN ৫টা\QT_QTC পর্যন্ত\PSP]]_NP [[৷\RD_PUNC]]_BLK
+htd111	[[আর\CC_CCD]]_CCP [[দিগম্বর\N-NNP জৈন\N-NNP মন্দিরে\N_NN]]_NP [[পূজার\N_NN সময়\N_NN]]_NP [[সকাল\N_NN সাতটার\QT_QTC সময়\N_NN]]_NP [[শুরু\N_NN হয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd112	[[আদিনাথ\N-NNP ভগবান\N_NN]]_NP [[দীক্ষা\N_NN নেওয়ার\V_VM_VNG জন্য\PSP]]_NP [[চারশো\QT_QTC দিন\N_NN পর\PSP]]_NP [[বৈশাখ\N_NN শুক্লা\N_NN তৃতীয়ার\N_NN দিন\N_NN]]_NP [[হস্তিনারপুরে\N-NNP এসেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd113	[[অনেক\JJ দূর\N_NN থেকে\PSP]]_NP [[লোকেরা\N_NN]]_NP [[তার\PR_PRL দর্শনলাভ\N_NN করতে\V_VM_VINF]]_VGINF [[যান\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd114	[[রাজকুমার\N_NN শ্রেয়ংশ\N-NNP]]_NP [[যখন\CC_CCS]]_RBP [[এটা\DM_DMD জানতে\V_VM_VINF পারলেন\V_VM_VF]]_VGF [[তখন\CC_CCS]]_RBP [[তাঁর\PR_PRP]]_NP [[নিজের\PR_PRF পূর্বজদের\N_NN]]_NP [[অন্ন\N_NN -\RD_PUNC জল\N_NN ত্যাগ\N_NN করার\V_VM_VNG কথা\N_NN]]_NP [[মনে\V_VM_VNF পড়ল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd115	[[রাজকুমার\N_NN শ্রেয়ংশকুমার\N-NNP]]_NP [[আদিনাথ\N-NNP প্রভুকে\N_NN]]_NP [[ব্রত\N_NN সমাপন\N_NN করার\V_VM_VNG জন্য\PSP]]_NP [[ইক্ষু\N_NN রস\N_NN গ্রহণ\N_NN করার\V_VM_VNG]]_VGNN [[প্রার্থনা\N_NN করেন\V_VM_VF]]_VGF [[যা\PR_PRL]]_CCP [[তিনি\PR_PRP স্বীকার\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd116	[[পরবর্তীকালে\RB]]_RBP [[এই\DM_DMD দিনটিকে\N_NN]]_NP [[অক্ষয়\N_NN তৃতীয়া\N_NN বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd117	[[হস্তিনারপুরে\N-NNP]]_NP [[ভগবান\N_NN]]_NP [[নিজের\PR_PRF ধর্মানুপদেশ\N_NN দ্বারা\PSP]]_NP [[৬\QT_QTC জন\RP_CL বড়\JJ রাজাকে\N_NN]]_NP [[জৈন\JJ ধর্ম\N_NN অনুযায়ী\RB বানিয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd118	[[২৪টি\QT_QTC তীর্থঙ্করের\N_NN মধ্যে\PSP]]_NP [[২০তম\QT_QTO তীর্থঙ্কর\N_NN]]_NP [[মুনি\N_NN শ্রী\N_NN সুব্রত\N-NNP স্বামী\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[২৩তম\QT_QTO তীর্থঙ্কর\N_NN]]_NP [[পার্শ্বনাথ\N-NNP ভগবান\N_NN]]_NP [[আর\CC_CCD]]_CCP [[অন্তিম\JJ তীর্থঙ্কর\N_NN]]_NP [[শ্রী\N-NNP মহাবীর\N-NNP স্বামী\N-NNP]]_NP [[এই\DM_DMD স্থানকে\N_NN]]_NP [[নিজের\PR_PRF পদধূলি\N_NN দ্বারা\PSP]]_NP [[পবিত্র\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd119	[[ভারতে\N-NNP]]_NP [[মোট\QT_QTF ১২\QT_QTC জন\RP_CL]]_NP [[চক্রবর্তি\N_NN সম্রাট\N_NN হয়েছিলেন\V_VM_VF]]_NP [[৷\RD_PUNC]]_BLK
+htd120	[[ভারতের\N-NNP]]_NP [[মোট\QT_QTF ১২\QT_QTC জন\RP_CL]]_NP [[চক্রবর্তি\N_NN সম্রাটের\N_NN মধ্যে\PSP]]_NP [[৬\QT_QTC জনের\RP_CL জন্ম\N_NN]]_NP [[হস্তিনারপুরে\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd121	[[রামায়ণ\N-NNP যুগের\N_NN]]_NP [[পরশুরামের\N-NNP জন্মও\N_NN]]_NP [[হস্তিনারপুরে\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd122	[[হস্তিনারপুর\N-NNP]]_NP [[কৌরব\N-NNP]]_NP [[আর\N_NN]]_CCP [[পান্ডবদের\N-NNP]]_NP [[রাজধাণী\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd123	[[কার্তিক\N_NN পূর্ণিমা\N_NN]]_NP [[আর\CC_CCD]]_CCP [[বৈশাখ\N_NN শুক্ল\N_NN তৃতীয়ার\N_NN]]_NP [[শেতাম্বর\N-NNP জৈন\N-NNP মন্দিরে\N_NN]]_NP [[আর\CC_CCD]]_CCP [[কার্তিক\N_NN শুক্ল\N_NN অমাবস্যা\N_NN থেকে\PSP]]_NP [[পূর্ণিমার\N_NN মধ্যে\PSP]]_NP [[দিগম্বর\N-NNP জৈন\N-NNP মন্দিরে\N_NN]]_NP [[কার্যক্রমের\N_NN ব্যবস্থা\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd124	[[ভগবান\N_NN আদিনাথ\N-NNP]]_NP [[পোদানপুর\N-NNP]]_NP [[আর\N_NN]]_NP [[হস্তিনারপুরের\N-NNP রাজ্য\N_NN]]_NP [[নিজের\PR_PRF পুত্র\N_NN]]_NP [[বাহুবলীর\N-NNP হাতে\N_NN]]_NP [[সঁপেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd125	[[বাহুবলী\N-NNP]]_NP [[পোদানপুরে\N-NNP]]_NP [[শাসন\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd126	[[আর\CC_CCD]]_NP [[ওর\PR_PRL পুত্র\N_NN সোময়শ\N-NNP]]_NP [[হস্তিনারপুরে\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd127	[[বাহুবলীর\N-NNP]]_NP [[ছোট\JJ ভাই\N_NN শ্রেয়ংশকুমার\N-NNP]]_NP [[আদিনাথ\N-NNP ভগবানের\N_NN]]_NP [[চরণাভিষেক\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd128	[[শ্রেয়ংশকুমারের\N-NNP স্মৃতিতে\N_NN]]_NP [[রত্নস্তম্ভ\N_NN বানানো\V_VM_VNG হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd129	[[সেখানে\N_NST]]_RBP [[আদিনাথ\N-NNP ভগবানের\N_NN]]_NP [[চরণপাদুকাও\N-NNP]]_NP [[স্থাপিত\N_NN করা\V_VM_VNG হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd130	[[শ্রী\N_NN শান্তিনাথ\N-NNP প্রভু\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কুঁন্থনাথ\N-NNP প্রভু\N_NN]]_NP [[আর\CC_CCD]]_CCP [[শ্রী\N_NN আরহনাথ\N-NNP প্রভুর\N_NN]]_NP [[চারজন\QT_QTC হিতার্থীদের\N_NN স্মৃতিতে\N_NN]]_NP [[এখানে\N_NST]]_RBP [[তিনটি\QT_QTC স্তম্ভ\N_NN বানানো\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd131	[[রাজা\N_NN শিবরাজ\N-NNP মহাবীর\N-NNP]]_NP [[স্বামীর\N_NN প্রবচন\N_NN শুনে\V_VM_VNF]]_VGNF [[জৈনধর্ম\N_NN আপন\N_NN করেছিলেন\V_VM_VF]]_VGF [[ও\CC_CCD]]_CCP [[মহাবীর\N-NNP স্বামীর\N_NN স্মৃতিতে\N_NN]]_NP [[রাজা\N_NN সিবরাজ\N-NNP]]_NP [[হস্তিনাপুরে\N-NNP]]_NP [[একটি\QT_QTC স্তম্ভ\N_NN বানিয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd132	[[সম্রাট\N_NN অশোকের\N-NNP]]_NP [[একজন\QT_QTC বংশজও\N_NN]]_NP [[নিজের\PR_PRF শাসনকাল\N_NN]]_NP [[চলাকালীন\PSP]]_RBP [[কোনও\DM_DMQ একটি\QT_QTC]]_NP [[জৈন\N_NN মন্দির\N_NN বানিয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd133	[[কিন্তু\CC_CCS]]_CCP [[সময়ের\N_NN]]_NP [[সাথে\RB সাথে\RB]]_RBP [[ওই\DM_DMR প্রাচীন\JJ স্তম্ভ\N_NN]]_NP [[মন্দির\N_NN]]_NP [[আর\CC_CCD]]_CCP [[ধীরে\RB ধীরে\RB]]_RBP [[বিলীন\N_NN হয়ে\V_VM_VNF গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd134	[[এই\DM_DMD হস্তিনারপুর\N-NNP নগর\N_NN]]_NP [[পবিত্র\JJ গঙ্গার\N_NN পাশে\PSP]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd135	[[হস্তিনারপুরে\N-NNP যাওয়া\V_VM_VNG লোকেদের\N_NN জন্য\PSP]]_NP [[ধর্মশালার\N_NN ব্যবস্থাও\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd136	[[শেতাম্বর\N_NN ট্রাস্ট\N_NN ধর্মশালায়\N_NN]]_NP [[থাকার\V_VM_VNG জন্য\PSP]]_NP [[৪০০\QT_QTC ঘর\N_NN আছে\V_VAUX]]_VGF [[আর\CC_CCD]]_CCP [[সকালের\N_NN জলখাবার\N_NN]]_NP [[,\RD_PUNC]]_BLK [[দুপুরের\N_NN লাঞ্চ\N_NN]]_NP [[আর\CC_CCD]]_BLK [[রাতে\N_NN ভোজনেরও\N_NN]]_NP [[ব্যবস্থা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd137	[[এই\DM_DMD ধরণের\N_NN]]_NP [[আরও\CC_CCD অনেক\QT_QTF ধর্মশালাও\N_NN]]_NP [[সহজেই\RB]]_RBP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd138	[[অতিশয়\N_NN ক্ষেত্র\N_NN তিজারাঃ\N_NN]]_NP [[এখানে\N_NST]]_RBP [[ইচ্ছার\N_NN থেকে\PSP বেশি\QT_QTF]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd139	[[চন্দ্র\N-NNP প্রভু\N_NN দিগম্বর\N_NN]]_NP [[জৈন\N_NN অতিশয়\N_NN ক্ষেত্রে\N_NN]]_NP [[দেহরা\N-NNP -\RD_PUNC তিজারা\N-NNP]]_NP [[রাজস্থানের\N-NNP]]_NP [[আলোওয়ার\N-NNP জেলায়\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd140	[[একে\PR_PRP]]_NP [[অতিশয়\N-NNP ক্ষেত্র\N_NN]]_NP [[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd141	[[অতিশয়ের\N-NNP অর্থ\N_NN হল\V_VAUX]]_VGF [[সামান্য\N_NN থেকে\PSP]]_NP [[অনেক\QT_QTF বেশি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd142	[[অর্থাত্\CC_CCS]]_CCP [[এমন\DM_DMD ক্ষেত্র\N_NN]]_NP [[যেখানে\N_NST]]_RBP [[কিছু\QT_QTF অসাধারণ\JJ ঘটবে\V_VM_VNF]]_VGF [[বা\CC_CCD]]_CCP [[কোনও\DM_DMD চমত্কার\N_NN হবে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd143	[[অর্থাত্\CC_CCS]]_CCP [[সাধারণভাবে\RB]]_RBP [[যদি\PSP]]_CCP [[কিছু\QT_QTF চাওয়া\V_VM_VNG হয়\V_VAUX]]_VGF [[তাহলে\CC_CCS]]_CCP [[তার\PR_PRP থেকে\PSP]]_NP [[অনেক\RP_INJ বেশি\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd144	[[এতটাই\QT_QTF পাওয়া\V_VM_VNG]]_NP [[যে\RP_RPD]]_CCP [[আপনি\PR_PRP]]_NP [[বুদ্ধিভ্রষ্ট\N_NN হয়ে\V_VM_VNF পড়েন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd145	[[এমনই\DM_DMD]]_NP [[তিজারা\N-NNP ক্ষেত্রের\N_NN মহত্ব\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd146	[[তিজারার\N-NNP]]_NP [[এই\DM_DMD অতিশয়\N-NNP ক্ষেত্র\N_NN]]_NP [[বা\CC_CCD]]_CCP [[মন্দির\N_NN বলা\V_VM_VNG যায়\V_VM_VF]]_VGF [[,\RD_PUNC]]_BLK [[তা\PR_PRL আলোয়ার\N-NNP জেলা\N_NN থেকে\PSP]]_NP [[৫২\QT_QTC কিলামিটার\N_NN]]_NP [[আর\CC_CCD]]_CCP [[দিল্লী\N-NNP থেকে\PSP]]_NP [[১১৭\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd147	[[তিজারা\N-NNP অতিশয়\N-NNP ক্ষেত্রে\N_NN]]_NP [[২৪টি\QT_QTC তীর্থঙ্করের\N_NN মধ্যে\PSP]]_NP [[৪তম\QT_QTO তীর্থঙ্কর\N_NN]]_NP [[শ্রী\N_NN চন্দ্র\N-NNP ভগবানের\N_NN]]_NP [[আরাধনা\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd148	[[তিজারা\N-NNP অতিশয়\N-NNP ক্ষেত্রে\N_NN]]_NP [[চন্দ্র\N-NNP প্রভু\N_NN ভগবানের\N_NN]]_NP [[একটি\QT_QTC সাদা\JJ রঙের\N_NN]]_NP [[একটি\QT_QTC অত্যন্ত\RP_INTF সুন্দর\JJ]]_NP [[শ্বেতপাথরের\N_NN মূর্তি\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd149	[[এই\DM_DMD অঞ্চলে\N_NN]]_NP [[খোদাই\N_NN করার\V_VM_VNG সময়\N_NN]]_NP [[১৯৫৬\QT_QTC সালে\N_NN]]_NP [[,\RD_PUNC]]_BLK [[১৬ই\QT_QTC অগস্ট\N_NN]]_NP [[এই\DM_DMD মূর্তি\N_NN]]_NP [[বের\V_VM_VNF হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd150	[[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\RP_RPD]]_CCP [[তিজারার\N-NNP]]_NP [[এক\QT_QTC বিখ্যাত\JJ বৈদ্য\N_NN]]_NP [[বিহারী\N-NNP লালের\N-NNP স্ত্রী\N_NN]]_NP [[সরস্বতী\N-NNP দেবী\N_NN]]_NP [[তিন\QT_QTC দিনের\N_NN]]_NP [[উপোস\N_NN রেখেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd151	[[তৃতীয়\QT_QTO দিনে\N_NN]]_NP [[ব্রতের\N_NN রাতে\N_NN]]_NP [[তিনি\PR_PRP]]_NP [[স্বপ্নে\N_NN]]_NP [[নিজের\PR_PRF ঘরের\N_NN সামনে\PSP]]_NP [[অবস্থিত\N_NN]]_JJP [[একটা\QT_QTF জায়গার\N_NN সম্বন্ধে\PSP]]_NP [[কিছু\QT_QTC অদ্ভূত\JJ দৃশ্য\N_NN দেখলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd152	[[পরের\N_NN দিন\N_NN সকালে\N_NN]]_NP [[যখন\RB]]_RBP [[ওই\DM_DMD জায়গাটা\N_NN]]_NP [[খোঁড়া\N_NN হল\V_VM_VF]]_VGF [[,\RD_PUNC]]_BLK
+htd153	[[ওখানে\N_NST]]_RBP [[চন্দ্র\N-NNP প্রভু\N_NN মহারাজের\N_NN]]_NP [[সুন্দর\JJ মূর্তি\N_NN]]_NP [[পাওয়া\V_VM_VNG গেল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd154	[[খোদাই\N_NN করার\V_VM_VNG পর\PSP]]_NP [[যখন\RB]]_RBP [[মূর্তি\N_NN]]_NP [[পাওয়া\V_VM_VNG গেল\V_VM_VF]]_VGF [[,\RD_PUNC]]_BLK
+htd155	[[শ্রদ্ধাশীল\JJ ব্যাক্তিরা\N_NN]]_NP [[তার\PR_PRP মানে\N_NN বের\V_VM_VNF করলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd156	[[এইভাবে\N_NN]]_RBP [[প্রকৃতিই\N_NN]]_NP [[মূর্তির\N_NN জলাভিষেক\N_NN করে\V_VM_VNF]]_VGNF [[তা\PR_PRL পবিত্র\N_NN করেছে\V_VM_VF]]_VGF [[\RD_PUNC]]_BLK
+htd157	[[এই\N_NN ঘটনার\N_NN]]_NP [[কয়েক\QT_QTF বছর\N_NN পর\PSP]]_NP [[১৯৭২\QT_QTC সালে\N_NN ২৯\QT_QTC মার্চ\N_NN]]_NP [[ওই\DM_DMD জায়গা\N_NN থেকেই\PSP]]_NP [[চন্দ্রN-NNP প্রভু\N_NN মহারাজের\N_NN]]_NP [[কালো\JJ রঙের\N_NN পদ্মাসন\N_NN মুদ্রায়\N_NN]]_NP [[অন্য\JJ একটি\QT_QTC মূর্তি\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd158	[[এই\N_NN মূর্তিটি\N_NN]]_NP [[মন্দিরের\N_NN]]_NP [[দক্ষিণ\JJ দিকের\N_NN গেট\N_NN]]_NP [[খোদাই\N_NN করার\V_VM_VNG সময়\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd159	[[অতিশয়\N-NNP ক্ষেত্রে\N_NN]]_NP [[স্থাপিত\N_NN]]_JJP [[এই\DM_DMD মন্দিরের\N_NN]]_NP [[বাইরের\N_NST রূপ\N_NN]]_NP [[অত্যন্ত\RP_INTF সুন্দর\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd160	[[আর\CC_CCD]]_CCP [[এই\DM_DMD ভেতরের\N_NST সাজসজ্জা\N_NN]]_NP [[খুবই\RP_INTF সুন্দর\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd161	[[মন্দির\N_NN প্রাঙ্গনে\N_NN]]_NP [[এতটাই\QT_QTF জায়গা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd162	[[একবারে\QT_QTC]]_RBP [[এখানে\N_NST]]_RBP [[দুই\QT_QTC হাজার\N_NN লোক\N_NN]]_NP [[সহজেই\RB]]_JJP [[একত্রিত\N_NN হতে\V_VM_VINF পারেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd163	[[তিজারাতে\N-NNP]]_NP [[একটা\QT_QTC বড়\JJ হল\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd164	[[তিজারার\N-NNP হলের\N_NN]]_NP [[দুই\QT_QTC দিকের\N_NN দেওয়ালে\N_NN]]_NP [[কাঁচের\N_NN কাজ\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd165	[[চিত্রের\N_NN মাধ্যামে\PSP]]_NP [[তাতে\DM_DMR]]_NP [[পৌরাণিক\JJ কথা\N_NN]]_VGF [[বলা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd166	[[লোকেরা\N_NN]]_NP [[এই\DM_DMD মূর্তির\N_NN সামনে\PSP]]_NP [[সত্\JJ মনে\N_NN]]_NP [[প্রার্থনা\N_NN করেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd167	[[লোকেদের\N_NN]]_NP [[সমস্ত\QT_QTF ইচ্ছা\N_NN]]_NP [[পূরণ\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd168	[[জাদুবিদ্যা\N_NN দ্বারা\PSP]]_NP [[প্রভাবিত\JJ ব্যাক্তিও\N_NN]]_NP [[নিজের\PR_PRF সমস্যা\N_NN]]_NP [[সমাধানের\N_NN জন্য\PSP]]_NP [[তিজারাতে\N-NNP আসেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd169	[[মন্দিরের\N_NN সামনে\PSP]]_NP [[একটি\QT_QTC অত্যন্ত\RP_INTF আকর্ষক\JJ স্তম্ভ\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd170	[[একে\DM_DMR]]_NP [[মান\N-NNP স্তম্ভ\N_NN]]_NP [[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd171	[[স্তম্ভের\N_NN ওপর\PSP]]_NP [[ভগবানের\N_NN মূর্তি\N_NN]]_NP [[লাগানো\V_VM_VNG আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd172	[[ভগবানের\N_NN মূর্তি\N_NN]]_NP [[দূর\N_NST থেকেই\PSP]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd173	[[এটাকে\DM_DMD]]_NP [[মান\N-NNP স্তম্ভ\N_NN]]_NP [[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd174	[[এই\DM_DMD স্তম্ভ\N_NN]]_NP [[দর্শন\N_NN করা\V_VM_VNG মাত্রই\RB]]_RBP [[ব্যাক্তির\N_NN অহঙ্কার\N_NN]]_NP [[কমে\V_VM_VNF যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_NP
+htd175	[[মান\N-NNP স্তম্ভের\N_NN শিখরে\N_NN]]_NP [[তীর্থঙ্কর\N-NNP ভগবানের\N_NN]]_NP [[চারটি\QT_QTC মূর্তি\N_NN]]_NP [[স্থাপনা\N_NN করার\V_VM_VNG]]_VGNN [[প্রচলিত\JJ রীতি\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd176	[[তিজারাতে\N-NNP]]_NP [[বছরে\N_NN দুইবার\QT_QTC]]_NP [[বিশেষ\JJ কার্যক্রমের\N_NN ব্যবস্থা\N_NN]]_NP [[করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd177	[[একবার\QT_QTC]]_RBP [[ফাল্গুন\N_NN সপ্তমীতে\N_NN]]_NP [[আর\CC_CCD]]_CCP [[দ্বিতীয়বার\QT_QTO]]_RBP [[শ্রাবণ\N_NN শুক্ল\N_NN দশমীতে\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd178	[[তিজারার\N-NNP অতিশয়\N-NNP ক্ষেত্রে\N_NN]]_NP [[ভক্তদের\N_NN থাকার\V_VM_VNG জন্য\PSP]]_NP [[৩০০\QT_QTC কামরার\N_NN ধর্মশালা\N_NN]]_NP [[বানানো\V_VM_VNG হয়েছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd179	[[প্রাচীনকালে\RB]]_RBP [[তিজারা\N-NNP অতিশয়\N-NNP]]_NP [[দেহরা\N-NNP নামে\N_NN প্রসিদ্ধ\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd180	[[কালক্রমে\RB]]_RBP [[এই\DM_DMD জায়গা\N_NN]]_NP [[দেহরা\N-NNP -\RD_PUNC তিজারা\N-NNP]]_NP [[বা\CC_CCD]]_CCP [[এখনও\RB পর্যন্ত\PSP]]_RBP [[শুধু\RB]]_RBP [[তিজারা\N-NNP নামেই\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd181	[[বস্তারের\N-NNP প্রধাণ\JJ জেলা\N_NN]]_NP [[জগদলপুর\N-NNP থেকে\PSP]]_NP [[দক্ষিণে\N_NN ৩৫\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP [[কাঙ্কের\N-NNP ঘাটে\N_NN]]_NP [[রাষ্ট্রীয়\JJ উদ্যান\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd182	[[কাঙ্কের\N-NNP ঘাট\N_NN রাষ্ট্রীয়\JJ উদ্যান\N_NN]]_NP [[নিজের\PR_PRF]]_NP [[জলপ্রপাত\N_NN]]_NP [[,\RD_PUNC]]_CCP [[গুহা\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[প্রাকৃতিক\JJ বিবিধতার\N_NN জন্য\PSP]]_NP [[প্রসিদ্ধ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd183	[[কাঙ্কের\N-NNP ঘাটের\N_NN]]_NP [[প্রধাণ\JJ পর্যটন\N_NN স্থান\N_NN]]_NP [[নিচে\PSP দেওয়া\V_VM_VNG হল\V_VAUX]]_VGF [[-\RD_PUNC]]_BLK
+htd184	[[জগদলপুর\N-NNP থেকে\PSP]]_NP [[৩৫\QT_QTC কিলোমিটার\N_NN দূরে\N_NST]]_NP [[অবস্থিত\N_NN]]_JJP [[জলপ্রপাত\N_NN]]_NP [[পর্যটকদের\N_NN]]_NP [[মন\N_NN ভরিয়ে\V_VM_VNF দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd185	[[পর্যটকরা\N_NN]]_NP [[এর\DM_DMR মনোরম\JJ ছটাতে\N_NN]]_NP [[এতটাই\RP_INTF হারিয়ে\V_VM_VNF যান\V_VM_VF]]_VGF [[যে\RP_RPD]]_CCP
+htd186	[[এখান\N_NST থেকে\PSP]]_NP [[ফেরত\N_NN যাওয়ার\V_VM_VNG]]_VGNN [[ইচ্ছাই\N_NN করে\V_VM_VF]]_VGF [[না\RP_NEG]]_NEGP [[৷\RD_PUNC]]_BLK
+htd187	[[মুনাগাবহার\N-NNP নদীতে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[এই\DM_DMD জলপ্রপাত\N_NN]]_NP [[চন্দ্রকার\JJ পাহাড়\N_NN থেকে\PSP]]_NP [[৩০০\QT_QTC ফিট\N_NN নিচে\PSP]]_NP [[সিঁড়ির\N_NN মতো\RP_RPD]]_NP [[প্রাকৃতিক\JJ নির্মাণের\N_NN ওপর\PSP পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd188	[[জল\N_NN পড়ার\V_VM_VNG ফলে\PSP তৈরি\N_NN হওয়া\V_VM_VNG]]_VGNN [[দুধরঙা\JJ ফেনা\N_NN]]_NP [[আর\CC_CCD]]_CCP [[প্রাকৃতিক\JJ ফোয়ারা\N_NN]]_NP [[পর্যটকদের\N_NN]]_NP [[অল্প\QT_QTF অল্প\QT_QTF ভিজিয়ে\V_VM_VNF দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd189	[[ভূতত্ত্বে\N_NN এম.টেক\N_NN হওয়ার\V_VM_VNG ফলে\PSP]]_NP [[আমি\PR_PRP]]_NP [[এর\DM_DMR ভূবিজ্ঞানিক\JJ উত্পত্তি\N_NN]]_NP [[জানার\V_VM_VNG চেষ্টা\N_NN করেছিলাম\V_VM_VF]]_VGF [[৷\RD_PUNC]]_NP
+htd190	[[আমি\PR_PRP]]_NP [[এটা\DM_DMD]]_NP [[জানলাম\V_VM_VF]]_VGF [[,\RD_PUNC]]_BLK
+htd191	[[কয়েক\QT_QTF কোটি\QT_QTC বছর\N_NN আগে\PSP]]_NP [[কোনও\DM_DMR ভূমিকম্পের\N_NN ফলে\PSP]]_NP [[চন্দ্র-ভ্রংশ\N-NNP থেকে\PSP]]_NP [[নদীর\N_NN ডান\JJ দিকের\N_NN পাথরের\N_NN শিলা\N_NN]]_VGF [[ধ্বসে\V_VM_VNF]]_VGNF [[নিচে\PSP পড়ে\V_VM_VNF যায়\V_VM_VF]]_VGF
+htd192	[[এবং\CC_CCD]]_CCP [[এর\DM_DMR থেকে\PSP তৈরি\N_NN হওয়া\V_VM_VNG]]_VGNN [[সিঁড়ির\N_NN মতো\RP_RPD ঘাট\N_NN]]_NP [[এই\DM_DMD মনোরম\JJ জলপ্রপাত\N_NN]]_NP [[সৃষ্টি\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd193	[[তীর্থগড়\N-NNP জলপ্রপাত\N_NN থেকে\PSP]]_NP [[২০\QT_QTC কিলোমিটার\N_NN দূরে\PSP]]_NP [[পুরাতাত্বিক\JJ বৈশিষ্ঠ্যপূর্ণ\JJ মন্দির\N_NN]]_NP [[চিঙ্গীতরাই\N-NNP]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd194	[[তীর্থগড়ের\N-NNP]]_NP [[সাথে\PSP সাথে\PSP]]_RBP [[চিঙ্গীতরাই\N-NNP]]_NP [[এবং\CC_CCD]]_CCP [[চন্দ্রগিরিও\N-NNP]]_NP [[ঐতিহাসিক\JJ মহত্ব\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd195	[[এটা\DM_DMD]]_NP [[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\RP_RPD]]_CCP [[,\RD_PUNC]]_BLK
+htd196	[[ওই\DM_DMR রাজ্যের\N_NN]]_NP [[রাজার\N_NN]]_NP [[দুই\QT_QTF পুত্র\N_NN]]_NP [[ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd197	[[রাজকুমার\N_NN চন্দ্রদেব\N-NNP]]_NP [[উত্তারাধিকারী\N_NN রূপে\RB]]_RBP [[চন্দ্রগিরি\N-NNP অঞ্চল\N_NN]]_NP [[পেয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd198	[[চন্দ্রগিরির\N-NNP]]_NP [[নামের\N_NN ওপর\PSP ভিত্তি\N_NN করেই\V_VM_VNF]]_VGNF [[এই\DM_DMD শহরের\N_NN নাম\N_NN]]_NP [[চন্দ্রগিরি\N-NNP]]_NP [[হয়েছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd199	[[ওর\PR_PRL ভাই\N_NN]]_NP [[তীর্থগড়ের\N-NNP]]_NP [[জায়গির\N_NN]]_NP [[পেয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd200	[[যা\PR_PRL]]_NP [[তার\PR_PRP নাম\N_NN]]_NP [[অনুযায়ী\RB]]_RBP [[তীর্থগড়\N-NNP]]_NP [[রাখা\V_VM_VNG হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd201	[[চন্দ্রগিরি\N-NNP]]_NP [[এবং\CC_CCD]]_CCP [[চিঙ্গীতরাইতে\N-NNP]]_NP [[পুরাত্ত্বিক\JJ মহত্বের\N_NN অবশিষ্ঠ\N_NN]]_VGF [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd202	[[জগদলপুর\N-NNP থেকে\PSP]]_NP [[৩০\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP [[বিশ্ববিখ্যাত\JJ কোটমসরের\N-NNP]]_NP [[প্রাকৃতিক\JJ গুহা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd203	[[বিশ্বের\N_NN]]_NP [[সবথকে\RP_INTF লম্বা\JJ]]_NP [[এই\DM_DMD গুহা\N_NN দৈঘ্যে\N_NN ৪৫০০\QT_QTC মিটার\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd204	[[চুনাপাথর\N_NN]]_NP [[ধুয়ে\V_VM_VNF]]_VGNF [[তৈরি\N_NN হওয়া\V_VM_VNG]]_VGNN [[এই\DM_DMD গুহা\N_NN]]_NP [[চুনাপাথর\N_NN]]_NP [[জমে\V_VM_VNF জমে\N_NN]]_VGNF [[সৃষ্টি\N_NN হওয়া\V_VM_VNG গঠনের\N_NN জন্য\PSP]]_NP [[বিখ্যাত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd205	[[চুনা\N_NN পাথর\N_NN]]_NP [[জমার\V_VM_VNG ফলে\PSP]]_NP [[স্টেলেগটাইট\N_NN]]_NP [[,\RD_PUNC]]_CCP [[স্টেলেগমাইট\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[ড্রপিস্টোনের\N_NN মতো\RP_RPD আকৃতি\N_NN]]_NP [[তৈরি\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd206	[[ছাদ\N_NN থেকে\PSP]]_NP [[ঝুলে\V_VM_VNF পড়া\V_VM_VNG অংশকে\N_NN]]_NP [[স্টেলেগটাইট\N_NN]]_NP [[,\RD_PUNC]]_CCP [[মাটি\N_NN থেকে\PSP]]_NP [[ওপরের\N_NST দিকে\N_NN অগ্রসর\N_NN স্তম্ভ\N_NN]]_NP [[স্টেলেগমাইট\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[মাটির\N_NN সঙ্গে\PSP মেলানো\V_VM_VNG]]_VGNN [[বড়\JJ বড়\JJ স্তম্ভকে\N_NN]]_NP [[ড্রপিস্টোন\N_NN]]_NP [[বলে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_NP
+htd207	[[ডা.\N_NN শঙ্কর\N-NNP তিওয়ারি\N_NN]]_NP [[প্রথম\QT_QTO বার\N_NN]]_RBP [[এই\DM_DMD গুহার\N_NN বর্ণণা\N_NN]]_NP [[দিয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd208	[[এই\DM_DMD গুহায়\N_NN]]_NP [[ছোট\JJ ছোট\JJ জলাধার\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd209	[[গুহার\N_NN]]_NP [[ছোট\JJ ছোট\JJ মাছেদের\N_NN]]_NP [[চোখ\N_NN]]_NP [[নেই\V_VM_VF]]_NEGP [[৷\RD_PUNC]]_BLK
+htd210	[[বহুকাল\N_NN]]_RBP [[অন্ধকারে\N_NN থাকার\V_VM_VNG ফলে\PSP]]_NP [[এদের\PR_PRL চোখের\N_NN উপযোগিতা\N_NN]]_NP [[কমে\V_VM_VNF গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd211	[[এখন\RB]]_RBP [[এই\DM_DMD মাছেরা\N_NN]]_NP [[জন্ম\N_NN থেকেই\PSP]]_NP [[অন্ধ\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd212	[[এটা\DM_DMD]]_NP [[ডারইউনের\N-NNP যুক্তিকে\N_NN]]_NP [[প্রমাণিত\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_NP
+htd213	[[কোটসমর\N-NNP থেকে\PSP]]_NP [[১৬\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP [[কৈলাশ\N-NNP গুহা\N_NN]]_NP [[আছে\V_VAUX]]_NP [[৷\RD_PUNC]]_BLK
+htd214	[[এর\DM_DMR বিশাল\JJ হল\N_NN]]_NP [[বড়\JJ বড়\JJ কোনও\DM_DMQ রাজার\N_NN দরবারের\N_NN]]_NP [[আভাস\N_NN দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd215	[[চুনা\N_NN পাথরের\N_NN]]_NP [[আকৃতি\N_NN]]_NP [[শিবলিঙ্গের\N_NN সমান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd216	[[তাই\CC_CCS]]_CCP [[এই\DM_DMD গুহার\N_NN]]_NP [[ধার্মিক\JJ গুরুত্বও\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd217	[[কৈলাশ\N-NNP গুহায়\N_NN]]_NP [[মহা\N_NN শিবরাত্রির\N_NN দিন\N_NN]]_NP [[ভক্তদের\N_NN সমাগম\N_NN]]_NP [[সব\QT_QTF সময়ই\N_NN থাকে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_NP
+htd218	[[কৈলাশ\N-NNP গুহা\N_NN]]_NP [[উচ্চতায়\N_NN ৫০\QT_QTC মিটার\N_NN]]_NP [[ও\CC_CCD]]_CCP [[দৈঘ্যে\N_NN ২৫০০\QT_QTC মিটার\N_NN লম্বা\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd219	[[কোটমসর\N-NNP থেকে\PSP]]_NP [[৪\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP [[দন্ডক\N-NNP গুহা\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd220	[[দন্ডক\N-NNP গুহাতেও\N_NN]]_NP [[কোটমসর\N-NNP গুহার\N_NN মতো\RP_RPD]]_NP [[স্টেলেগটাইট\N_NN]]_NP [[,\RD_PUNC]]_CCP [[স্টেলেগমাইট\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[ড্রপিস্টোনের\N_NN মতো\RP_RPD গঠন\N_NN]]_NP [[নিজস্ব\PR_PRF সৌন্দর্য\N_NN]]_NP [[প্রদর্শিত\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd221	[[কাঙ্গের\N-NNP ঘাটের\N_NN]]_NP [[অরণ্যক\N-NNP গুহাতে\N_NN]]_NP [[জাধরা\N-NNP ঝাঁপি\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[মকর\N-NNP কক্ষ\N_NN]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd222	[[রায়পুর\N-NNP থেকে\PSP]]_NP [[জগদলপুর\N-NNP আসার\V_VM_VNG সময়\N_NN]]_NP [[কাঙ্কের\N-NNP ঘাটের\N_NN]]_NP [[বিশালাকার\JJ গাছ\N_NN দেখে\V_VM_VNF]]_VGNF [[মনে\V_VM_VNF হয়\V_VAUX]]_VGF [[যে\RP_RPD]]_CCP [[তা\PR_PRL বস্তার\N-NNP জেলার\N_NN]]_NP [[অভ্যার্থনা\N_NN করছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd223	[[কাঙ্কের\N-NNP থেকে\PSP]]_NP [[২২\QT_QTC কিলোমিটার\N_NN আগে\PSP থেকে\PSP]]_NP [[কেশকালের\N-NNP মনোরম\JJ ঘাট\N_NN]]_NP [[শুরু\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd224	[[এই\DM_DMD মনোরম\JJ ঘাটের\N_NN]]_NP [[হেয়ার\N_NN পিন\N_NN মোড়\N_NN]]_NP [[পর্যটকদের\N_NN]]_NP [[মন\N_NN ভরিয়ে\V_VM_VNF দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd225	[[কেশকাল\N-NNP ঘাটের\N_NN শেষ\N_NN থেকে\PSP]]_NP [[দন্ডকারণ্য\N-NNP মালভূমি\N_NN]]_NP [[শুরু\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd226	[[পঞ্চবটীর\N-NNP বিশ্রামগৃহ\N_NN]]_NP [[আর\CC_CCD]]_CCP [[ওয়াচিং\N_NN টাওয়ার\N_NN থেকে\PSP]]_NP [[কেশকাল\N-NNP ঘাটের\N_NN]]_NP [[মনোরম\JJ দৃশ্য\N_NN]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd227	[[সহসা\RB]]_RBP [[বোঝা\V_VM_VNG যায়\V_VM_VF]]_VGF [[না\RP_NEG]]_NEGP [[যে\RP_RPD]]_CCP [[আমরা\PR_PRP]]_NP [[তৃণাচ্ছাদিত\JJ বিস্তীর্ণ\JJ প্রান্তরের\N_NN]]_NP [[দৃশ্য\N_NN দেখছি\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd228	[[দূর\N_NN পর্যন্ত\PSP]]_NP [[পর্বতমালা\N_NN]]_NP [[ছড়িয়ে\V_VM_VNF আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd229	[[সবুজ\JJ চাদরে\N_NN মোড়া\V_VM_VNG পৃথিবী\N_NN]]_NP [[,\RD_PUNC]]_CCP [[পাহাড়ে\N_NN মেঘরাশি\N_NN যেন\RP_RPD]]_NP [[হিমালয়\N-NNP পর্বতের\N_NN অনুভুতি\N_NN]]_NP [[মনে\V_VM_VNF করায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd230	[[বস্তারের\N-NNP]]_NP [[বাস্তবিক\JJ সীমা\N_NN]]_NP [[এখান\N_NST থেকেই\PSP]]_NP [[শুরু\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd231	[[বস্তারের\N-NNP সদর\N_NN জেলা\N_NN]]_NP [[জগদলপুর\N-NNP থেকে\PSP]]_NP [[১০৫\QT_QTC কিলোমিটার\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[বারসুর\N-NNP পৌঁছানোর\V_VM_VNG জন্য\PSP]]_NP [[গীদম\N-NNP হয়ে\V_VM_VNF]]_NP [[যেতে\V_VM_VINF হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd232	[[বারসুর\N-NNP]]_NP [[গীদম\N-NNP থেকেও\PSP]]_NP [[২২\QT_QTC কিলোমিটার\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd233	[[এখানে\N_NST]]_RBP [[গণেশের\N-NNP]]_NP [[বিশাল\JJ মূর্তি\N_NN]]_NP [[আছে\V_VAUX]]_NP [[৷\RD_PUNC]]_BLK
+htd234	[[বারসুর\N-NNP]]_NP [[নাগ\N-NNP রাজা\N_NN]]_NP [[এবং\RD_PUNC]]_CCP [[কাকতীয়\N-NNP শাসকদের\N_NN]]_NP [[রাজধাণী\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd235	[[বারসুর\N-NNP]]_NP [[একাদশ\QT_QTO]]_NP [[ও\CC_CCD]]_CCP [[দ্বাদশ\QT_QTO শতাব্দীর\N_NN]]_NP [[মন্দিরের\N_NN জন্য\PSP]]_NP [[প্রসিদ্ধ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd236	[[বারসুর\N-NNP মন্দিরের\N_NN]]_NP [[মামা-ভাগ্নে\N-NNP মন্দির\N_NN]]_NP [[মূলতঃ\RB]]_RBP [[শিব\N-NNP মন্দির\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd237	[[মামা-ভাগ্নে\N-NNP মন্দির\N_NN]]_NP [[দুই\QT_QTC গর্ভগৃহযুক্ত\N_NN মন্দির\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd238	[[মামা-ভাগ্নে\N-NNP মন্দিরের\N_NN মন্ডপ\N_NN]]_NP [[একে\PR_PRP অপরের\PR_PRF সাথে\PSP]]_NP [[জুড়ে\V_VM_VNF গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd239	[[বারসুরের\N-NNP ভগ্ন\JJ মন্দিরে\N_NN]]_NP [[মৈথুনরত\JJ প্রতিমার\N_NN বর্ণণাও\N_NN]]_NP [[পাওয়া\V_VM_VNG গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd240	[[ইতিহাতবিদ\N_NN]]_NP [[ও\CC_CCD]]_CCP [[বিখ্যাত\JJ শিক্ষক\N_NN]]_NP [[ডা.\N_NN কে.\N-NNP কে.\N-NNP ঝা`র\N-NNP মতে\RB]]_NP [[এই\DM_DMD নগর\N_NN]]_NP [[প্রাচীনকালে\RB]]_RBP [[বেবশ্বতপুর\N-NNP নামে\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd241	[[নাগরাজ\N_NN চন্দ্রাদিত্য\N-NNP]]_NP [[মন্দির\N_NN স্থাপন\N_NN করেছিলেন\V_VM_VF]]_VGF [[এবং\CC_CCD]]_CCP [[তারই\PR_PRP নামে\N_NN]]_NP [[এই\DM_DMD মন্দির\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd242	[[বত্রিশটি\QT_QTC পাথরের\N_NN ওপর\PSP দাঁড়ানো\V_VM_VNG]]_VGNN [[বত্রিশা\N-NNP মন্দির\N_NN]]_NP [[বেলে\N_NN পাথর\N_NN দিয়ে\PSP]]_NP [[তৈরি\N_NN হয়েছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd243	[[সোমেশ্বর\N-NNP দেবের\N-NNP শাসনকাল\N_NN]]_NP [[চলাকালীন\RB]]_RBP [[গুণ্ডমহাদেবী\N-NNP]]_NP [[বত্রিশা\N-NNP মন্দির\N_NN]]_NP [[নির্মাণ\N_NN করিয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd244	[[বত্রিশা\N-NNP মন্দিরে\N_NN]]_NP [[শিব\N-NNP]]_NP [[এবং\N_NN]]_CCP [[নন্দীর\N-NNP]]_NP [[সুন্দর\JJ মূর্তি\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd245	[[এক\QT_QTC হাজার\N_NN বছর\N_NN পুরানো\N_NN]]_NP [[এই\DM_DMD বত্রিশা\N-NNP মন্দিরে\N_NN]]_NP [[পাথর\N_NN]]_NP [[যথেষ্ট\RP_INTF বৈজ্ঞানিক\JJ মতে\N_NN]]_NP [[সাজানো\V_VM_VNG হয়েছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd246	[[এই\DM_DMD মন্দির\N_NN]]_NP [[আরকিওলজি\N_NN বিভাগের\N_NN]]_NP [[একটি\QT_QTC সংরক্ষিত\JJ স্মারক\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd247	[[বিশাল\JJ বেলেপাথর\N_NN দিয়ে\PSP তৈরি\N_NN]]_NP [[ভগবান\N_NN গণেশের\N-NNP মূর্তি\N_NN]]_NP [[অবাক\N_NN]]_RBP [[করে\V_VM_VNF দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd248	[[শিল্পী\JJ চোখে\N_NN]]_NP [[মামা-ভাগ্নে\N-NNP মন্দির\N_NN]]_NP [[উত্কৃষ্ট\N_NN]]_JJP [[এবং\CC_CCD]]_CCP [[দর্শনীয়\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd249	[[বস্তার\N-NNP জেলার\N_NN]]_NP [[প্রধাণ\JJ এলাকা\N_NN]]_NP [[বস্তার\N-NNP থেকে\PSP]]_NP [[জগদলপুরের\N-NNP কাছে\PSP]]_NP [[৮০\QT_QTC কিলোমিটার\N_NN দূরে\N_NN]]_NP [[ছিন্দক\N-NNP নাগবংশী\N-NNP রাজা\N_NN]]_NP [[ধারাবর্ষার\N-NNP রাণী\N_NN]]_NP [[গুণ্ডমহাদেবী\N-NNP ১১১১\QT_QTC সনে\N_NN]]_NP [[নারায়ণপালের\N-NNP বিষ্ণু\N-NNP মন্দির\N_NN]]_NP [[বানিয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd250	[[গুণ্ডমহাদেবীর\N-NNP পুত্র\N_NN]]_NP [[সোমেশ্বর\N-NNP দেব\N-NNP]]_NP [[একজন\QT_QTC প্রতাপশালী\JJ রাজা\N_NN ছিলেন\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd251	[[মন্দিরের\N_NN কাজ\N_NN]]_NP [[সমাপ্ত\N_NN হতে\V_VM_VINF হতে\V_VM_VINF]]_VGINF [[ধারাবর্ষা\N-NNP]]_NP [[এবং\CC_CCD]]_CCP [[সোমেশ্বর\N-NNP]]_NP [[প্রয়াত\N_NN হয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd252	[[এবং\CC_CCD]]_CCP [[তখন\RB গুণ্ডমহাদেবীর\N-NNP নাতি\N_NN]]_NP [[ছিন্দক\N-NNP নাগবংশী\N-NNP]]_NP [[রাজা\N_NN কন্হরের\N-NNP]]_NP [[শাসনকাল\N_NN ছিল\V_VAUX]]_NP [[৷\RD_PUNC]]_BLK
+htd253	[[গুণ্ডমহাদেবী\N-NNP]]_NP [[এবং\CC_CCD]]_CCP [[তার\PR_PRP বধূ\N_NN]]_NP [[সোমেশ্বরদেবের\N-NNP রাণীর\N_NN অভিলিখন\N_NN]]_NP [[এখানে\N_NST]]_RBP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd254	[[নারায়ণপালের\N-NNP এই\DM_DMD মন্দির\N_NN]]_NP [[পুরাতত্ত্ব\N_NN বিভাগের\N_NN]]_NP [[একটি\QT_QTF সংরক্ষিত\JJ স্মারক\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd255	[[নারায়ণপালের\N-NNP এই\DM_DMD মূর্তি\N_NN]]_NP [[ছিন্দক\N-NNP নাগবংশী\N-NNP শাসনকাল\N_NN সম্বন্ধে\PSP]]_NP [[তথ্য\N_NN লাভ\N_NN করার\V_VM_VNG]]_VGNN [[একটি\QT_QTC বিশেষ\JJ উত্সও\N_NN বটে\RP_RPD]]_NP [[৷\RD_PUNC]]_BLK
+htd256	[[শাঙ্খনী\N-NNP]]_NP [[এবং\CC_CCD]]_CCP [[ডাঙ্কনী\N-NNP নদীর\N_NN সঙ্গমস্থলে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[দণ্তেওয়াড়া\N-NNP]]_NP [[জগদলপুর\N-NNP থেকে\PSP]]_NP [[৮৫\QT_QTC কিলোমিটার\N_NN দূরে\PSP]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd257	[[এখানে\N_NST]]_RBP [[বস্তারের\N-NNP আরাধ্য\JJ দেবী\N_NN]]_NP [[মা\N_NN দন্তেশ্বরী\N-NNP দেবীর\N_NN]]_NP [[প্রাচীন\JJ মন্দির\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd258	[[দন্তেশ্বরী\N-NNP দেবী\N_NN]]_NP [[বস্তারের\N-NNP বসবাসকারীদের\N_NN]]_NP [[আস্থার\N_NN প্রতীক\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd259	[[দশেরার\N-NNP সময়\N_NN]]_NP [[দেশ\N_NN বিদেশ\N_NN থেকে\PSP]]_NP [[পর্যটক\N_NN]]_NP [[বস্তারে\N-NNP]]_NP [[আসেন\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd260	[[পায়ে\V_VM_VNF হেঁটে\V_VM_VNF আসা\V_VM_VNG]]_VGNN [[ভক্তদের\N_NN জন্য\PSP]]_NP [[বিভিন্ন\JJ স্বয়ংসেবা\JJ সংস্থা\N_NN]]_NP [[বিনামূল্যে\N_NN আহার\N_NN]]_NP [[,\RD_PUNC]]_CCP [[প্রাতরাশ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[থাকা\N_NN]]_CCP [[এবং\CC_CCD]]_CCP [[চিকিত্সার\N_NN সুবিধা\N_NN]]_NP [[রেখেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd261	[[বস্তারে\N-NNP]]_NP [[মা\N_NN দন্তেশ্বরী\N-NNP ছাড়াও\PSP]]_NP [[শিব\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[গণেশ\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[বিষ্ণু\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[সূর্য\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[ভৈরবের\N-NNP মূর্তিও\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd262	[[পুরাতাত্ত্বিক\JJ দৃষ্টিভঙ্গি\N_NN থেকেও\PSP]]_NP [[এই\DM_DMD মূর্তির\N_NN]]_NP [[যথেষ্ট\RP_INTF মহত্ব\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd263	[[বৈলাডিলাতে\N-NNP]]_NP [[লৌহ\JJ আকরিক\N_NN খননের\N_NN দৃশ্য\N_NN দেখলেও\V_VM_VNF]]_VGNF [[অদ্ভূত\JJ অনুভূতি\N_NN]]_NP [[হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd264	[[বচেলি\N-NNP]]_NP [[এবং\CC_CCD]]_CCP [[কিরঙদুলে\N-NNP]]_NP [[এন.এম.ডি.সি`র\N-NNP খনি\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd265	[[বৈলাডিলাতে\N-NNP]]_NP [[গেস্ট\N_NN হাউসে\N_NN]]_NP [[থাকা\V_VM_VNG যায়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd266	[[বৈলাডিলাতে\N-NNP]]_NP [[লোহা\N_NN ধাতু\N_NN খনি\N_NN দেখতে\V_VM_VINF]]_VGINF [[অনুমতি\N_NN নেওয়া\V_VM_VNG]]_VGNN [[জরুরি\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd267	[[বচেলির\N-NNP খনি\N_NN]]_NP [[টাউনশিপ\N_NN থেকে\PSP]]_NP [[২৫\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd268	[[বচেলির\N-NNP লোহা\N_NN]]_NP [[ভাল\N_NN গ্রেডের\N_NN]]_NP [[মনে\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd269	[[বচেলির\N-NNP আকরিকে\N_NN]]_NP [[লোহা\N_NN]]_NP [[৮৬\QT_QTC শতাংশ\N_NN]]_NP [[থাকে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd270	[[কে.কে\N-NNP রেলওয়ে\N_NN লাইন\N_NN]]_NP [[(\RD_PUNC]]_BLK [[কোত্সাবল্য\N-NNP থেকে\PSP]]_NP [[কিরন্দুল\N-NNP]]_NP [[)\RD_PUNC]]_BLK
+htd271	[[কে.কে.রেলওয়ে\N-NNP লাইনে\N_NN]]_NP [[প্যাসেঞ্জারে\N_NN সফর\N_NN করা\V_VM_VNG]]_VGNN [[একটা\QT_QTC রোমাঞ্চকর\JJ অনুভুতি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd272	[[রাস্তায়\N_NN ঘন\JJ জঙ্গল\N_NN]]_NP [[এবং\CC_CCD]]_NP [[গগনচুম্বী\JJ পাহাড়ের\N_NN মধ্যে\PSP দিয়ে\PSP]]_NP [[যাওয়া\V_VM_VNG ট্রেন\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ইউ-টার্ন\N_NN নেওয়া\V_VM_VNG ট্রেন\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[মেঘের\N_NN মাঝখান\N_NN দিয়ে\PSP]]_NP [[উঁকি\N_NN দেওয়া\V_VM_VNG পাহাড়ের\N_NN]]_NP [[মনোরম\JJ দৃশ্য\N_NN]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd273	[[যেই\CC_CCS]]_CCP [[প্রাকৃতিক\JJ বৈচিত্র\N_NN]]_NP [[বস্তারে\N-NNP দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[তা\CC_CCS]]_CCP [[আর\CC_CCD অন্য\JJ কোথাও\DM_DMQ]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[না\RP_NEG]]_VGF [[৷\RD_PUNC]]_BLK
+htd274	[[বস্তারের\N-NNP রোমাঞ্চকর\JJ সফরে\N_NN]]_NP [[এশিয়ার\N-NNP সবথেকে\RP_INTF উঁচু\JJ]]_NP [[ব্রড\N_NN গেজ\N_NN রেলওয়ে\N_NN স্টেশন\N_NN]]_NP [[শিমলিগুড়া\N-NNP]]_NP [[পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd275	[[সারা\QT_QTF রাস্তায়\N_NN]]_NP [[রসভরা\JJ তাড়ি\N_NN]]_NP [[(\RD_PUNC]]_BLK [[তাল\N_NN]]_NP [[বা\CC_CCD]]_CCP [[খেজুর\N_NN]]_NP [[)\RD_PUNC]]_BLK [[ফলবিক্রেতা\N_NN]]_NP [[দেখা\RD_PUNC যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd276	[[রসভরা\JJ তাড়ি\N_NN]]_NP [[(\RD_PUNC]]_CCP [[তাল\N_NN]]_NP [[বা\CC_CCD]]_BLK [[খেজুর\N_NN]]_NP [[)\RD_PUNC]]_BLK [[ফল\N_NN খেতে\V_VM_VINF]]_VGINF [[ভাল\N_NN]]_RBP [[লাগে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd277	[[এই\DM_DMD রোমাঞ্চকর\JJ সফরে\N_NN]]_NP [[ইলেক্ট্রিক\JJ ইঞ্জিনে\N_NN চলা\V_VM_VNG ট্রেন\N_NN]]_NP [[৮৪টি\QT_QTC সুড়ঙ্গের\N_NN]]_NP [[(\RD_PUNC]]_NP [[টানেল\N_NN]]_NP [[)\RD_PUNC]]_BLK [[ভিতর\N_NST দিয়ে\PSP]]_NP [[চলে\V_VM_VF]]_BLK [[৷\RD_PUNC]]_BLK
+htd278	[[কে.কে.\N-NNP লাইন\N_NN]]_NP [[৫০\QT_QTC থেকে\PSP ৯০০\QT_QTC মিটার\N_NN]]_NP [[লম্বা\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd279	[[জাপানিরা\N-NNP]]_NP [[বৈলাডিলার\N-NNP লোহা\N_NN খনি\N_NN থেকে\PSP]]_NP [[বিশাখাপত্তনম\N-NNP হয়ে\V_VM_VNF]]_NP [[জাপান\N-NNP নিয়ে\PSP যাওয়ার\V_VM_VNG জন্য\PSP]]_NP [[কে.কে.\N-NNP লাইনের\N_NN]]_NP [[নির্মাণ\N_NN করেছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd280	[[বিশাখাপত্তনম\N-NNP থেকে\PSP]]_NP [[লোহা\N_NN]]_NP [[জলে\N_NN জাহাজে\N_NN করে\V_VM_VNF]]_VGNF [[জাপানে\N-NNP]]_NP [[নিয়ে\PSP যাওয়া\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd281	[[কে.কে.\N-NNP লাইনের\N_NN সফরে\N_NN]]_NP [[খাওয়া\V_VM_VNG -\RD_PUNC দাওয়ার\RD_ECH সামগ্রী\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[না\RP_NEG]]_NEGP [[৷\RD_PUNC]]_BLK
+htd282	[[তাই\CC_CCS]]_CCP [[যদি\PSP]]_CCP [[এই\DM_DMD সফরের\N_NN]]_NP [[আনন্দ\N_NN নিতে\V_VM_VINF হয়\V_VAUX]]_VGF [[তাহলে\CC_CCS]]_CCP [[যথেষ্ট\RP_INTF পরিমাণ\N_NN খাদ্য\N_NN সামগ্রী\N_NN]]_NP [[সাথে\PSP নিয়ে\PSP যাওযা\V_VM_VNG]]_VGNN [[উচিত\RB]]_RBP [[৷\RD_PUNC]]_BLK
+htd283	[[বিগত\RB ৪০\QT_QTC বছর\N_NN ধরে\V_VM_VNF]]_VGNF [[কে.কে.\N-NNP লাইন\N_NN]]_NP [[লোহ\N_NN আকরিকের\N_NN]]_NP [[পরিবহণ\N_NN করছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd284	[[সেই\DM_DMR জন্য\PSP]]_CCP [[প্রতিদিন\RB]]_RBP [[১৬টি\QT_QTC মালগাড়ি\N_NN]]_NP [[কে.কে.\N-NNP লাইনে\N_NN]]_NP [[প্রতিদিন\RB]]_RBP [[চলে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd285	[[৫২৫\QT_QTC কিলোমিটার\N_NN লম্বা\N_NN]]_NP [[এই\DM_DMD কে.কে.\N-NNP রেলওয়ে\N_NN লাইন\N_NN দিয়ে\PSP]]_NP [[লোহা\N_NN]]_NP [[পরিবহণ\N_NN করে\V_VM_VNF]]_VGNF [[প্রতি\JJ বছর\N_NN রেলওয়ের\N_NN]]_NP [[প্রায়\RB]]_RBP [[৮\QT_QTC বিলিয়ন\N_NN ডলার\N_NN]]_NP [[লাভ\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd286	[[জগদলপুর\N-NNP থেকে\PSP]]_NP [[৪০\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP [[বিশ্ববিখ্যাত\JJ চিত্রকোট\N-NNP জলপ্রপাত\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd287	[[চিত্রকোটে\N-NNP]]_NP [[ইন্দ্রবতী\N-NNP নদী\N_NN]]_NP [[বিশাল\JJ এলাকায়\N_NN ছড়িয়ে\V_VM_VNF পড়ে\V_VM_VNF]]_VGNF [[এই\DM_DMD মনোরম\JJ জলপ্রপাত\N_NN]]_NP [[তৈরি\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd288	[[চিত্রকোট\N-NNP জলপ্রপাতকে\N_NN]]_NP [[বস্তারের\N-NNP নায়াগ্রা\N-NNP ফলস্\N-NNP]]_NP [[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd289	[[ফ্লাড\N_NN লাইটে\N_NN জলপ্রপাত\N_NN দেখার\V_VM_VNG দৃশ্য\N_NN]]_NP [[একটি\QT_QTC সম্পূর্ণ\QT_QTF আলাদা\JJ অনুভূতি\N_NN]]_NP [[প্রদান\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd290	[[সম্পূর্ণ\QT_QTF সুবিধাসম্পন্ন\JJ পর্যটন\N_NN বিভাগের\N_NN]]_NP [[হাটে\N_NN থাকার\V_VM_VNG]]_VGNN [[আনন্দই\N_NN]]_NP [[আলাদা\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd291	[[চিত্রকোট\N-NNP জলপ্রপাত\N_NN থেকে\PSP]]_NP [[১০\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP [[তামড়াঘুমড়\N-NNP জলপ্রপাত\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd292	[[তামড়াঘুমড়\N-NNP জলপ্রপাত\N_NN থেকে\PSP]]_NP [[একটা\QT_QTC ছোটো\JJ নদী\N_NN]]_NP [[সোজা\N_NN]]_RBP [[প্রায়\RB]]_RBP [[১০০\QT_QTC ফিট\N_NN ওপর\N_NST থেকে\PSP]]_NP [[নিচের\N_NST দিকে\PSP পড়ে\V_VM_VNF]]_VGNF [[একটা\QT_QTC মনোরম\JJ জলপ্রপাত\N_NN]]_NP [[তৈরি\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd293	[[ঝরনাটা\N_NN]]_NP [[নিচে\N_NST নেমে\N_NN দেখতে\V_VM_VINF]]_VGINF [[ভালো\N_NN]]_RBP [[লাগে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd294	[[নিচে\N_NST নামার\V_VM_VNG রাস্তা\N_NN]]_NP [[দুর্গম\N_NN হওয়ার\V_VM_VNG ফলে\PSP]]_NP [[যথেষ্ট\RP_INTF সর্তক\N_NN থাকা\V_VM_VNG]]_VGNN [[প্রয়োজন\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd295	[[জগদলপুরের\N-NNP হৃদয়ে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[একটা\QT_QTC সুন্দর\JJ জায়গা\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd296	[[এখানে\N_NST]]_RBP [[বাচ্চাদের\N_NN জন্য\PSP]]_NP [[শিশু\N_NN উদ্যান\N_NN]]_NP [[আর\CC_CCD]]_CCP [[রেলগাড়ির\N_NN]]_NP [[ব্যবস্থা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd297	[[এর\DM_DMR সাথে\PSP]]_NP [[একটা\QT_QTC বিশাল\JJ স্কেটিং\N_NN -\RD_PUNC রিং\N_NN আছে\V_VAUX]]_VGF [[যা\PR_PRL যুবকদের\N_NN আকর্ষিত\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd298	[[সুন্দর\JJ লন\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[পুষ্প\N_NN উদ্যান\N_NN]]_NP [[পর্যটকদের\N_NN]]_NP [[মন\N_NN ভরিয়ে\V_VM_VNF দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd299	[[কাকতীয়\N-NNP বংশের\N_NN মহারাজ\N_NN]]_NP [[পুরূষোত্তম\N-NNP দেবের\N_NN তৈরি\N_NN এই\DM_DMD জলাশয়\N_NN]]_NP [[ছত্তিশগড়ের\N-NNP]]_NP [[সবথেকে\RP_INTF বড়\JJ জলাশয়\N_NN হওয়ার\V_VM_VNG জন্য\PSP]]_NP [[গর্বিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd300	[[প্রাত\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[সন্ধ্যা\N_NN ভ্রমণের\N_NN জন্য\PSP]]_NP [[এটা\DM_DMD উপযুক্ত\JJ স্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd301	[[জলাশয়ের\N_NN মধ্যে\PSP অবস্থিত\N_NN]]_NP [[আইল্যান্ডে\N_NN]]_NP [[মোটরবোটের\N_NN]]_NP [[সাথে\PSP সাথে\PSP]]_RBP [[প্যাডেলবোট\N_NN চালানোরও\V_VM_VNG]]_VGNN [[সুবিধা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd302	[[আইল্যান্ডে\N_NN লাগানো\V_VM_VNG]]_VGNN [[বায়ুচক্রও\N_NN]]_NP [[আকর্ষক\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd303	[[বস্তারের\N-NNP রাজমহলের\N_NN প্রধাণ\JJ দ্বারে\N_NN]]_NP [[বস্তারের\N-NNP আরাধ্য\JJ দেবী\N_NN]]_NP [[মা\N_NN দন্তেশ্বরীর\N-NNP মন্দির\N_NN]]_NP [[আছে\V_VAUX]]_BLK [[৷\RD_PUNC]]_BLK
+htd304	[[মন্দিরের\N_NN]]_NP [[সাথে\PSP সাথে\PSP]]_RBP [[দশেরার\N_NN সময়ে\N_NN চালানো\V_VM_VNG বিশাল\JJ রথও\N_NN]]_NP [[এই\DM_DMD দ্বারে\N_NN]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd305	[[দন্তেশ্বরী\N-NNP মন্দিরের\N_NN সামনে\N_NST]]_NP [[বস্তারের\N-NNP]]_NP [[কাকতীয়\N-NNP বংশের\N_NN অন্তিম\JJ মহারাজ\N_NN]]_NP [[প্রবীরচন্দ্র\N-NNP ভঞ্জদেবের\N-NNP মূর্তি\N_NN]]_NP [[বস্তারবাসীদের\N-NNP আস্থার\N_NN প্রতীক\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd306	[[ধরমপুরা\N-NNP রোডে\N_NN]]_NP [[ভগবান\N_NN বালাজির\N-NNP]]_NP [[চমত্কার\JJ মন্দির\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd307	[[ধরণপুরা\N-NNP রোডের\N_NN বালাজির\N-NNP মন্দিরে\N_NN]]_NP [[শুধুমাত্র\RB]]_RBP [[রাজ্যের\N_NN লোকই\N_NN]]_NP [[নয়\V_VAUX]]_NEGP [[,\RD_PUNC]]_BLK [[বরং\CC_CCS]]_CCP [[দেশের\N_NN অন্যান্য\JJ অংশের\N_NN ভক্তরাও\N_NN]]_NP [[দর্শন\N_NN করতে\V_VM_VINF আসেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd308	[[কেরলের\N-NNP প্রান্তও\N_NN]]_NP [[পর্যটকদের\N_NN মধ্যে\PSP]]_NP [[যথেষ্ট\RP_INTF জনপ্রিয়\N_NN]]_JJP [[,\RD_PUNC]]_BLK
+htd309	[[এই\DM_DMD জন্য\PSP]]_CCP [[কেরলকে\N-NNP `\RD_PUNC God`s\RD_RDF Own\RD_RDF Country\RD_RDF]]_NP [[`\RD_PUNC]]_BLK [[অর্থাত্\CC_CCS]]_CCP [[`\RD_PUNC]]_BLK [[ঈশ্বরের\N_NN নিজের\PR_PRF ঘর\N_NN `\RD_PUNC নামে\N_NN]]_NP [[অভিহিত\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd310	[[কেরলে\N-NNP]]_NP [[অনেক\QT_QTF ধরণের\RB দর্শনীয়\JJ স্থান\N_NN]]_NP [[আছে\V_VAUX]]_BLK [[৷\RD_PUNC]]_BLK
+htd311	[[কেরলের\N-NNP বিবিধ\QT_QTF দর্শনীয়\JJ স্থলের\N_NN মধ্যে\PSP]]_NP [[পড়ে\V_VM_VNF]]_VGNF [[–\RD_PUNC]]_BLK [[পাহাড়ি\JJ খাড়ি\N_NN]]_NP [[,\RD_PUNC]]_BLK [[সমুদ্র\N_NN তট\N_NN অঞ্চল\N_NN]]_NP [[,\RD_PUNC]]_BLK [[অরণ্য\N_NN অঞ্চল\N_NN]]_NP [[,\RD_PUNC]]_BLK [[তীর্থ\N_NN ক্ষেত্র\N_NN ইত্যাদি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd312	[[এই\DM_DMD জায়গায়\N_NN]]_NP [[দেশ\N_NN -\RD_PUNC বিদেশের\N_NN অসংখ্য\QT_QTF পর্যটক\N_NN]]_NP [[ভ্রমণার্থে\N_NN আসেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd313	[[মুন্নার\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[নেল্লিয়াংপতি\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[পোন্মুটি\N-NNP ইত্যাদি\N_NN পাহাড়ি\JJ এলাকা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কোবালম\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[বর্কলা\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[চেরাই\N-NNP ইত্যাদি\N_NN সমুদ্র\N_NN তট\N_NN]]_NP [[,\RD_PUNC]]_CCP [[পেরিয়ার\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[ইরবিকুট্টম\N-NNP ইত্যাদি\N_NN বন্য\JJ পশু\N_NN অঞ্চল\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কোল্লম\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[আলপ্পুয়া\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[কোট্টয়ম\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[এর্ণাকুলাম\N-NNP ইত্যাদি\N_NN প্রধাণ\JJ অঞ্চল\N_NN ইত্যাদি\N_NN]]_NP [[পর্যটকদের\N_NN জন্য\PSP]]_NP [[বিশেষ\JJ আকর্ষণীয়\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd314	[[ভারতীয়\JJ চিকিত্সা\N_NN পদ্ধতি\N_NN -\RD_PUNC আর্য়ুবেদেরও\N_NN]]_NP [[পর্যটন\N_NN অঞ্চলে\N_NN]]_NP [[যথেষ্ট\RP_INTF গুরুত্বপূর্ণ\JJ ভুমিকা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd315	[[রাজ্যের\N_NN আর্থিক\JJ ব্যবস্থতেও\N_NN]]_NP [[পর্যটন\N_NN]]_NP [[যথেষ্ট\RP_INTF গুরুত্বপূর্ণ\JJ ভূমিকা\N_NN]]_NP [[পালন\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd316	[[ভারতের\N-NNP কেন্দ্রশাসিত\JJ প্রদেশে\N_NN]]_NP [[দামন\N-NNP আর\CC_CCD দিউও\N-NNP]]_NP [[পড়ে\V_VM_VNF]]_VGF [[৷\RD_PUNC]]_BLK
+htd317	[[আরব\N-NNP সাগরের\N-NNP অপার\JJ -\RD_PUNC অগাধ\JJ জলরাশি\N_NN]]_NP [[এই\DM_DMD অঞ্চলকে\N_NN]]_NP [[ব্যবসা\N_NN আর\CC_CCD পর্যটনের\N_NN বিশেষ\JJ কেন্দ্র\N_NN]]_NP [[বানিয়ে\V_VM_VNF দিয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd318	[[দামন\N-NNP আর\CC_CCD দিউ`তে\N-NNP]]_NP [[অনেক\QT_QTF ছোট\JJ ছোট\JJ দ্বীপ\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd319	[[প্রাকৃতিক\JJ সৌন্দর্য\N_NN]]_NP [[,\RD_PUNC]]_CCP [[বিবিধ\JJ সংস্কৃতির\N_NN মেলবন্ধন\N_NN]]_NP [[আর\CC_CCD]]_CCP [[সুন্দর\JJ সমুদ্র\N_NN তট\N_NN]]_NP [[দামন\N-NNP আর\CC_CCD দিউকে\N-NNP অসীম\JJ সৌন্দর্য\N_NN দিয়ে\PSP]]_NP [[ভরিয়ে\V_VM_VNF দিয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd320	[[গুজরাত\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[মহারাষ্ট্র\N-NNP]]_NP [[রাজ্যের\N_NN কাছে\PSP অবস্থিত\N_NN হওয়ার\V_VM_VNG ফলে\PSP]]_NP [[এখানকার\N_NST পর্যটন\N_NN]]_NP [[ফুলে\V_VM_VNF -\RD_PUNC ফেঁপে\V_VM_VNF ওঠার\V_VM_VNG]]_VGNN [[সুযোগ\N_NN পেয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd321	[[অনেক\QT_QTF কাল\N_NN]]_RBP [[দামন\N-NNP আর\CC_CCD দিউতে\N-NNP]]_NP [[পর্তুগিজদের\N-NNP]]_NP [[শাসন\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd322	[[তারপর\RB]]_RBP [[পর্তুগিজদের\N-NNP থেকে\PSP]]_NP [[মুক্তি\N_NN পেয়ে\V_VM_VNF]]_VGNF [[দামন\N-NNP আর\CC_CCD দিউকে\N-NNP]]_NP [[গোয়ার\N-NNP সাথে\PSP]]_NP [[এক\QT_QTC করে\V_VM_VNF দেওয়া\V_VM_VNG হয়েছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd323	[[১৯৮৭\QT_QTC সালে\N_NN দামন\N-NNP আর\CC_CCD দিউকে\N-NNP]]_NP [[কেন্দ্রশাসিত\JJ প্রদেশের\N_NN]]_NP [[পদমর্যাদা\N_NN দেওয়া\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd324	[[ভারতের\N-NNP বিখ্যাত\JJ ব্যবসায়িক\JJ ক্ন্দ্রে\N_NN]]_NP [[মুম্বই\N-NNP থেকে\PSP ১৯৩\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP [[দামন\N-NNP আর\CC_CCD দিউ\N-NNP]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd325	[[দামন\N-NNP]]_NP [[পূর্বে\N_NN গুজরাত\N-NNP রাজ্য\N_NN]]_NP [[ও\CC_CCD]]_CCP [[পশ্চিমে\N_NN আরব\N-NNP সাগরের\N-NNP সাথে\PSP]]_NP [[যুক্ত\V_VM_VF]]_JJP [[৷\RD_PUNC]]_BLK
+htd326	[[দামনের\N-NNP]]_NP [[উত্তরদিকে\N_NN `\RD_PUNC কোলাক\N-NNP `\RD_PUNC]]_NP [[ও\CC_CCD]]_BLK [[দক্ষিণে\N_NN `\RD_PUNC কলাই\N-NNP `\RD_PUNC নদী\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd327	[[দামনের\N-NNP]]_NP [[প্রতিবেশী\V_VAUX জেলা\N_NN হল\V_VAUX]]_VGF [[গুজরাতের\N-NNP বলসার\N-NNP জেলা\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd328	[[দিউ\N-NNP হল\V_VAUX ভারতের\N-NNP এমন\DM_DMR একটা\QT_QTC দ্বীপ\N_NN]]_NP [[যা\PR_PRL দুটি\QT_QTC পুল\N_NN দিয়ে\PSP]]_NP [[জোড়া\N_NN রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd329	[[দিউ\N-NNP]]_NP [[গুজরাতের\N-NNP জুনাগড়\N-NNP জেলার\N_NN সাথে\PSP]]_NP [[যুক্ত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd330	[[দমন\N-NNP দুটি\QT_QTC ভাগ\N_NN]]_NP [[তথা\RP_RPD]]_CCP [[`\RD_PUNC]]_BLK [[মোটি\N-NNP দামন\N-NNP]]_NP [[`\RD_PUNC]]_BLK [[আর\CC_CCD]]_CCP [[`\RD_PUNC]]_BLK [[নানি\N-NNP দমনে\N-NNP]]_NP [[`\RD_PUNC]]_BLK [[বিভক্ত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd331	[[দমনগঙ্গা\N-NNP নদী\N_NN]]_NP [[দমনকে\N-NNP]]_NP [[দুটি\QT_QTC ভাগে\N_NN]]_NP [[বিভক্ত\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd332	[[মোটি\N-NNP দামনে\N-NNP]]_NP [[বেশ\RP_NEG কয়েকটি\QT_QTF পুরানো\JJ চার্চ\N_NN আছে\V_VAUX]]_VGF [[যার\PR_PRL মধ্যে\PSP `\RD_PUNC জেসাস\N-NNP ক্যাথিড্রাল\N-NNP]]_NP `\RD_PUNC [[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd333	[[দামনের\N-NNP চার্চের\N_NN দেওয়ালে\N_NN করা\JJ]]_NP [[ত্রাণকর্তা\JJ যিশুখ্রিষ্টের\N-NNP জীবনের\N_NN সম্পর্কিত\N_NN সুন্দর\JJ চিত্রশিল্প\N_NN]]_NP [[আর\CC_CCD]]_CCP [[মহিলার\N_NN অপরূপ\RP_INTF সুন্দর\JJ নক্সা\N_NN]]_NP [[পর্যটকদের\N_NN]]_NP [[এখানে\N_NST]]_RBP [[টেনে\V_VM_VNF আনে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd334	[[নানি\N-NNP দমনের\N-NNP]]_NP [[প্রধাণ\JJ আকর্ষণ\N_NN হল\V_VAUX]]_VGF [[সেন্ট\N-NNP জোরামের\N-NNP কেল্লা\N_NN]]_NP [[৷\V_VAUX]]_BLK
+htd335	[[দমনের\N-NNP জোরাম\N-NNP কেল্লা\N_NN]]_NP [[মোগল\N-NNP আক্রমণের\N_NN হাত\N_NN থেকে\PSP]]_NP [[বাঁচার\V_VM_VNG জন্য\PSP]]_NP [[তৈরি\N_NN করা\V_VM_VNG হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd336	[[এছাড়াও\PSP অন্যান্য\QT_QTF পর্যটন\N_NN আকর্ষণের\N_NN মধ্যে\PSP পড়ে\V_VM_VNF]]_NP [[জিসাস\N-NNP চার্চ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[আওয়ার\N-NNP লেডি\N-NNP অফ\N-NNP সি\N-NNP চার্চ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[আওয়ার\N-NNP লেডি\N-NNP অফ\N-NNP রেমেডিজ\N-NNP চার্চ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[পারগোলা\N-NNP গার্ডেন\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[অ্যামিউজমেন্ট\N-NNP পার্ক\N_NN]]_NP [[,\RD_PUNC]]_CCP [[দমনগঙ্গা\N-NNP টুরিস্ট\N_NN কমপ্লেক্স\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কাচিগাম\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[সত্য\N-NNP সাগর\N-NNP উদ্যান\N_NN মিরাসোল\N-NNP গার্ডেন\N_NN]]_NP [[,\RD_PUNC]]_CCP [[মিরাসোল\N-NNP ওয়াটার\N_NN পার্ক\N_NN ইত্যাদি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd337	[[দামনের\N-NNP মাটি\N_NN ছুঁয়ে\V_VM_VNF যাওয়া\V_VM_VNG আরব\N-NNP সাগর\N-NNP]]_NP [[দামনকে\N-NNP অপরিসীম\RP_INTF প্রাকৃতিক\JJ সৌন্দর্য\N_NN]]_NP [[আর\CC_CCD]]_CCP [[শ্যামলিমা\N_NN]]_NP [[প্রদান\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd338	[[দামনে\N-NNP দুটো\QT_QTC বিচ\N_NN]]_NP [[দেবিকা\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[জামপোরে\N-NNP বিচ\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd339	[[দেবিকা\N-NNP বিচ\N_NN]]_NP [[দামন\N-NNP থেকে\PSP পাঁচ\QT_QTC কিলোমিটার\N_NN উত্তরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd340	[[দেবিকা\N-NNP বিচ\N_NN বাচ্চাদের\N_NN খুবই\RP_INTF প্রিয়\N_NN]]_NP [[কারণ\N_NN]]_CCP [[এখানে\N_NST]]_RBP [[বাচ্চাদের\N_NN জন্য\PSP পার্ক\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[অন্যান্য\JJ সুবিধা\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd341	[[নানি\N-NNP দমনে\N-NNP]]_NP [[অবস্থিত\N_NN]]_JJP [[জামপোরে\N-NNP বিচ\N_NN]]_NP [[দমনের\N-NNP একটি\QT_QTC প্রসিদ্ধ\JJ পিকনিক\N_NN স্পটও\N_NN বটে\CC_CCS]]_NP [[৷\RD_PUNC]]_BLK
+htd342	[[জামপোরে\N-NNP বিচের\N_NN শান্ত\JJ বাতাবরণ\N_NN]]_NP [[প্রেমিকদের\N_NN]]_NP [[কাছে\PSP টেনে\V_VM_VNF আনে\V_VM_VF]]_VGF [[৷\RD_UNK]]_BLK
+htd343	[[জামপোরে\N-NNP বিচের\N_NN শান্ত\N_NN পরিবেশের\N_NN জন্য\PSP]]_NP [[অধিকাংশ\QT_QTF যুগলই\N_NN]]_NP [[এখানে\N_NST]]_RBP [[স্বাধীঁণতার\N_NN খোঁজে\V_VM_VNF আসেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd344	[[সাঁতারের\N_NN জন্যও\PSP]]_NP [[জামপোরে\N-NNP বিচ\N_NN]]_NP [[খুবই\RP_INTF ভালো\JJ জায়গা\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd345	[[দিউতে\N-NNP]]_NP [[কি\DM_DMQ আছে\V_VAUX]]_VGF [[?\RD_PUNC]]_BLK
+htd346	[[সেন্ট\N-NNP পল\N-NNP চার্চ\N_NN]]_NP [[,\RD_PUNC]]_BLK [[দিউ\N-NNP ফোর্ট\N_NN]]_NP [[,\RD_PUNC]]_CCP [[পনীকোটা\N-NNP ফোর্ট\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ঘোঘলা\N-NNP বিচ\N_NN]]_NP [[,\RD_PUNC]]_NP [[চিল্ড্রনস\N-NNP পার্ক\N_NN]]_NP [[আর\CC_CCD]]_CCP [[সামার\N-NNP হাউস\N-NNP]]_NP [[দিউয়ের\N-NNP প্রধাণ\JJ পর্যটন\N_NN স্থল\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd347	[[নগোয়া\N-NNP বিচ\N_NN হল\V_VAUX]]_NP [[দিউয়ের\N-NNP]]_NP [[খুবই\RP_INTF সুন্দর\JJ একটি\QT_QTC বিচ\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd348	[[দিউ\N-NNP থেকে\PSP]]_NP [[২০\QT_QTC মিনিট\N_NN ড্রাইভ\N_NN করে\V_VM_VNF]]_VGNF [[আপনি\PR_PRP]]_NP [[সহজেই\RB]]_RBP [[নগোয়া\JJ দ্বীপে\N_NN]]_NP [[পৌঁছাতে\V_VM_VINF পারেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd349	[[জুতোর\N_NN আকারের\N_NN সমান\N_NN হওয়ার\V_VM_VNG ফলে\PSP]]_NP [[২\QT_QTC কিলোমিটার\N_NN পর্যন্ত\PSP ছড়ানো\V_VM_VNG নগোয়া\N-NNP দ্বীপ\N_NN]]_NP [[এখন\RB]]_RBP [[পর্যটকেদের\N_NN]]_NP [[প্রথম\QT_QTO পছন্দ\N_NN হয়ে\V_VM_VNF দাঁড়িয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd350	[[চক্রতীর্থ\N-NNP দ্বীপ\N_NN]]_NP [[শ্যামলিমার\N_NN সৌন্দর্যে\N_NN ভরপুর\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd351	[[চক্রতীর্থের\N-NNP আশেপাশে\N_NST]]_NP [[অবস্থিত\N_NN]]_JJP [[সুন্দর\JJ বাগান\N_NN]]_NP [[,\RD_PUNC]]_CCP [[খোলা\JJ স্টেডিয়াম\N_NN]]_NP [[পর্যটকদের\N_NN জন্য\PSP]]_NP [[ফুল\N_NN এনজয়মেন্টের\N_NN জায়গা\N_NN]]_NP [[বানানো\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd352	[[কখন\RB]]_RBP [[দামন\N-NNP আর\CC_CCD দিউ\N-NNP]]_NP [[যাবেন\V_VM_VF]]_VGF [[?\RD_PUNC]]_BLK
+htd353	[[যদিও\CC_CCS]]_CCP [[দামন\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[দিউয়ের\N-NNP]]_NP [[জলবায়ু\N_NN]]_NP [[সারা\QT_QTF বছর\N_NN]]_NP [[পর্যটকদের\N_NN]]_NP [[আকর্ষণ\N_NN করে\V_VM_VINF]]_VGF [[কিন্তু\CC_CCS]]_CCP [[এখানে\N_NST]]_RBP [[আসার\V_VM_VNG]]_VGNN [[উপযুক্ত\JJ সময়\N_NN]]_NP [[অক্টোম্বর\N_NN মাস\N_NN পর্যন্ত\PSP]]_NP [[হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd354	[[কিভাবে\RB]]_RBP [[দামন\N-NNP আর\CC_CCD দিউ\N-NNP]]_NP [[যাবেন\V_VM_VF]]_VGF [[?\RD_PUNC]]_BLK
+htd355	[[দামনে\N-NNP]]_NP [[১৯১\QT_QTC কিলোমিটার\N_NN সড়কপথ\N_NN আছে\V_VAUX]]_VGF [[ও\CC_CCS]]_CCP [[দিউতে\N-NNP]]_NP [[৭৮\QT_QTC কিলোমিটার\N_NN পর্যন্ত\PSP লম্বা\JJ সড়কপথ\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd356	[[দামন\N-NNP]]_NP [[পশ্চিম\N_NN রেলওয়ের\N_NN দিল্লী\N-NNP -\RD_PUNC মুম্বই\N-NNP লাইনে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd357	[[দামনের\N-NNP নিকটবর্তী\JJ রেলওয়ে\N_NN স্টেশন\N_NN]]_NP [[হল\V_VAUX]]_VGF [[গুজরাতের\N-NNP `\RD_PUNC ওয়াপি\N-NNP `\RD_PUNC]]_NP [[৷\RD_PUNC]]_BLK
+htd358	[[মিটার\N_NN গেজ\N_NN রেলওয়ে\N_NN লাইন\N_NN দ্বারা\PSP]]_NP [[দিউ\N-NNP]]_NP [[যুক্ত\N_NN]]_JJP [[৷\V_VAUX]]_BLK
+htd359	[[দিউয়ের\N-NNP কাছের\N_NST রেলওয়ে\N_NN স্টেশন\N_NN]]_NP [[হল\V_VAUX]]_VGF [[`\RD_PUNC দিলওয়াড়া\N-NNP `\RD_PUNC]]_NP [[৷\RD_PUNC]]_BLK
+htd360	[[দামন\N-NNP]]_NP [[আর\CC_CCD]]_NP [[দিউ\N-NNP]]_NP [[দুটোই\QT_QTC এয়ারপোর্টের\N_NN সঙ্গে\PSP]]_NP [[যুক্ত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd361	[[মুম্বই\N-NNP থেকে\PSP দিউয়ে\N-NNP]]_NP [[প্রতিদিনই\RB]]_RBP [[বেশ\RP_INTF কয়েকটি\QT_QTF উড়ান\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd362	[[রাজস্থানের\N-NNP মন্দির\N_NN নির্মাণের\N_NN]]_NP [[প্রমুখ\JJ ক্ন্দ্রে\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd363	[[মেবার\N-NNP -\RD_PUNC উদয়পুর\N-NNP অঞ্চলে\N_NN]]_NP [[মন্দির\N_NN নির্মাণ\N_NN প্রক্রিয়া\N_NN]]_NP
+htd364	[[গুপ্তযুগের\N-NNP পরে\PSP]]_NP [[মেবার\N-NNP অঞ্চলে\N_NN]]_NP [[বিষ্ণু\N-NNP]]_NP [[এবং\CC_CCD]]_CCP [[শিব\N-NNP]]_NP [[ছাড়াও\PSP শক্তি\N_NN পূজার\N_NN অধিক\QT_QTF প্রচলন\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd365	[[জগত\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[উনওয়াসের\N-NNP]]_NP [[মতো\RP_RPD জায়গায়\N_NN তৈরি\N_NN মন্দির\N_NN]]_NP [[শাক্ত\N-NNP সম্প্রদায়ের\N_NN জনপ্রিয়তার\N_NN]]_NP [[জলন্ত\JJ উদাহরণ\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd366	[[জগত\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[উনওয়াসের\N-NNP]]_NP [[মন্দিরে\N_NN]]_NP [[দূর্গার\N-NNP মহিষাসুর\N-NNP মর্দিনীরূপ\N_NN]]_NP [[মহিমান্বিত\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd367	[[বৈষ্ণব\N-NNP সম্প্রদায়ের\N_NN লোকেদের\N_NN মধ্যে\PSP]]_NP [[বিষ্ণুর\N-NNP লক্ষীনারায়ণ\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[বরাহ\N-NNP বিগ্রহের\N_NN পূজা\N_NN]]_NP [[বিশেষভাবে\RB]]_RBP [[করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd368	[[মেবার\N-NNP উদয়পুর\N-NNP অঞ্চলে\N_NN]]_NP [[শিব\N-NNP]]_NP [[এবং\CC_CCD]]_CCP [[সূর্য\N-NNP দেবতার\N_NN]]_NP [[মন্দির\N_NN]]_NP [[খুবই\RP_INTF কম\RB পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd369	[[মেবার\N-NNP অঞ্চলের\N_NN মন্দির\N_NN নির্মাণ\N_NN পদ্ধতির\N_NN জন্য\PSP]]_NP [[কিছু\QT_QTF প্রসিদ্ধ\JJ জায়গার\N_NN]]_NP [[উল্লেখ\N_NN করা\V_VM_VNG হচ্ছে\V_VAUX]]_VGF
+htd370	[[মেবারে\N-NNP সবথেকে\RP_INTF প্রাচীন\JJ]]_NP [[বৈষ্ণব\N-NNP]]_NP [[এবং\CC_CCD]]_NP [[সৌর\N-NNP]]_NP [[মন্দির\N_NN]]_NP [[চিত্তোরগড়ে\N-NNP]]_NP [[নির্মাণ\N_NN করা\V_VM_VNG হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd371	[[দুর্গের\N_NN রাজনৈতিক\JJ]]_NP [[এবং\CC_CCD]]_CCP [[ধার্মিক\JJ]]_NP [[ইতিহাস\N_NN]]_NP [[ও\CC_CCD]]_CCP [[ভৌগলিক\JJ পরিবেশ\N_NN]]_VGF [[মন্দিরের\N_NN নির্মাণ\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[অবশিষ্টাংশ\N_NN উদ্ধার\N_NN প্রক্রিয়াকে\N_NN]]_NP [[প্রভাবিত\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd372	[[লিখিত\JJ]]_NP [[এবং\CC_CCD]]_RBP [[পুরাতাত্ত্বিক\JJ প্রমাণ\N_NN থেকে\PSP]]_NP [[জানা\V_VM_VNG যায়\V_VM_VF]]_NP [[যে\RP_RPD খ্রীষ্ট\N_NN পূর্ব\N_NN দ্বিতীয়\QT_QTO শতাব্দী\N_NN থেকে\PSP]]_NP [[সপ্তম\QT_QTO শতাব্দী\N_NN পর্যন্ত\PSP]]_NP [[এই\DM_DMD অঞ্চলে\N_NN বৈষ্ণব\N_NN ধর্ম\N_NN জনপ্রিয়\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd373	[[এছাড়াও\PSP মেবারে\N-NNP]]_NP [[শৈব\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[শাক্ত\N-NNP]]_NP [[সৌর\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[বৌদ্ধ\N-NNP]]_NP [[এবং\CC_CCD]]_CCP [[জৈন\N-NNP]]_NP [[ধর্মের\N_NN সঙ্গে\PSP সম্বন্ধের\N_NN প্রমাণও\N_NN]]_NP [[বেশ\RP_INTF কিছু\QT_QTF প্রাচীন\JJ তীর্থস্থল\N_NN থেকে\PSP]]_NP [[পাওয়া\V_VM_VNG গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd374	[[সপ্তম\QT_QTO]]_NP [[ও\CC_CCD]]_CCP [[অষ্টম\QT_QTO]]_NP [[শতাব্দীতে\N_NN পাওয়া\V_VM_VNG কিছু\QT_QTF]]_NP [[বর্গাকৃতির\JJ স্তূপের\N_NN চারপাশের\N_NST অংশে\N_NN]]_NP [[ধ্যাণরত\JJ বুদ্ধের\N_NN মূর্তি\N_NN]]_NP [[আঁকা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd375	[[এছাড়াও\PSP সপ্তম\QT_QTO শতাব্দীর\N_NN]]_NP [[বেশ\RP_INTF কিছু\QT_QTF মন্দির\N_NN]]_NP [[পাওয়া\V_VM_VNG গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd376	[[সপ্তম\QT_QTO থেকে\PSP পঞ্চদশ\QT_QTO শতাব্দী\N_NN পর্যন্ত\PSP]]_NP [[চিত্তোর\N-NNP]]_NP [[ক্রমাগত\RB]]_RBP [[মন্দির\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[অন্যান্য\JJ বাস্তু\N_NN নির্মাণের\N_NN অবশিষ্টাংশ\N_NN]]_NP [[উদ্ধার\N_NN করা\V_VM_VNG]]_VGNN [[ইত্যাদি\N_NN প্রক্রিয়ার\N_NN]]_NP [[বিখ্যাত\JJ কেন্দ্র\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd377	[[এই\DM_DMD সময়ে\N_NN]]_NP [[মহারাণা\N-NNP কুম্ভের\N-NNP রাজ্যকাল\N_NN]]_NP [[(\RD_PUNC]]_BLK [[ইং.\N_NN ১৪৩৩\QT_QTC]]_NP [[-\RD_PUNC]]_BLK [[১৪৬৬\QT_QTC]]_NP [[)\RD_PUNC]]_BLK [[এই\DM_DMD সমস্ত\QT_QTF কাজকর্মের\N_NN জন্য\PSP]]_NP [[বিশেষ\JJ উল্লেখযোগ্য\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd378	[[ভবন\N_NN -\RD_PUNC নির্মাণের\N_NN জন্য\PSP]]_NP [[প্রয়োজনীয়\JJ সামগ্রী\N_NN]]_NP [[নগর\N_NN থেকে\PSP আনা\V_VM_VNG হত\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd379	[[যে\PR_PRL প্রস্তরশিলা\N_NN পাওয়া\V_VM_VNG যেত\V_VM_VINF]]_VGF [[তার\PR_PRL প্রাচুর্যও\N_NN]]_NP [[মেবার\N-NNP অঞ্চলে\N_NN]]_NP [[বাস্তু\N_NN -\RD_PUNC নির্মাণকে\N_NN]]_NP [[প্রভাবিত\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd380	[[মেবারের\N-NNP কিছু\QT_QTF বিখ্যাত\JJ মন্দিরের\N_NN চর্চা\N_NN]]_NP [[এইরূপ\RB]]_RBP
+htd381	[[কালিকা\N-NNP মাতা\N_NN মন্দির\N_NN]]_NP [[মূলতঃ\RB]]_RBP [[একটি\QT_QTF সূর্য\N_NN মন্দির\N_NN]]_VGF [[ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd382	[[তথ্যপ্রমাণের\N_NN ওপর\PSP ভিত্তি\N_NN করে\V_VM_VNF]]_VGNF [[এটা\DM_DMD নিশ্চিত\RB করে\V_VM_VNF যায়\V_VM_VF]]_VGF [[যে\RP_RPD কালিকা\N-NNP মায়ের\N_NN মন্দির\N_NN]]_NP [[অষ্টম\QT_QTO শতাব্দীর\N_NN শুরুর\N_NN দিকের\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd383	[[সময়ের\N_NN সাথে\PSP সাথে\PSP]]_NP [[কালিকা\N-NNP মায়ের\N_NN মন্দিরের\N_NN অবশিষ্টাংশ\N_NN]]_NP [[উদ্ধার\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd384	[[কালিকা\N-NNP মাতা\N_NN মন্দিরে\N_NN]]_NP [[পঞ্চরথ\N-NNP গর্ভগৃহ\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[মন্ডপ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[অভ্যাণ্তরীণ\JJ অংশ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[প্রদক্ষিণ\N_NN পথ\N_NN]]_NP [[আর\CC_CCD]]_CCP [[দ্বার\N_NN -\RD_PUNC মন্ডপ\N_NN]]_NP [[নির্মাণ\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd385	[[গর্ভগৃহের\N_NN বাইরে\PSP]]_NP [[তিনটি\QT_QTC খাঁজে\N_NN দুটিতে\QT_QTC]]_NP [[সূর্যদেবের\N-NNP রথে\N_NN আরোহণের\N_NN মূর্তি\N_NN আছে\V_VAUX]]_VGF [[আর\CC_CCD]]_CCP [[গৌণ\N_NN খাঁজে\N_NN]]_NP [[চন্দ্র\N-NNP]]_NP [[ও\CC_CCD]]_CCP [[অন্য\JJ দিকপালদের\N_NN]]_NP [[মূর্তি\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd386	[[গর্ভগৃহের\N_NN প্রবেশ\N_NN দ্বারের\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[চৌকাঠের\N_NN]]_NP [[অলঙ্করণ\N_NN]]_NP [[বিশেষরূপে\RB উল্লখ্যযোগ্য\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd387	[[চোকাঠের\N_NN দুই\QT_QTC পাশে\N_NST]]_NP [[গঙ্গা\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[যমুনা\N-NNP]]_NP [[নদীর\N_NN]]_NP [[দেবী\N_NN চিত্র\N_NN]]_NP [[নিজ\PR_PRF নিজ\PR_PRF বাহনের\N_NN ওপর\PSP]]_NP [[আঁকা\N_NN হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd388	[[মন্দিরে\N_NN আঁকা\V_VM_VNG]]_NP [[কুর্মাবতার\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[উমা\N-NNP -\RD_PUNC মহেশ্বর\N-NNP]]_NP [[ও\CC_CCD]]_CCP [[লকুলীশ\N-NNP মূর্তি\N_NN প্রতিমা\N_NN]]_NP [[বিজ্ঞানের\N_NN শুরুর\N_NN দিকের\N_NN অবস্থার\N_NN]]_NP [[ইঙ্গিত\N_NN দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd389	[[মন্দিরে\N_NN আঁকা\N_NN]]_NP [[কুর্মাবতার\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[উমা\N-NNP -\RD_PUNC মহেশ্বর\N-NNP]]_NP [[ও\CC_CCD]]_CCP [[লকুলীশ\N-NNP মূর্তি\N_NN প্রতিমা\N_NN]]_NP [[পরবর্তীকালে\RB]]_RBP [[প্রৌঢ়তা\N_NN প্রাপ্ত\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd390	[[মন্দিরের\N_NN শিখরটি\N_NN]]_NP [[নবনির্মিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd391	[[শতাব্দীর\N_NN শিখর\N_NN শৈলীর\N_NN জায়গায়\N_NN]]_NP [[একটা\QT_QTC নতুন\JJ গম্বুজাকার\JJ শিখর\N_NN]]_NP [[বানানো\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd392	[[মন্ডপের\N_NN অভ্যন্তরীণ\JJ দেওয়ালে\N_NN]]_NP [[দুটি\QT_QTC অর্ধচিত্র\N_NN]]_NP [[ও\CC_CCD]]_CCP [[একটি\QT_QTF লকুলীশ\N-NNP মূর্তি\N_NN]]_NP [[পরে\PSP লাগানো\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd393	[[বস্তুত\RB]]_RBP [[শিলাখন্ডের\N_NN]]_NP [[আসল\JJ স্থান\N_NN হল\V_VAUX]]_VGF [[মন্দির\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd394	[[অর্ধচিত্রে\N_NN]]_NP [[পাটাতনের\N_NN বিষয়বস্তু\N_NN হল\V_VAUX]]_VGF [[নৃত্য\N_NN]]_NP [[,\RD_PUNC]]_CCP [[সংগীত\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[পান\N_NN গোষ্ঠী\N_NN ইত্যাদি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd395	[[মূলত\RB]]_RBP [[মন্দিরটি\N_NN]]_NP [[একটি\QT_QTC বিশাল\JJ অঞ্চল\N_NN জুড়ে\V_VM_VNF]]_NP [[বানানো\V_VM_VNG হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd396	[[মন্দিরের\N_NN বিশাল\JJ এলাকার\N_NN কিছু\QT_QTF অংশ\N_NN]]_NP [[এখনও\RB]]_RBP [[অবশিষ্ট\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd397	[[গর্ভগৃহের\N_NN প্রদক্ষিণপথে\N_NN]]_NP [[সূর্যের\N-NNP রশ্মি\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[বায়ু\N_NN চলাচলের\V_VM_VNG]]_NP [[জন্য\PSP]]_BLK [[চারটি\QT_QTC স্তম্ভের\N_NN ওপর\PSP]]_NP [[দুটি\QT_QTC বায়ুরন্ধ্র\N_NN]]_NP [[বানানো\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd398	[[কুম্ভস্বামী\N-NNP]]_NP [[বা\CC_CCD]]_CCP [[কুম্ভশ্যাম\N-NNP]]_NP [[মন্দির\N_NN]]_NP [[মূলতঃ\RB]]_RBP [[বৈষ্ণব\N-NNP মন্দির\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd399	[[কীর্তি\N-NNP স্তম্ভ\N-NNP প্রশস্তি\N-NNP অনুসারে\RB]]_NP [[,\RD_PUNC]]_CCP [[নৃপতি\N_NN কুম্ভকর্ণ\N-NNP]]_NP [[(\RD_PUNC]]_BLK [[মহারাণা\N-NNP কুম্ভা\N-NNP]]_NP [[)\RD_PUNC]]_BLK [[কুম্ভস্বামী\N-NNP]]_NP [[বা\CC_CCD]]_CCP [[কুম্ভশ্যাম\N-NNP]]_NP [[মন্দিরের\N_NN অবশিষ্টাংশ\N_NN]]_NP [[উদ্ধার\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd400	[[মহারাণা\N-NNP কুম্ভ\N-NNP দ্বারা\PSP]]_NP [[স্থাপনা\N_NN করার\V_VM_VNG ফলে\PSP]]_NP [[এটা\DM_DMD]]_NP [[কুম্ভস্বামী\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[কুম্ভশ্যাম\N-NNP]]_NP [[মন্দির\N_NN নামে\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd401	[[এই\DM_DMD মন্দির\N_NN]]_NP [[কালিকা\N-NNP মাতা\N-NNP মন্দিরেরই\N_NN]]_NP [[সময়কালীন\RB]]_RBP [[ও\CC_CCD]]_CCP [[এদের\PR_PRL বাস্তু\N_NN যোজনা\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[শৈলীরও\N_NN মিল\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd402	[[এক\QT_QTC দিকে\PSP]]_NP [[যেখানে\CC_CCS]]_RBP [[মন্দিরের\N_NN বাস্তু\N_NN যোজনা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[উন্নত\JJ]]_NP [[এবং\CC_CCD]]_CCP [[অনাড়ম্বর\JJ]]_NP [[বেদী\N_NN]]_NP ,\RD_PUNC [[অলঙ্করণহীন\JJ জংঘা\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[মন্দিরের\N_NN প্রদক্ষিণপথ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[গর্ভগৃহের\N_NN বাইরের\N_NST তাকের\N_NN]]_NP [[দেবী\N_NN প্রতিমা\N_NN]]_NP [[ও\CC_CCD]]_CCP [[অন্তরালে\N_NN অর্ধস্তম্ভের\N_NN মূর্তি\N_NN]]_NP [[অষ্টম\QT_QTO শতাব্দীর\N_NN নির্মাণ\N_NN কার্য\N_NN বলে\V_VM_VNF]]_NP [[মনে\V_VM_VNF হয়\V_VAUX]]_VGF [[,\RD_PUNC]]_CCP [[সেখানে\CC_CCS]]_RBP [[অন্যান্য\JJ অলঙ্করণ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[স্তম্ভের\N_NN ওপর\N_NST চিহ্ন\N_NN]]_NP [[,\RD_PUNC]]_CCP [[সভা\N_NN মন্ডপ\N_NN]]_NP [[আর\CC_CCD]]_CCP [[শিখর\N_NN]]_NP [[পরে\PSP পঞ্চদশ\QT_QTO শতাব্দীতে\N_NN]]_NP [[অবশিষ্টাংশ\N_NN উদ্ধার\N_NN করার\V_VM_VNG সময়\N_NN]]_NP [[নির্মিত\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd403	[[কুম্ভস্বামীর\N-NNP এই\DM_DMD মন্দির\N_NN]]_NP [[বিভিন্ন\JJ সময়ে\N_NN নির্মিত\N_NN হওয়ার\V_VM_VNG ফলে\PSP]]_NP [[অনেক\QT_QTF ধরণের\N_NN বাস্তুশৈলী\N_NN]]_NP [[ও\CC_CCD]]_CCP [[মূর্তি\N_NN শিল্পীর\N_NN উদাহরণ\N_NN]]_NP [[সাজানো\N_NN আছে\N_NN]]_VGF [[৷\N_NN]]_NP
+htd404	[[শ্রী\N_NN ঢাকির\N-NNP মতে\RB]]_NP [[রাজা\N_NN মানভঙ্গ\N-NNP]]_NP [[এই\DM_DMD মন্দির\N_NN]]_NP [[স্থাপন\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd405	[[রাজা\N_NN মানভঙ্গ\N-NNP]]_NP [[কালিকা\N-NNP মাতা\N_NN সূর্য\N_NN মন্দির\N_NN]]_NP [[,\RD_PUNC]]_CCP [[নিকটবর্তী\JJ অংশ\N_NN]]_NP [[ও\RD_PUNC]]_CCP [[ত্রিপুরবিজয়\N-NNP প্রাসাদ\N_NN নির্মাণের\N_NN জন্য\PSP]]_NP [[স্বীকৃতি\N_NN দেওয়া\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd406	[[শ্রী\N_NN ঢাকির\N-NNP মতে\RB]]_NP [[কীর্তিস্তম্ভ\N-NNP প্রশস্তির\N-NNP কুম্ভস্বামিন\N-NNP পর্যায়\N_NN]]_NP [[প্রাচীন\JJ ত্রিপুর\N-NNP বিজয়ই\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd407	[[কুম্ভস্বামিন\N-NNP পর্যায়\N_NN]]_NP [[প্রাচীন\JJ ত্রিপুর\N-NNP বিজয়কে\N_NN]]_NP [[কুম্ভা\N-NNP]]_NP [[আবার\RB]]_RBP [[নির্মিত\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd408	[[বর্তমান\N_NN কুম্ভস্বামিন\N-NNP মন্দিরের\N_NN সভামন্ডপ\N_NN]]_NP [[আবার\RB]]_RBP [[প্রাচীন\JJ ধ্বংসাবশেষ\N_NN]]_NP [[আর\CC_CCD]]_CCP [[নতুন\JJ যুগের\N_NN পাথর\N_NN দিয়ে\PSP]]_NP [[গঠিত\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd409	[[মূল\JJ খন্ডিত\JJ শিব\N-NNP মূর্তির\N_NN জায়গায়\N_NN]]_NP [[নতুন\JJ বৈষ্ণব\N_NN মূর্তি\N_NN]]_NP [[স্থাপনা\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd410	[[সুরক্ষিত\JJ শিব\N-NNP মূর্তিকে\N_NN]]_NP [[আগের\RB মতোই\RP_RPD রাখা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd411	[[মন্দিরের\N_NN পিছনের\N_NST দিকে\PSP তৈরি\N_NN]]_NP [[অশ্বধর\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[নরধর\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[গ্রাস\N_NN শিলার\N_NN সম্পূর্ণ\JJ অনুপস্থিতি\N_NN]]_NP [[নিশ্চিত\N_NN করে\V_VM_VNF]]_VGNF [[যে\RP_RPD এটা\DM_DMD অষ্টম\QT_QTO শতাব্দীর\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd412	[[কুম্ভশ্যাম\N-NNP সংধান\N_NN হল\V_VAUX]]_NP [[পূর্বাভিমুখী\JJ প্রসাদ\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd413	[[মন্দিরের\N_NN গর্ভগৃহ\N_NN]]_NP [[তিনটে\QT_QTC অঙ্গে\N_NN বিভক্ত\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd414	[[গর্ভগৃহের\N_NN প্রতিটি\JJ অঙ্গ\N_NN]]_NP [[এক\QT_QTC একটি\QT_QTC জলধারার\N_NN সাথে\PSP]]_NP [[যুক্ত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd415	[[প্রতিটি\JJ কর্ণে\N_NN ত্রিভঙ্গে\N_NN]]_NP [[দিকপালদের\N_NN মূর্তি\N_NN রাখা\V_VM_VNG আছে\V_VAUX]]_VGF [[,\RD_PUNC]]_BLK [[যা\DM_DMR দেখতে\V_VM_VINF]]_VGNF [[খুবই\RP_INTF সুন্দর\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd416	[[ভদ্রার\N-NNP তিনটি\QT_QTC শাখা\N_NN আছে\V_VAUX]]_VGF [[–\RD_PUNC]]_BLK [[পত্রবল্লী\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[নাগপাশ\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[রূপ\N-NNP শাখা\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd417	[[চিত্তোর\N-NNP দূর্গে\N_NN]]_NP [[সমাধীশ্বর\N-NNP মন্দিরের\N_NN স্থান\N_NN]]_NP [[যথেষ্ট\RP_INTF গুরুত্বপূর্ণ\JJ মন্দিরগুলোর\N_NN মধ্যে\PSP ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd418	[[চিত্তোরের\N-NNP জন\N_NN -\RD_PUNC জীবনে\N_NN]]_NP [[শিব\N-NNP সমাধীশের\N-NNP]]_NP [[মহত্বপূর্ণ\JJ স্থান\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd419	[[কিছু\QT_QTF লেখ্যপ্রমাণের\N_NN মতে\RB]]_NP [[সমাধীশ্বর\N-NNP মন্দির\N_NN]]_NP [[`\RD_PUNC]]_BLK [[সমিধেশ্বর\N-NNP]]_NP [[`\RD_PUNC]]_BLK [[ও\CC_CCD]]_CCP [[অপভ্রংশরূপে\N_NN]]_NP [[`\RD_PUNC]]_BLK [[সমিধেসুর\N-NNP `\RD_PUNC নামেও\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd420	[[সমাধীশ্বর\N-NNP মন্দিরের\N_NN]]_NP [[নির্মাণ\N_NN কর্তা\N_NN]]_NP ,\RD_PUNC [[অধিষ্ঠাতা\N_NN দেবতা\N_NN]]_NP [[,\RD_PUNC]]_BLK [[রচনাকাল\N_NN]]_NP [[ও\CC_CCD]]_CCP [[নামকরণ\N_NN নিয়ে\PSP]]_NP [[ঐতিহাসিকদের\N_NN মধ্যে\PSP]]_NP [[মতভেদ\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd421	[[সন\N_NN ইং.\N_NN ১৪২৮\QT_QTC সালে\N_NN]]_NP [[একটি\QT_QTC প্রশস্তির\N_NN]]_NP [[অনুসারে\RB]]_RBP [[মহারাজা\N_NN মোকেল\N-NNP]]_NP [[সমাধীশ্বর\N-NNP মন্দিরের\N_NN অবশিষ্টাংশ\N_NN]]_NP [[উদ্ধার\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd422	[[সমাধীশ্বরের\N-NNP মন্দির\N_NN]]_NP [[`\RD_PUNC মোকল\N-NNP মন্দির\N_NN `\RD_PUNC নামেও\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd423	[[কিছু\QT_QTF বিদ্বান\JJ ব্যক্তির\N_NN]]_NP [[,\RD_PUNC]]_BLK [[যেমন\RP_RPD শ্রী\N_NN ঢ়াকীর\N-NNP মতে\RB]]_NP [[সমাধীশ্বরের\N-NNP মন্দির\N_NN হল\V_VAUX]]_VGF [[চাকুল্য\N-NNP কুমারপাল\N-NNP দ্বারা\PSP নির্মিত\N_NN]]_NP [[কুমার\N-NNP বিহার\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd424	[[বেদ\N-NNP বন্ধের\N-NNP নরথর\N-NNP]]_NP [[এবং\CC_CCD]]_CCP [[কুম্ভক\N-NNP]]_NP [[ও\CC_CCD]]_CCP [[জঙ্ঘার\N-NNP ওপর\PSP]]_NP [[জৈনদের\N_NN শাসন\N_NN]]_NP [[দেবতা\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[যক্ষ\N_NN -\RD_PUNC যক্ষিণীদের\N_NN]]_NP [[মূর্তির\N_NN ওপর\PSP ভিত্তি\N_NN করে\V_VM_VNF]]_VGNF [[ও\CC_CCD]]_CCP [[সমাধীশ্বর\N-NNP মন্দিরের\N_NN প্রাঙ্গণ\N_NN থেকে\PSP পাওয়া\V_VM_VNG]]_VGNN [[ইং.\N_NN ১১৫০\QT_QTC সালের\N_NN কুমারপালের\N-NNP প্রশস্তির\N_NN ওপর\PSP ভিত্তি\N_NN করে\V_VM_VNF]]_VGNF [[একে\DM_DMD জৈন\N_NN মন্দির\N_NN বলে\V_VM_VNF]]_NP [[বিশ্বাস\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd425	[[কুমারপালের\N-NNP প্রশস্তিতে\N_NN]]_NP [[তার\PR_PRL শিবের\N-NNP উপাসক\N_NN হওয়ার\V_VM_VNG]]_VGNN [[প্রমাণ\N_NN পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd426	[[যদিও\PSP]]_CCP [[পরে\PSP যশপালের\N-NNP মোহপরাজয়\N-NNP নাটকের\N_NN]]_NP [[অনুসারে\RB]]_RBP [[সন\N_NN ইং.\N_NN ১১৫০\QT_QTC কুমারপাল\N-NNP]]_NP [[জৈন\N_NN ধর্ম\N_NN স্বীকার\N_NN করে\V_VM_VNF নিয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd427	[[সমাধীশ্বরের\N-NNP মন্দিরের\N_NN পাওয়া\V_VM_VNG]]_VGNN [[অঙ্কিত\JJ চিত্র\N_NN]]_NP [[সাধারণত\RB সব\QT_QTF]]_RBP [[জৈন\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[হিন্দু\N_NN]]_NP [[মন্দিরে\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd428	[[দুটি\QT_QTC ধর্মেরই\N_NN প্রাসাদের\N_NN বস্তু\N_NN]]_NP [[ও\CC_CCD]]_CCP [[ভাষ্কর্য\N_NN একই\QT_QTC ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd429	[[এই\DM_DMD ভাবেই\RB]]_RBP [[সমাধীশ্বরের\N-NNP মন্দির\N_NN]]_NP `\RD_PUNC [[কুমারপালের\N-NNP বিহার\N-NNP `\RD_PUNC না\RP_NEG হয়ে\V_VM_VNF]]_VGNF [[বরং\CC_CCS]]_CCP [[প্রথম\QT_QTO থেকে\PSP শেষ\N_NN পর্যন্ত\PSP]]_NP [[শৈব\N_NN প্রাসাদ\N_NN বলে\V_VM_VNF মনে\V_VM_VNF হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+ htd430	[[সমাধীশ্বর\N-NNP মন্দির\N_NN]]_NP [[শিবের\N-NNP মহেশ\N-NNP রূপ\N_NN হল\V_VAUX]]_VGF [[বামদেব\N-NNP ,\RD_PUNC সদ্যোজাত\JJ ভৈরবের\N_NN রূপের\N_NN মতো\RP_RPD]]_NP [[৷\RD_PUNC]]_BLK
+htd431	[[মূর্তির\N_NN বিশালাকৃতি\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[বৈশিষ্ঠ্য\N_NN হল\V_VAUX]]_VGF [[অপূর্ব\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd432	[[শৈলীর\N_NN দৃষ্টিকোণ\N_NN থেকে\PSP মনে\V_VM_VNF হয়\V_VAUX]]_VGF [[এটা\DM_DMD পঞ্চদশ\QT_QTO শতাব্দীর\N_NN পরের\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd433	[[গর্ভগৃহের\N_NN ধরাতল\N_NN]]_NP [[গূঢ়\N_NN মন্ডপের\N_NN নিচে\PSP]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd434	[[এটা\DM_DMD বোঝা\V_VM_VNG যায়\V_VM_VF]]_VGF [[যে\RP_RPD অবশিষ্টাংশ\N_NN উদ্ধার\N_NN হওয়ার\V_VM_VNG সময়ে\N_NN]]_NP [[এই\DM_DMD পরিবর্তণ\N_NN]]_NP [[করা\V_VM_VNG হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd435	[[ডা.\N_NN শ্যামনাথ\N-NNP]]_NP [[ও\CC_CCD]]_CCP [[অন্যন্য\QT_QTF বিদ্বান\JJ ব্যাক্তিরা\N_NN]]_NP [[এই\DM_DMD প্রসাদ\N_NN চিহ্নিত\N_NN করেছেন\V_VM_VF]]_VGF [[ও\CC_CCD]]_CCP [[তার\PR_PRL নির্মাণকাল\N_NN]]_RBP [[পরমার\N-NNP শাসক\N_NN ভোজের\N-NNP দ্বারা\PSP নির্মিত\N_NN]]_NP [[ত্রিভুবন\N-NNP নারায়ণের\N-NNP সাহায্যে\N_NN করবার\V_VM_VNG চেষ্টা\N_NN করেছেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd436	[[এদের\PR_PRL মতে\RB]]_NP [[এই\DM_DMD মন্দির\N_NN]]_NP [[ইং.\N_NN ১০১৮\QT_QTC -\RD_PUNC ১০৫৪\QT_QTC সালে\N_NN]]_NP [[রাজা\N_NN ভোজ\N-NNP দ্বারা\PSP]]_NP [[নির্মিত\N_NN হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd437	[[এ\DM_DMD ছাড়াও\PSP চিরওয়া\N-NNP থেকে\PSP পাওয়া\V_VM_VNG]]_VGNN [[লেখ্যপ্রমাণও\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd438	[[উদয়পুর\N-NNP থেকে\PSP ৭৭\QT_QTC কিলোমিটার\N_NN দক্ষিণে\N_NN]]_NP [[কল্যাণপুর\N-NNP]]_NP [[অবস্থিত\N_NN]]_JJP [[ও\CC_CCD]]_CCP [[শৈবপিঠ\N-NNP নামে\N_NN]]_NP [[জনপ্রিয়\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd439	[[বর্তমানে\RB]]_RBP [[মন্দিরটি\N_NN]]_NP [[অত্যন্ত\RP_INTF জীর্ণ\JJ অবস্থায়\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd440	[[পাওয়া\V_VM_VNG]]_VGNN [[লেখ্যপ্রমাণের\N_NN ওপর\PSP]]_NP [[ভিত্তি\N_NN করে\V_VM_VNF]]_VGNF [[এটা\DM_DMD সপ্তম\QT_QTO শতাব্দীর\N_NN বলে\V_VM_VNF]]_VGNF [[নিশ্চিত\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd441	[[মন্দিরের\N_NN মূর্তি\N_NN]]_NP [[হাল্কা\JJ সবুজ\JJ আভাযুক্ত\JJ পায়রার\N_NN গায়ের\N_NN রঙের\N_NN মতো\RP_RPD]]_NP [[পাথর\N_NN দিয়ে\PSP তৈরি\N_NN]]_NP [[,\RD_PUNC]]_BLK
+htd442	[[মন্দিরের\N_NN মূর্তি\N_NN]]_NP [[বর্তমানে\RB]]_RBP [[প্রতাপ\N-NNP সংগ্রহালয়\N_NN]]_NP [[,\RD_PUNC ও\CC_CCD]]_CCP [[এম.ভি.\N-NNP কলেজ\N_NN]]_NP [[,\RD_PUNC]]_BLK [[উদয়পুরে\N-NNP]]_NP [[সংরক্ষিত\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd443	[[আহোড়\N-NNP]]_NP [[মেবার\N-NNP অঞ্চলের\N_NN মূর্তিকলার\N_NN দৃষ্টিকোণ\N_NN থেকে\PSP]]_NP [[গুরুত্বপূর্ণ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd444	[[এর\PR_PRL প্রাচীন\JJ নাম\N_NN]]_NP [[আধারপুর\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[আটপুর\N-NNP]]_NP [[ও\CC_CCD]]_CCP [[গঙ্গোদ্ভেদ\N-NNP তীর্থ\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd445	[[৯\QT_QTC -\RD_PUNC ১০\QT_QTC শতাব্দীতে\N_NN]]_NP [[এটা\DM_DMD বৈষ্ণব\N_NN সম্প্রদায়ের\N_NN]]_NP [[একটি\QT_QTC বিখ্যাত\JJ কেন্দ্র\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd446	[[আহোড়\N-NNP থেকে\PSP পাওয়া\V_VM_VNG]]_VGNN [[ইং.\N_NN ১৫৩\QT_QTC]]_NP [[(\RD_PUNC]]_BLK [[সন\N_NN ১০১০\QT_QTC]]_NP [[)\RD_PUNC]]_BLK [[একটি\QT_QTC লেখ্যপ্রমাণে\N_NN]]_NP [[বিষ্ণু\N-NNP মন্দিরের\N_NN উল্লেখ\N_NN পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd447	[[আহোড়ে\N-NNP]]_NP [[একটি\QT_QTC বৈষ্ণব\N_NN ভক্ত\N_NN দ্বারা\PSP]]_NP [[আদি\N_NN বরাহের\N-NNP মূর্তি\N_NN]]_NP [[স্থাপিত\N_NN করা\V_VM_VNG হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd448	[[আহোড়ে\N-NNP]]_NP [[একটা\QT_QTC সূর্য\N_NN মন্দিরও\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd449	[[সূর্য\N-NNP মন্দিরের\N_NN প্রমাণ\N_NN]]_NP [[১৪\QT_QTC দ্রম্ম\N_NN দান\N_NN করার\V_VM_VNG উল্লেখ\N_NN আছে\V_VAUX]]_VGF [[এমন\PR_PRL অপর\JJ একটি\QT_QTC লিখিত\JJ বিবরণ\N_NN থেকে\PSP]]_NP [[পাওয়া\V_VM_VNG গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd450	[[অন্য\JJ একটি\QT_QTC মন্দিরে\N_NN]]_NP [[বিষ্ণু\N-NNP লক্ষীনারায়ণ\N-NNP রূপের\N_NN অর্চনা\N_NN হত\V_VAUX]]_VGF [[,\RD_PUNC]]_BLK [[যা\PR_PRL এখন\RB]]_RBP [[মীরাবাই\N-NNP মন্দির\N_NN নামে\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd451	[[মন্দিরের\N_NN বাইরের\N_NST তাকে\N_NN]]_NP [[ব্রক্ষা\N-NNP -\RD_PUNC সাবিত্রী\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[গরুড়ে\N-NNP বসা\V_VM_VNG লক্ষী\N-NNP -\RD_PUNC নারায়ণ\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[নন্দীতে\N-NNP আসনগ্রহণ\N_NN করা\V_VM_VNG উমা\N-NNP -\RD_PUNC মহেশ্বর\N-NNP]]_NP [[ইত্যাদির\N_NN মূর্তি\N_NN ছাড়াও\PSP]]_NP [[মেবারের\N-NNP]]_NP [[তত্কালীন\RB]]_RBP [[সামাজিক\JJ জীবনযাপন\N_NN প্রক্রিয়াও\N_NN]]_NP [[তৈরি\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd452	[[ঊনবাস\N-NNP]]_NP [[দূর্গা\N-NNP মন্দিরের\N_NN জন্য\PSP]]_NP [[বিখ্যাত\N_NN]]_JJP [[৷\V_VM_VF]]_BLK
+htd453	[[উদয়পুর\N-NNP থেকে\PSP কি.মি\N_NN দূরে\N_NN]]_NP [[হল্দি\N-NNP ঘাটির\N_NN কাছে\PSP]]_NP [[ঊনবাস\N-NNP]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd454	[[জনসাধারণের\N_NN মধ্যে\PSP]]_NP [[ঊনবাসের\N-NNP দূর্গা\N-NNP মন্দির\N_NN]]_NP [[পিপ্পলাদমাতা\N-NNP নামে\N_NN]]_NP [[বিখ্যাত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd455	[[১০ম\QT_QTO শতাব্দীতে\N_NN নির্মিত\N_NN]]_NP [[ঊনবাসের\N-NNP দূর্গা\N-NNP মন্দির\N_NN]]_NP [[জগতে\N_NN অম্বিকা\N-NNP মন্দিরের\N_NN]]_NP [[সমকালীন\N_NN]]_RBP [[এবং\CC_CCD]]_CCP [[মনে\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\RP_RPD এটা\DM_DMD এক\QT_QTC গুহিল\N-NNP শাসক\N_NN]]_NP [[আল্লটের\N-NNP রাজ্যকালে\N_NN নির্মিত\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd456	[[ঊনবাসের\N-NNP দূর্গা\N-NNP মন্দিরের\N_NN গণনা\N_NN]]_NP [[মাতৃপূজা\N-NNP পরম্পরা\N_NN অনুসারে\RB ঝালরাপাটন\N-NNP]]_NP [[ও\CC_CCD]]_CCP [[জগতের\N-NNP মন্দির\N_NN সমূহের\N_NN মধ্যে\PSP]]_NP [[ধরা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd457	[[ঝালরাপাটন\N-NNP]]_NP [[ও\CC_CCD]]_CCP [[জগতের\N-NNP মন্দির\N_NN সমূহে\N_NN]]_NP [[নিষ্ঠা\N_NN ভরে\V_VM_VNF]]_VGNF [[শক্তির\N_NN যে\RP_RPD কোনও\QT_QTF রূপের\N_NN পূজা\N_NN অর্চনা\N_NN]]_NP [[করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd458	[[এতে\DM_DMD দূর্গার\N-NNP মহিষাসুরমর্দিনী\JJ রূপকে\N_NN]]_NP [[শান্ত\JJ]]_NP [[ও\CC_CCD]]_CCP [[অভয়দায়িনীর\JJ দিব্য\JJ]]_NP [[রূপে\N_NN প্রস্তুত\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd459	[[মূর্তিকলা\N_NN ছাড়াও\PSP]]_NP [[বাস্তুকলার\N_NN অভিপ্রায়\N_NN বিকাশ\N_NN অধ্যায়ণের\N_NN জন্য\PSP]]_NP [[ঊনবাসের\N-NNP মন্দির\N_NN]]_NP [[যথেষ্ট\RP_INTF মহত্বপূর্ণ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd460	[[মন্দিরের\N_NN মঞ্চের\N_NN অলঙ্করণ\N_NN করার\V_VM_VNG অভিপ্রায়ের\N_NN অভাব\N_NN]]_NP [[এই\DM_DMD মন্দিরে\N_NN]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd461	[[উদয়পুর\N-NNP থেকে\PSP ৪২\QT_QTC কিলোমিটার\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[জগত\N-NNP ঐতিহাসিক\JJ অম্বিকা\N-NNP মন্দিরের\N_NN জন্য\PSP]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd462	[[এই\DM_DMD মন্দির\N_NN সমূহের\QT_QTF]]_NP [[তিনটি\QT_QTC প্রমুখ\N_NN অঙ্গ\N_NN আছে\V_VAUX]]_VGF [[-\RD_PUNC]]_BLK [[সভামন্ডপ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[মুখ্য\JJ মন্দির\N_NN]]_NP [[ও\CC_CCD]]_CCP [[মুখ্য\JJ মন্দিরের\N_NN জলপ্রপাতের\N_NN ওপর\PSP তৈরি\N_NN]]_NP [[ছোটো\JJ মন্দির\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd463	[[সভামন্ডপের\N_NN আরাধ্যা\JJ দেবীর\N_NN উপলক্ষে\PSP]]_NP [[নৃত্যগীতাদির\N_NN সভা\N_NN]]_NP [[আয়োজিত\N_NN হতো\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd464	[[প্রবেশ\N_NN দ্বারের\N_NN দুটি\QT_QTC স্তম্ভও\N_NN]]_NP [[সমাপ্তপ্রায়\JJ অবস্থায়\N_NN রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd465	[[এই\DM_DMD স্তম্ভের\N_NN ওপরের\N_NST দিকে\PSP]]_NP [[পদ্মের\N_NN ওপর\PSP দাঁড়ানো\V_VM_VNG]]_VGNN [[অলসকন্যার\N_NN মূর্তি\N_NN]]_NP [[অঙ্কিত\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd466	[[মঞ্চ\N_NN তৈরি\N_NN করার\V_VM_VNG উদ্দেশ্য\N_NN]]_NP [[এখনও\RB]]_RBP [[সুরক্ষিত\N_NN রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd467	[[উদয়পুর\N-NNP থেকে\PSP ২৭\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[নাগড়া\N-NNP গুহিল\N-NNP]]_NP [[শাসকদের\N_NN প্রাচীন\JJ রাজধাণী\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd468	[[ইং.\N_NN ৬৬১\QT_QTC এর\PR_PRL রেকর্ড\N_NN]]_NP [[এই\DM_DMD স্থানের\N_NN প্রাচীনতার\N_NN প্রমাণ\N_NN দেয়\V_VM_VF]]_VGF [[,\RD_PUNC]]_BLK [[সেই\DM_DMD সব\QT_QTF পুরাতাত্ত্বিক\JJ সামগ্রীর\N_NN শৈলী\N_NN বিচার\N_NN করে\V_VM_VNF]]_VGNF [[আবার\N_NN]]_RBP [[এটা\DM_DMD অতটা\RP_INTF প্রাচীন\RB মনে\N_NN হয়\V_VAUX]]_VGF [[না\RP_NEG]]_NEGP [[৷\RD_PUNC]]_BLK
+htd469	[[সম্ভবত\RB]]_RBP [[,\RD_PUNC]]_BLK [[এই\DM_DMD প্রাচীন\JJ স্মারক\N_NN]]_NP [[সময়ের\N_NN সাথে\PSP নষ্ট\N_NN হয়ে\V_VM_VNF গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd470	[[সাস\N-NNP মন্দির\N_NN]]_NP [[আকারে\N_NN]]_NP [[বড়\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd471	[[গুহিল\N-NNP শাসকরা\N_NN]]_NP [[সূর্যবংশী\N-NNP হওয়ার\V_VM_VNG কারণে\N_NN]]_NP [[বাগদা\N-NNP থেকে\PSP এই\DM_DMD মন্দির\N_NN]]_NP [[বিষ্ণুকে\N-NNP]]_NP [[সমর্পিত\N_NN করা\V_VM_VNG হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd472	[[গর্ভগৃহের\N_NN পৃষ্ঠভাগের\N_NN তাকে\N_NN]]_NP [[একটি\QT_QTC চর্তুভুজ\JJ বিষ্ণু\N-NNP মূর্তি\N_NN]]_NP [[প্রতিষ্ঠিত\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd473	[[দুইটি\QT_QTC মন্দিরেরই\N_NN বাইরের\N_NST দিকে\PSP]]_NP [[শৃঙ্গাররত\JJ নর\N_NN -\RD_PUNC নারীর\N_NN]]_NP [[চিত্র\N_NN আঁকা\N_NN হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd474	[[সাস\N-NNP মন্দিরের\N_NN ডান\N_NN দিকের\N_NN কোণে\N_NN]]_NP [[একটি\QT_QTC শক্তি\N-NNP মন্দির\N_NN নির্মিত\N_NN হয়েছে\V_VM_VF]]_VGF [[,\RD_PUNC]]_CCP [[যাতে\PR_PRL শক্তির\N-NNP বিভিন্ন\JJ রূপ\N_NN]]_NP [[আঁকা\N_NN হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd475	[[নাগড়ার\N-NNP কাছেই\PSP একটি\QT_QTC অন্য\JJ মন্দির\N_NN]]_NP [[একলিঙ্গ\N-NNP]]_NP [[বা\CC_CCD]]_CCP [[কৈলাসপুরীর\N-NNP নামে\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd476	[[নাগড়ার\N-NNP লকলীশ\N-NNP মন্দির\N_NN থেকে\PSP পাওয়া\V_VM_VNG]]_VGNN [[শিলালিপি\N_NN]]_NP [[ইং.\N_NN ৯৭১\QT_QTC সালের\N_NN]]_NP [[ও\CC_CCD]]_CCP [[এটা\DM_DMD সব\QT_QTF থেকে\PSP]]_VGF [[প্রাচীন\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd477	[[অন্যান্য\JJ মন্দির\N_NN]]_NP [[১২\QT_QTC শতাব্দীর\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd478	[[উদয়পুরের\N-NNP কাছে\PSP]]_NP [[বেরচ\N-NNP নদীর\N_NN তটে\N_NN]]_NP [[টুস\N-NNP অবস্থিত\N_NN]]_NP [[ও\CC_CCD]]_CCP [[এখানকার\DM_DMD]]_RBP [[সূর্য\N-NNP মন্দিরের\N_NN মূর্তিকলা\N_NN]]_NP [[পরম্পরা\N_NN অধ্যায়নে\N_NN]]_NP [[বিশেষ\RP_INTF গুরুত্বপূর্ণ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd479	[[বৈষ্ণব\N_NN সম্প্রদায়ের\N_NN তুলনায়\N_NN]]_NP [[মেবার\N-NNP অঞ্চলে\N_NN]]_NP [[সূর্য\N-NNP পূজার\N_NN প্রচলন\N_NN কম\RB ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd480	[[পশ্চিম\N-NNP সীমায়\N_NN আরব\N-NNP সাগর\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[সহাদ্রি\N-NNP পর্বত\N_NN শৃঙ্গের\N_NN মাঝে\PSP]]_NP [[অবস্থিত\N_NN]]_JJP [[একটি\QT_QTC অপূর্ব\RP_INTF সুন্দর\JJ ভূভাগ\N_NN আছে\V_VAUX]]_VGF [[যা\PR_PRL কেরল\N-NNP নামে\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd481	[[কেরল\N-NNP রাজ্যের\N_NN ক্ষেত্রফল\N_NN হল\V_VAUX]]_VGF [[৩৮৮৬৩\QT_QTC বর্গ\N_NN কিলোমিটার\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd482	[[কেরলে\N-NNP]]_NP [[মালায়লম\N-NNP ভাষা\N_NN]]_NP [[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd483	[[নিজের\PR_PRF সংস্কৃতি\N_NN]]_NP [[আর\CC_CCD]]_CCP [[ভাষা\N_NN বৈশিষ্ঠ্যের\N_NN কারণে\PSP]]_NP [[পরিচিত\N_NN]]_JJP [[ভারতের\N-NNP দক্ষিণ\N_NN দিকে\PSP]]_NP [[অবস্থিত\N_NN]]_JJP [[চারটি\QT_QTC রাজ্যের\N_NN মধ্যে\PSP]]_NP [[কেরল\N-NNP]]_NP [[বিশেষ\RP_INTF গুরুত্বপূর্ণ\JJ স্থান\N_NN অধিকার\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd484	[[কেরলের\N-NNP প্রতিবেশী\JJ রাজ্য\N_NN হল\V_VAUX]]_VGF [[তামিলনাড়ু\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[কর্ণাটক\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd485	[[পোডিচ্চেরি\N-NNP (\RD_PUNC পুতুচ্চেরি\N-NNP )\RD_PUNC রাজ্যের\N_NN]]_NP [[মইয়্যাসি\N-NNP (\RD_PUNC মাহি\N-NNP )\RD_PUNC নামে\N_NN পরিচিত\N_NN অঞ্চলও\N_NN]]_NP [[কেরল\N-NNP রাজ্যের\N_NN]]_NP [[অন্তর্গত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd486	[[আরব\N-NNP সাগরে\N-NNP অবস্থিত\N_NN]]_NP [[কেন্দ্রশাসিত\JJ প্রদেশ\N_NN লক্ষদ্বীপ\N-NNP]]_NP [[ভাষা\N_NN]]_NP [[ও\CC_CCD]]_CCP [[সংস্কৃতির\N_NN]]_NP [[দিক\N_NN থেকে\PSP কেরলের\N-NNP সাথে\PSP]]_NP [[সম্পর্কিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd487	[[স্বাধীণতা\N_NN প্রাপ্তির\V_VM_VNG আগে\PSP]]_NP [[পূর্ব\N-NNP কেরলে\N-NNP]]_NP [[রাজার\N_NN আধিপাত্য\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd488	[[১৯৪৯\QT_QTC সালের\N_NN জুলাইতে\N_NN]]_NP [[তিরুবিনাঙ্কুর\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[কোচিন\N-NNP এলাকা\N_NN]]_NP [[জুড়ে\V_VM_VNF]]_VGNF [[`\RD_PUNC তিরুকোচ্চি\N-NNP `\RD_PUNC রাজ্য\N_NN]]_NP [[গঠন\N_NN করা\V_VM_VNG হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd489	[[সেই\DM_DMD সময়\N_NN মলওয়ার\N-NNP প্রদেশ\N_NN]]_NP [[মাদ্রাজ\N-NNP রাজ্যের\N_NN]]_NP [[(\RD_PUNC বর্তমান\N_NN তামিলনাড়ু\N-NNP )\RD_PUNC]]_NP [[শুধুমাত্র\RB]]_RBP [[একটি\QT_QTC জেলা\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd490	[[১৯৫৬\QT_QTC সালে\N_NN নভেম্বর\N_NN মাসে\N_NN]]_NP [[তিরুকোচ্চির\N-NNP সাথে\PSP]]_NP [[মলওয়ারকে\N-NNP]]_NP [[যুক্ত\N_NN করা\V_VM_VNG হয়েছিল\V_VM_VF]]_VGF [[আর\CC_CCD]]_CCP [[এইভাবেই\RB]]_RBP [[বর্তমান\N_NN কেরল\N-NNP রাজ্যের\N_NN]]_NP [[প্রতিষ্ঠা\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd491	[[এইভাবেই\RB]]_RBP [[`\RD_PUNC এক্য\N-NNP কেরলম\N-NNP `\RD_PUNC গঠনের\N_NN দ্বারা\PSP]]_NP [[ভূভাগের\N_NN জনতার\N_NN]]_NP [[দীর্ঘকালের\N_NN ইচ্ছা\N_NN পূর্ণ\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd492	[[কেরল\N-NNP নিজের\PR_PRF প্রাচীন\JJ ইতিহাস\N_NN]]_NP [[,\RD_PUNC]]_CCP [[দীর্ঘকালীন\JJ বিদেশের\N_NN ব্যবসায়িক\JJ সম্পর্ক\N_NN]]_NP [[,\RD_PUNC]]_CCP [[বিজ্ঞান\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[শিল্প\N_NN পরম্পরাও\N_NN ওপর\JJ]]_NP [[গর্ব\N_NN করতে\V_VM_VINF পারে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd493	[[সাক্ষরতার\N_NN দৃষ্টিকোণ\N_NN থেকে\PSP]]_NP [[কেরলের\N-NNP গোটা\JJ দেশে\N_NN]]_NP [[যথেষ্ট\RP_INTF গুরুত্বপূর্ণ\JJ স্থান\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd494	[[সামাজিক\JJ ন্যায়\N_NN]]_NP [[,\RD_PUNC]]_CCP [[স্বাস্থ্য\N_NN -\RD_PUNC স্তর\N_NN]]_NP [[,\RD_PUNC]]_CCP [[স্ত্রী\N_NN -\RD_PUNC পুরুষকে\N_NN সমান\JJ প্রাধাণ্য\N_NN দেওয়া\V_VM_VNG]]_VGNN [[আর\CC_CCD]]_CCP [[আইন\N_NN মান্য\N_NN করা\V_VM_VNG]]_VGNN [[,\RD_PUNC]]_CCP [[শিক্ষা\N_NN]]_NP [[ইত্যাদি\N_NN ক্ষেত্রে\N_NN]]_NP [[কেরল\N-NNP]]_NP [[বিশেষ\JJ স্থানে\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd495	[[আরও\RP_INTF গুরুত্বপূর্ণ\JJ কথা\N_NN এই\DM_DMD]]_NP [[যে\RP_RPD শিশু\N_NN -\RD_PUNC মৃত্যু\N_NN -\RD_PUNC হার\N_NN]]_NP [[কেরলে\N-NNP]]_NP [[সব\QT_QTF থেকে\PSP কম\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd496	[[অধিক\QT_QTF বর্ষার\N_NN ফলে\PSP]]_NP [[কেরল\N-NNP প্রদেশে\N_NN]]_NP [[জলরাশি\N_NN সমুদ্রের\N_NN মতো\RP_RPD]]_NP [[আর\CC_CCD]]_CCP [[এখানকার\N_NST]]_RBP [[মাটি\N_NN সবসময়\RB সবুজ\N_NN থাকে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd497	[[উত্কৃষ্ট\JJ জলবায়ু\N_NN]]_NP [[,\RD_PUNC]]_CCP [[যাতায়াতের\N_NN সুযোগ\N_NN সুবিধা\N_NN]]_NP [[আর\CC_CCD]]_CCP [[সাংস্কৃতিক\JJ রীতি\N_NN নীতির\RD_ECH]]_NP [[ফলে\PSP]]_BLK [[কেরল\N-NNP রাজ্য\N_NN পর্যটকদের\N_NN কাছে\PSP]]_NP [[অত্যন্ত\RP_INTF জনপ্রিয়\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd498	[[শুধু\RB তাইই\DM_DMD নয়\V_VM_VF]]_RBP [[,\RD_PUNC]]_BLK [[কেরলের\N-NNP অন্যন্য\JJ বৈশিষ্ঠ্য\N_NN হল\V_VAUX]]_VGF [[রাজনৈতিক\JJ চেতনা\N_NN]]_NP [[,\RD_PUNC]]_BLK [[যোগাযোগ\N_NN মাধ্যামের\N_NN প্রভাব\N_NN]]_NP [[,\RD_PUNC]]_BLK [[অন্য\JJ সংস্কৃতি\N_NN আপন\N_NN করে\V_VM_VNF নেওয়ার\V_VM_VNG ক্ষমতা\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd499	[[ধার্মিক\JJ সৌহার্দ্যের\N_NN জন্য\PSP প্রসিদ্ধ\JJ]]_NP [[কেরল\N-NNP]]_NP [[হল\V_VAUX]]_VGF [[বিভিন্ন\JJ সংস্কৃতির\N_NN সঙ্গম\N_NN ভূমি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd500	[[কেরল\N-NNP শব্দের\N_NN উত্স\N_NN নিয়ে\PSP]]_NP [[বিদ্বান\JJ ব্যাক্তিরা\N_NN নিজেদের\PR_PRF মধ্যে\PSP]]_NP [[একমত\N_NN]]_RBP [[নন\V_VM_VF]]_NEGP [[৷\RD_PUNC]]_BLK
+htd501	[[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\RP_RPD `\RD_PUNC চের\N-NNP -\RD_PUNC স্থল\N_NN `\RD_PUNC]]_NP [[,\RD_PUNC]]_CCP [[`\RD_PUNC কীচড়\N-NNP `\RD_PUNC]]_NP [[আর\CC_CCD]]_CCP [[`\RD_PUNC অলম\N-NNP -\RD_PUNC প্রদেশ\N_NN `\RD_PUNC]]_NP [[শব্দ\N_NN যুক্ত\N_NN করে\V_VM_VNF]]_VGNF [[কেরল\N-NNP শব্দ\N_NN তৈরি\N_NN হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd502	[[কেরল\N-NNP শব্দের\N_NN]]_NP [[আরও\QT_QTF একটি\QT_QTC মানে\N_NN আছে\V_VAUX]]_VGF [[–\RD_PUNC]]_BLK [[যে\DM_DMR ভূভাগ\N_NN সমুদ্র\N_NN থেকে\PSP বেরোয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd503	[[সমুদ্র\N_NN]]_NP [[আর\CC_CCD]]_CCP [[পর্বতের\N_NN]]_NP [[সঙ্গম\N_NN স্থানকেও\N_NN]]_NP [[কেরল\N-NNP বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd504	[[প্রাচীন\JJ বিদেশি\JJ যাযাবররা\N_NN]]_NP [[এই\DM_DMD স্থানকে\N_NN]]_NP [[`\RD_PUNC মলওয়ার\N-NNP `\RD_PUNC নামেও\N_NN সম্বোন্ধন\N_NN করেছেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd505	[[কেরলের\N-NNP সংস্কৃতি\N_NN]]_NP [[হাজার\QT_QTC বছরের\N_NN পুরানো\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd506	[[আগে\RB]]_RBP [[লোকরা\N_NN]]_NP [[পাহাড়ি\JJ এলাকাতে\N_NN থাকতেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd507	[[কেরলের\N-NNP কিছু\QT_QTF অংশ\N_NN থেকে\PSP]]_NP [[প্রাচীন\JJ প্রস্তর\N_NN যুগের\N_NN]]_NP [[কিছু\QT_QTF অবশিষ্টাংশ\N_NN পাওয়া\V_VM_VNG গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd508	[[প্রাচীন\JJ অবশিষ্টাংশ\N_NN ছাড়াও\PSP]]_NP [[মহাপ্রস্তর\N_NN স্মারকও\N_NN]]_NP [[কেরলের\N-NNP]]_NP [[মানব\N_NN জীবন\N_NN সম্পর্কে\N_NN]]_NP [[যথেষ্ট\RP_INTF তথ্য\N_NN দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd509	[[এর\DM_DMD অধিকাংশই\N_NN]]_NP [[পুরানো\JJ অবস্থায়\N_NN পাওয়া\V_VM_VNG গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd510	[[এখানে\N_NN]]_RBP [[প্রাচীন\JJ মহাপ্রস্তর\N-NNP যুগের\N_NST]]_NP [[অনেক\QT_QTF শ্মশান\N_NN -\RD_PUNC স্থান\N_NN]]_NP [[খুঁজে\V_VM_VNF পাওয়া\V_VM_VNG গেছে\V_VM_VF]]_VGF [[যা\PR_PRL কুড়ক্কল্লু\N-NNP (\RD_PUNC ছত্রাকার\N-NNP শিলা\N_NN )\RD_PUNC]]_NP [[,\RD_PUNC]]_CCP [[তোপ্পিক্কল্লু\N-NNP (\RD_PUNC টুপির\N_NN মতো\RP_RPD শিলা\N_NN )\RD_PUNC]]_NP [[,\RD_PUNC]]_CCP [[কল্মেশ\N-NNP (\RD_PUNC পাথরের\N_NN তৈরি\N_NN মেজ\N_NN )\RD_PUNC]]_NP [[,\RD_PUNC]]_CCP [[মুনিয়ারা\N-NNP (\RD_PUNC \N_NN কুঠুরি\N_NN )\RD_PUNC]]_NP [[,\RD_PUNC]]_CCP [[নন্নডাডি\N-NNP (\RD_PUNC ভস্মকুম্ভ\N_NN )\RD_PUNC]]_NP [[ইত্যাদি\N_NN নামে\N_NN]]_NP [[পরিচিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd511	[[মনে\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\RP_RPD এর\PR_PRL সময়\N_NN কাল\N_NN হল\V_VAUX]]_VGF [[ইং.\N_NN ৫০০\QT_QTC থেকে\PSP ৩০০\QT_QTC]]_NP [[৷\RD_PUNC]]_BLK
+htd512	[[অধিকাংশ\QT_QTF মহাপ্রস্তর\N-NNP যুগের\N_NN স্মারকই\N_NN]]_NP [[পাহাড়ি\JJ অঞ্চল\N_NN থেকে\PSP]]_NP [[পাওয়া\V_VM_VNG গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd513	[[তাই\RB]]_CCP [[এটা\DM_DMD প্রমাণিত\N_NN হয়\V_VAUX]]_VGF [[যে\RP_RPD অতিপ্রাচীন\JJ কাল\N_NN থেকেই\PSP]]_NP [[কেরলে\N-NNP মানবের\N_NN বসবাস\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd514	[[কেরলে\N-NNP]]_NP [[আবাসন\N_NN কেন্দ্র\N_NN বিকাশের\N_NN দ্বিতীয়\QT_QTO পর্যায়\N_NN]]_NP [[সঙ্ঘমকালকে\N_NN মনে\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd515	[[এটাই\DM_DMD]]_NP [[প্রাচীন\JJ সাহিত্যের\N_NN নির্মাণ\N_NN কাল\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd516	[[সঙ্গমকাল\N_NN]]_NP [[সন\N_NN ইং.\N_NN ৩০০\QT_QTC থেকে\PSP ৪০০\QT_QTC পর্যন্ত\PSP]]_NP [[ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd517	[[এই\DM_DMD সময়ে\N_NN]]_RBP [[ভারতের\N-NNP অন্য\JJ প্রাম্ত\N_NN থেকেও\PSP]]_NP [[লোক\N_NN এসে\V_VM_VNF]]_VGNF [[কেরলে\N-NNP বসবাস\N_NN শুরু\N_NN করেন\V_VM_VF]]_VGF [[ও\CC_CCD]]_CCP [[বৌদ্ধ\N_NN]]_NP [[ও\CC_CCD]]_CCP [[জৈন\N_NN]]_NP [[ধর্মের\N_NN প্রচার\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd518	[[ব্রাক্ষণদের\N_NN আগমনও\N_NN]]_NP [[এই\DM_DMD সময়েই\N_NN হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd519	[[সেই\DM_DMD সব\QT_QTF দিনে\N_NN]]_NP [[সব\QT_QTF নিয়ে\PSP]]_NP [[কেরলের\N-NNP বিভিন্ন\JJ অঞ্চলে\N_NN]]_NP [[ব্রাক্ষণদের\N_NN ৬৪\QT_QTC বসতি\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd520	[[খ্রীষ্টীয়\JJ প্রথম\QT_QTO শতাব্দীর\N_NN আগেই\PSP]]_NP [[এখানে\N_NST]]_RBP [[খ্রীষ্টান\JJ ধর্ম\N_NN এসে\V_VM_VNF গিয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd521	[[৩৪৫\QT_QTC সালে\N_NN ক্যানোয়ির\N-NNP টমাসের\N-NNP নেতৃত্বে\N_NN]]_NP [[পশ্চিম\N-NNP এশিয়া\N-NNP থেকে\PSP]]_NP [[সাতটি\QT_QTC উপজাতির\N_NN ৪০০\QT_QTC জন\RP_CL খ্রীষ্টীয়\N_NN ধর্মাবলম্বনকারীরা\N_NN]]_NP [[কেরলে\N-NNP এসে\V_VM_VNF]]_VGNF [[বসবাস\N_NN করেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd522	[[পশ্চিম\N-NNP এশিয়ার\N-NNP সাতটি\QT_QTC উপজাতির\N_NN মাধ্যামে\PSP]]_NP [[কেরলে\N-NNP]]_NP [[খ্রীষ্টীয়\N_NN ধর্ম\N_NN প্রচার\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd523	[[অষ্ঠম\QT_QTO খ্রীষ্ঠাব্দ\N_NN থেকেই\PSP]]_NP [[কেরলবাসীরা\N-NNP]]_NP [[ইসলাম\N_NN ধর্মের\N_NN সঙ্গে\PSP পরিচিত\N_NN হন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd524	[[ইতিহাসবিদরা\N_NN]]_NP [[প্রাচীন\JJ কেরলকে\N-NNP]]_NP [[তামিল\N-NNP ভূভাগের\N_NN অঙ্গ\N_NN]]_NP [[মনে\V_VM_VNF করতেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd525	[[কেরলের\N-NNP স্বাধীণ\JJ বিকাশের\N_NN জন্য\PSP]]_NP [[যে\RP_RPD সকল\QT_QTF তত্ত্ব\N_NN সাহায্য\N_NN করেছে\V_VM_VF]]_VGF [[তাদের\PR_PRL মধ্যে\PSP প্রধাণ\N_NN হল\V_VAUX]]_VGF [[–\RD_PUNC]]_BLK [[বসবাসকারীদের\N_NN প্রকৃতি\N_NN প্রেম\N_NN]]_NP [[,\RD_PUNC]]_CCP [[আবাসন\N_NN কেন্দ্রের\N_NN বিকাশ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[উত্পাদন\N_NN কেন্দ্রের\N_NN উদয়\N_NN]]_NP [[আর\CC_CCD]]_CCP [[ভাষার\N_NN সমৃদ্ধি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd526	[[যখন\CC_CCS]]_RBP [[কৃষি\N_NN]]_NP [[আর\CC_CCD]]_CCP [[সম্পদের\N_NN]]_NP [[নিয়ণ্ত্রণ\N_NN]]_NP [[জমিদারদের\N_NN হাতে\N_NN আসে\V_VM_VNF]]_VGF [[তখন\CC_CCS]]_RBP [[কেরলে\N-NNP]]_NP [[অনেক\QT_QTF সামাজিক\JJ পরিবর্তণ\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd527	[[পরিণামস্বরূপ\N_NN]]_RBP [[ছোট\JJ ছোট\JJ ভুসম্পত্তি\N_NN নিয়ে\PSP]]_NP [[বড়\JJ রাজ্য\N_NN বিকাশ\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd528	[[এই\DM_DMD ভাবেই\RB]]_RBP [[কেরলের\N-NNP ইতিহাস\N_NN]]_NP [[সাম্রাজ্য\N_NN]]_NP [[আর\CC_CCD]]_CCP [[যুদ্ধের\N_NN ইতিহাস\N_NN হল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd529	[[ভাষা\N_NN]]_NP [[আর\CC_CCD]]_CCP [[সাহিত্যের\N_NN বিকাশের\N_NN ইতিহাস\N_NN হল\V_VAUX]]_VGF
+htd530	[[বিদেশী\JJ সেনার\N_NN আগমন\N_NN]]_NP [[ও\CC_CCD]]_CCP [[তাদের\PR_PRL দীর্ঘকালীন\JJ]]_RBP [[ঊপনিবেশ\N_NN তৈরি\N_NN হওয়ার\V_VM_VNG ইতিহাস\N_NN]]_NP [[,\RD_PUNC]]_CCP [[জাত\N_NN -\RD_PUNC পাত\RD_ECH]]_NP [[আর\CC_CCD]]_CCP [[শোষণের\N_NN]]_NP [[ইতিহাস\N_NN]]_NP
+htd531	[[শিক্ষার\N_NN প্রগতি\N_NN]]_NP [[আর\CC_CCD]]_CCP [[বৈজ্ঞানিক\JJ ক্ষেত্রে\N_NN]]_NP [[উন্নতির\N_NN ইতিহাস\N_NN]]_NP
+htd532	[[ব্যবসায়িক\JJ উন্নতি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[সামাজিক\JJ নবজাগরণ\N_NN]]_NP [[আর\CC_CCD]]_CCP [[গণতান্ত্রিক\JJ সংস্থার\N_NN আর্বিভাবের\N_NN ইতিহাস\N_NN]]_NP
+htd533	[[সুবিধার\N_NN জন্য\PSP কেরলের\N-NNP ইতিহাসকে\N_NN]]_NP [[প্রাচীন\N_NN]]_NP [[,\RD_PUNC]]_CCP [[মধ্যকালীন\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[আধুণিককালীন\N_NN]]_NP [[-\RD_PUNC]]_BLK [[এই\DM_DMD তিনটি\QT_QTC ভাগে\N_NN]]_NP [[বিভক্ত\N_NN করা\V_VM_VNG যেতে\V_VM_VINF পারে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd534	[[দুর্লভ\JJ বনস্পতি\N_NN]]_NP [[আর\CC_CCD]]_CCP [[পশু\N_NN]]_NP [[আর\CC_CCD]]_CCP [[ঝোপ\N_NN আছে\V_VAUX]]_VGF [[এমন\DM_DMD জায়গা\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd535	[[যদিও\CC_CCS]]_CCP [[এখানে\N_NST]]_RBP [[বড়\JJ বড়\JJ বৃক্ষ\N_NN আছে\V_VAUX]]_VGF [[তাও\CC_CCS]]_CCP [[এখানকার\N_NN]]_RBP [[সমস্ত\QT_QTF ঝোপঝাড়ের\N_NN জন্য\PSP]]_NP [[চিন্নার\N-NNP]]_NP [[বিখ্যাত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd536	[[এখানে\N_NST]]_NP [[হলদেটে\JJ]]_NP [[বা\CC_CCD]]_CCP [[লালচে\JJ বাদামি\JJ রঙের\N_NN]]_NP [[দুর্লভ\JJ কাঠবেড়ালিও\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd537	[[বিশ্বে\N_NN]]_NP [[এই\DM_DMD কাঠবেড়ালির\N_NN]]_NP [[(\RD_PUNC Giant\RD_RDF Grizzled\RD_RDF Squirrel\RD_RDF of\RD_RDF India\RD_RDF )\RD_PUNC]]_NP [[সংখ্যা\N_NN হল\V_VAUX]]_VGF [[প্রায়\JJ]]_RBP [[২০০\QT_QTC]]_JJP [[৷\RD_PUNC]]_BLK
+htd538	[[কেরলের\N-NNP অন্যন্য\JJ বনাঞ্চলের\N_NN থেকে\PSP]]_NP [[এখানে\N_NST]]_RBP [[অনেক\RP_INTF কম\JJ বৃষ্টি\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd539	[[এখানে\N_NST]]_RBP [[বছরে\N_NN]]_NP [[প্রায়\RB]]_RBP [[৪৮\QT_QTC দিন\N_NN বর্ষা\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd540	[[চিন্নারের\N-NNP কাছেই\PSP]]_NP [[চন্দনক্কাড়ু\N-NNP নামক\N_NN স্থান\N_NN]]_NP [[বন্যপ্রাণী\N_NN দর্শনের\N_NN জন্য\PSP]]_NP [[উপযুক্ত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd541	[[এই\DM_DMD ঘন\JJ জঙ্গলে\N_NN]]_NP [[এক\QT_QTC ধরণের\N_NN কালো\JJ পাখিও\N_NN]]_NP [[দেখতে\V_VM_VINF পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd542	[[হাতি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[হরিণ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[হনুমান\N_NN -\RD_PUNC বাঁদর\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ময়ূর\N_NN ইত্যাদি\N_NN]]_NP [[রাস্তার\N_NN দুই\QT_QTC ধারে\N_NN]]_NP [[দেখা\N_NN যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd543	[[নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN হল\V_VAUX]]_VGF [[–\RD_PUNC]]_BLK [[এর্ণাকুলাম\N-NNP]]_NP [[,\RD_PUNC]]_BLK [[১৯০\QT_QTC কি.মি\N_NN]]_NP
+htd544	[[নিকটতম\JJ বিমানবন্দর\N_NN]]_NP [[-\RD_PUNC]]_BLK [[কোচি\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[,\RD_PUNC]]_BLK [[২১০\QT_QTC কি.মি.\N_NN]]_NP
+htd545	[[এই\DM_DMD স্থানে\N_NN]]_NP [[বড়\JJ বড়\V_VAUX ঘাসের\N_NN মাঠ\N_NN]]_NP [[আর\CC_CCD]]_CCP [[ছায়াওলা\JJ বৃক্ষ\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd546	[[প্রায়\RB]]_RBP [[৯৭\QT_QTC বর্গ\N_NN কি.মি.\N_NN জুড়ে\V_VM_VNF ছড়ানো\V_VM_VNG]]_VGNN [[এই\DM_DMD রাষ্ট্রীয়\JJ উদ্যান\N_NN]]_NP [[অত্যন্ত\RP_INTF মনোরম\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd547	[[এটা\DM_DMD হল\V_VAUX]]_VGF [[নিলগিরি\N_NN গাইয়ের\N_NN]]_NP [[মনোরম\JJ বসবাস\N_NN স্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd548	[[এখন\RB]]_RBP [[নিলগিরি\N_NN গাই\N_NN]]_NP [[প্রায়\RB]]_RBP [[হারিয়ে\V_VM_VNF যাচ্ছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd549	[[এখানে\N_NST]]_RBP [[নিলগিরি\N_NN বেবুন\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ছোটো\JJ লেজওলা\N_NN বাঁদর\N_NN]]_NP [[,\RD_PUNC]]_CCP [[চিতা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[বাঘ\N_NN]]_NP [[ইত্যাদি\N_NN পশুর\N_NN দেখা\V_VM_VNG মেলে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd550	[[এই\DM_DMD এলাকা\N_NN]]_NP [[বিশেষ\RP_INTF রূপে\RB সংরক্ষিত\N_NN]]_NP [[তাই\CC_CCS]]_CCP [[পর্যটকরা\N_NN]]_NP [[শুধুমাত্র\RB]]_RBP [[`\RD_PUNC পর্যটক\N_NN -\RD_PUNC অঞ্চলেই\N_NN `\RD_PUNC]]_NP [[প্রবেশ\N_NN করতে\V_VM_VINF পারেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd551	[[বর্ষার\N_NN সময়\N_NN]]_NP [[ওখানে\N_NST যাওয়ার\V_VM_VNG]]_VGNN [[অনুমতি\N_NN]]_NP [[নেই\RP_NEG]]_NEGP [[৷\RD_PUNC]]_BLK
+htd552	[[আন্তর্জাতিক\JJ স্তরে\N_NN]]_NP [[গাবি\N-NNP হল\V_VAUX]]_NP [[একটি\QT_QTC বিখ্যাত\JJ ইকো\N_NN -\RD_PUNC ট্যুরিজিম\N_NN কেন্দ্র\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd553	[[গাবি\N-NNP হল\V_VAUX]]_VGF [[কেরল\N-NNP বন\N_NN বিকাশ\N_NN কেন্দ্রের\N_NN]]_NP [[অধীণস্থ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd554	[[`\RD_PUNC এলিয়েস্টার\N-NNP ইন্টারন্যাশনাল\N-NNP `\RD_PUNC নামক\N_NN]]_NP [[বিশ্ব\N_NN পর্যটন\N_NN সংস্থা\N_NN]]_NP [[পর্যটকদের\N_NN]]_NP [[এই\DM_DMD অঞ্চল\N_NN ঘোরানোর\V_VM_VNG প্রয়োজনীয়তার\N_NN ওপর\PSP]]_NP [[গুরুত্ব\N_NN দিয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd555	[[বন্য\JJ পশু\N_NN দেখা\V_VM_VNG]]_VGNN [[,\RD_PUNC]]_CCP [[ট্রেকিং\N_NN]]_NP [[ইত্যাদির\N_NN জন্য\PSP]]_NP [[গাবি\N-NNP হল\V_VAUX উপযুক্ত\JJ স্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd556	[[গাবিতে\N-NNP]]_NP [[তাঁবু\N_NN লাগানো\V_VM_VNG থেকে\PSP শুরু\N_NN করে\V_VM_VNF]]_VGNF [[খাবার\N_NN তৈরি\N_NN করে\V_VM_VNF দেওয়ার\V_VM_VNG মতো\RP_RPD কাজ\N_NN]]_NP [[স্থানীয়\JJ লোকেরা\N_NN]]_NP [[কম\JJ দামে\N_NN করে\V_VM_VNF দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd557	[[চা\N_NN বাগানের\N_NN ভিতর\N_NST দিয়ে\PSP]]_NP [[গাবিতে\N-NNP যাওয়ার\V_VM_VNG যাত্রা\N_NN]]_NP [[শুরু\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd558	[[মুণ্ডক্কয়ম\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[কুট্টিক্কানম\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[পীরুমেণ্ড\N-NNP]]_NP [[ইত্যাদি\N_NN এলাকা\N_NN পার\N_NN করে\V_VM_VNF]]_VGNF [[বণ্ডিপ্পেরিয়ার\N-NNP হয়ে\V_VM_VNF]]_VGNF [[গাবি\N-NNP যাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd559	[[গাবি\N-NNP পৌঁছে\V_VM_VNF]]_VGNF [[গ্রিন\N-NNP ম্যানসন\N-NNP নামক\N_NN ইকো\N_NN লজেও\N_NN]]_NP [[থাকা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd560	[[যদি\CC_CCS]]_CCP [[আপনি\PR_PRP গাছের\N_NN পাশে\PSP]]_NP [[তাঁবু\N_NN লাগিয়ে\V_VM_VNF]]_VGNN [[বা\CC_CCD]]_CCP [[গাছের\N_NN ওপর\PSP তৈরি\N_NN ঘরে\N_NN]]_NP [[থাকতে\V_VM_VINF ভালবাসেন\V_VM_VF]]_VGF [[তাহলে\CC_CCS]]_CCP [[তাও\RP_RPD সম্ভব\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd561	[[ইকো\N_NN লজের\N_NN পাশে\PSP]]_NP [[গাবি\N-NNP সরোবর\N-NNP আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd562	[[এখানে\N_NST]]_RBP [[বোটিং\N_NN করার\V_VM_VNG সুবিধা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd563	[[সরোবরের\N_NN চারদিকে\N_NN বন\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ঘাসের\N_NN মাঠ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[পাহাড়\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ঘাট\N_NN]]_NP [[,\RD_PUNC]]_CCP [[এলাচ\N_NN বাগান\N_NN]]_NP [[,\RD_PUNC]]_CCP [[গাছপালা\N_NN]]_NP [[ইত্যাদি\N_NN দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd564	[[নিলগিরি\N_NN গাই\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ছোট\JJ লেজওলা\N_NN বাঁদর\N_NN]]_NP [[ইত্যাদি\N_NN খুবই\RP_INTF কাছ\N_NN থেকে\PSP]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd565	[[এখানে\N_NST]]_RBP [[মলমুষক্কি\N-NNP]]_NP [[(\RD_PUNC সেই\DM_DMD পাখি\N_NN]]_NP [[যার\PR_PRL আওয়াজ\N_NN পাহাড়ে\N_NN অনুরণিত\N_NN হয়\V_VAUX )\RD_PUNC]]_VGF [[,\RD_PUNC]]_CCP [[চাতক\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কাঠঠোকরা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[নীল\N_NN কন্ঠ\N_NN]]_NP [[ইত্যাদি\N_NN সব\QT_QTF মিলিয়ে\N_NN]]_VGNF [[পাখিদের\N_NN ২৬০\QT_QTC প্রজাতি\N_NN থাকে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd566	[[গাবি\N-NNP থেকে\PSP বেরিয়ে\V_VM_VNF]]_VGNF [[এগিয়ে\V_VM_VNF যেতে\V_VM_VINF পারবেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd567	[[কোল্লুর\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[গাবি\N-NNP ঘাসের\N_NN বাগান\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কোচ্চু\N-NNP পম্পা\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[পচ্চক্কানম\N-NNP]]_NP [[ইত্যাদি\N_NN স্থান\N_NN ঘুরে\V_VM_VNF]]_VGNF [[রাতে\N_NN বেরোনো\V_VM_VNG জীব\N_NN -\RD_PUNC জন্তুদেরও\N_NN]]_NP [[দেখতে\V_VM_VINF পারবেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd568	[[গাবি\N-NNP ট্রি\N_NN হাউস\N_NN]]_NP [[আর\CC_CCD]]_CCP [[তাঁবু\N_NN]]_NP [[ইত্যাদিতে\N_NN থেকে\V_VM_VNF]]_VGNF [[বন\N_NN জীবনের\N_NN রসাস্বাদন\N_NN করতে\V_VM_VINF পারবেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd569	[[গাবি\N-NNP]]_NP [[বণ্ডেপ্পেরিয়ার\N-NNP থেকে\PSP ২৮\QT_QTC কি.মি.\N_NN]]_NP [[আর\CC_CCD]]_CCP [[তেক্কড়ি\N-NNP থেকে\PSP ৪৬\QT_QTC কি.মি.\N_NN]]_NP [[দূরে\N_NN]]_NP [[অবস্থিত\N_NN রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd570	[[সাহসী\JJ পর্যটন\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[ট্রেকিং\N_NN করার\V_VM_VNG জন্য\PSP]]_NP [[ইকো\N_NN পয়েন্ট\N_NN হল\V_VAUX]]_VGF [[উপযুক্ত\JJ জায়গা\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd571	[[মুন্নার\N-NNP থেকে\PSP]]_NP [[টোপ\N-NNP স্টেশন\N_NN যাওয়ার\V_VM_VNG পথে\N_NN]]_NP [[ইকো\N-NNP পয়েন্ট\N-NNP পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd572	[[ইকো\N-NNP পয়েন্ট\N-NNP অঞ্চল\N_NN]]_NP [[মাংকুন্নু\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[কোড়িয়ন্তুরমলা\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[তোণিপ্পারা\N-NNP]]_NP [[ইত্যাদি\N_NN পাহাড়\N_NN দিয়ে\PSP ঘেরা\N_NN]]_VGNN [[ও\CC_CCD]]_CCP [[ট্রেকিংএর\N_NN জন্য\PSP]]_NP [[উপযুক্ত\JJ স্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd573	[[ইলবীষাপুংচিরা\N-NNP হল\V_VAUX]]_VGF [[কাঞ্জারের\N-NNP পাশে\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd574	[[কোট্টায়ম\N-NNP জেলার\N_NN পালায়\N-NNP থেকে\PSP]]_VGNF [[কাঞ্জার\N-NNP যাওয়া\V_VM_VNG]]_VGNN [[সহজ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd575	[[কাঞ্জার\N-NNP থেকে\PSP]]_NP [[১৫০০\QT_QTC মিটার\N_NN উঁচু\N_NN থেকে\PSP]]_NP [[প্রচন্ড\JJ গর্জনসহ\N_NN ঝরে\V_VM_VNF পড়া\V_VM_VNG জল\N_NN]]_NP [[একটি\QT_QTC মনোরম\JJ জলপ্রপাত\N_NN]]_NP [[সৃষ্টি\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd576	[[কাঞ্জার\N-NNP জলপ্রপাত\N_NN]]_NP [[সারা\JJ বছরই\N_NN]]_NP [[জলপূর্ণ\N_NN থাকে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd577	[[ট্রেকিংএর\N_NN জন্য\PSP]]_NP [[কাঞ্জার\N-NNP হল\V_VAUX]]_VGF [[উপযুক্ত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd578	[[কাঞ্জারে\N-NNP]]_NP [[পর্যাপ্ত\JJ পরিমাণে\N_NN]]_NP [[জড়ি\N_NN -\RD_PUNC বুটি\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd579	[[জলপ্রপাত\N_NN]]_NP [[,\RD_PUNC]]_CCP [[উচুঁ\JJ -\RD_PUNC নিচু\JJ পাহাড়ের\N_NN সাথে\PSP যুক্ত\N_NN]]_NP [[আট্টুকল\N-NNP]]_NP [[মনোরম\JJ দৃশ্য\N_NN প্রদর্শন\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd580	[[যদি\CC_CCS]]_CCP [[আপনি\PR_PRP]]_NP [[কম\JJ সময়ে\N_NN]]_NP [[আর\CC_CCD]]_CCP [[কম\JJ খরচে\N_NN]]_NP [[গোটা\JJ গোয়া\N-NNP ঘুরতে\V_VM_VINF চান\V_VM_VF]]_VGF [[,\RD_PUNC তাহলে\CC_CCS]]_CCP [[পর্যটন\N_NN বাসের\N_NN পরিষেবা\N_NN নিন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd581	[[কাঞ্জার\N-NNP]]_NP [[মুন্নার\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[পঠ্ঠিবাসলের\N-NNP]]_NP [[মাঝে\PSP অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd582	[[কেরলে\N-NNP]]_NP [[চন্দন\N_NN গাছের\N_NN]]_NP [[মূল\JJ জায়গা\N_NN হলো\V_VAUX]]_VGF [[মরায়ুর\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd583	[[মরায়ুরের\N-NNP দর্শনীয়\JJ স্থান\N_NN হল\V_VAUX]]_VGF [[বন\N_NN বিভাগের\N_NN চন্দন\N_NN ফ্যাক্টরি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[প্রস্তরযুগের\N_NN চিত্র\N_NN]]_NP [[আর\CC_CCD]]_CCP [[সজ্জিত\JJ গুহা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[এক\QT_QTC হেক্টর\N_NN জমিতে\N_NN ছড়ানো\V_VM_VNG]]_VGNN [[ছায়াওলা\JJ বটগাছ\N_NN ইত্যাদি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd584	[[তুবানম\N-NNP জলপ্রপাত\N_NN]]_NP [[,\RD_PUNC]]_CCP [[রাজীব\N-NNP গান্ধী\N-NNP রাষ্ট্রীয়\N-NNP উদ্যান\N-NNP]]_NP [[ইত্যাদি\N_NN মরায়ুরের\N-NNP কাছেই\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd585	[[মরায়ুরের\N-NNP]]_NP [[পুরাতাত্ত্বিক\JJ প্রধাণ্যও\N_NN]]_NP [[কম\RB]]_JJP [[নয়\V_VM_VF]]_NEGP [[৷\RD_PUNC]]_BLK
+htd586	[[এখানে\N_NST]]_RBP [[প্রস্তর\N_NN যুগের\N_NN গুহা\N_NN]]_NP [[ও\CC_CCD]]_CCP [[আরও\N_NN প্রাচীন\JJ কেন্দ্র\N_NN]]_NP [[খুঁড়ে\V_VM_VNF বের\V_VM_VNF করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd587	[[মাট্টুপ্পেটিটের\N-NNP]]_NP [[দর্শনীয়\JJ স্থানের\N_NN মধ্যে\PSP]]_NP [[একটি\QT_QTC `\RD_PUNC ইন্দো\N-NNP -\RD_PUNC সুইস\N-NNP `\RD_PUNC ডেয়ারি\N_NN ফার্মও\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd588	[[মাট্টুপ্পেটিটের\N-NNP ইন্দো\N-NNP -\RD_PUNC সুইস\N-NNP ডেয়ারি\N_NN ফার্ম\N_NN]]_NP [[সমুদ্রতল\N_NN থেকে\PSP ১৭০০\QT_QTC মিটার\N_NN উচুঁতে\N_NST]]_NP [[বানানো\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd589	[[ইন্দো\N-NNP -\RD_PUNC সুইস\N-NNP ডেয়ারি\N_NN ফার্মে\N_NN]]_NP [[১১১\QT_QTC আধুণিক\JJ গোয়াল\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd590	[[এই\DM_DMD ১১টি\QT_QTC আধুণিক\JJ গোয়ালগুলির\N_NN মধ্যে\PSP]]_NP [[মাত্র\RB]]_RBP [[তিনটি\QT_QTC গোয়াল\N_NN]]_NP [[পর্যটকদের\N_NN জন্য\PSP খোলা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd591	[[এখানকার\N-NNP]]_RBP [[অপর\JJ দৃশ্য\N_NN হল\V_VAUX]]_VGF [[মাট্টুপ্পেটিট\N-NNP বাঁধ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[সরোবর\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কুণ্ডলা\N-NNP চা\N_NN বাগান\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কুণ্ডলা\N-NNP সরোবর\N_NN ইত্যাদি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd592	[[ডি.টি.পি.সি\N-NNP]]_NP [[এই\DM_DMD সরোবরে\N_NN]]_NP [[বোট\N_NN যাত্রার\N_NN ব্যবস্থা\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd593	[[পঠ্ঠিবাসল\N-NNP জল\N_NN -\RD_PUNC বিদ্যুত্\N_NN যোজনা\N_NN কেন্দ্র\N_NN]]_NP [[চিত্রপুরম\N-NNP হল\V_VAUX]]_VGF [[মাট্টুপ্পেটিটের\N-NNP কাছে\PSP]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd594	[[ভারতের\N-NNP]]_NP [[প্রসিদ্ধ\JJ হিল\N_NN স্টেশনের\N_NN একটি\QT_QTC হল\V_VAUX]]_VGF [[মুন্নার\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd595	[[শরীর\N_NN -\RD_PUNC মনকে\N_NN আনন্দে\N_NN ভরিয়ে\V_VM_VNF দেওয়া\V_VM_VNG]]_VGNN [[মুন্নারের\N-NNP প্রাকৃতিক\JJ সুষমা\N_NN]]_NP [[অনির্বচনীয়\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd596	[[মুদ্রপ্পুষা\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[নল্লতণ্ণি\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[কুণ্ডলা\N-NNP]]_NP [[ইত্যাদি\N_NN নদীর\N_NN সঙ্গম\N_NN স্থলে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[পাহাড়ের\N_NN ফলে\PSP]]_NP [[মুন্নারে\N-NNP]]_NP [[অনুপম\JJ শ্যামলিমার\N_NN দর্শন\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd597	[[মুন্নার\N-NNP হল\V_VAUX]]_VGF [[সমুদ্রস্থল\N_NN থেকে\PSP ১৬০০\QT_QTC মিটার\N_NN উচুঁতে\N_NST]]_NP [[অবস্থিত\N_NN]]_JJP [[একটা\QT_QTC পাহাড়ি\JJ অঞ্চল\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd598	[[মুন্নার\N-NNP]]_NP [[ভারতের\N-NNP]]_NP [[গুরুত্বপূর্ণ\JJ গ্রীষ্মের\N_NN আবাসনের\N_NN মধ্যে\PSP]]_NP [[একটি\QT_QTC ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd599	[[মুন্নারে\N-NNP]]_NP [[ব্রিটিশ\N-NNP শাসনের\N_NN সময়ে\N_NN]]_NP [[সাদা\JJ চামড়ার\N_NN লোকরা\N_NN]]_NP [[থাকতেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd600	[[ব্রিটিশ\N-NNP বাগানের\N_NN মালিকরা\N_NN]]_NP [[মুন্নারে\N-NNP]]_NP [[চা\N_NN বাগান\N_NN লাগিয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd601	[[মুন্নারের\N-NNP সব\QT_QTF থেকে\PSP ভাল\JJ ব্যাপার\N_NN এই\DM_DMD]]_NP [[যে\RP_RPD এটা\DM_DMD]]_NP [[কখনই\RB]]_RBP [[পর্যটকহীন\N_NN হয়\V_VM_VF না\RP_NEG]]_VGF [[৷\RD_PUNC]]_BLK
+htd602	[[মুন্নার\N-NNP টাউন\N_NN থেকে\PSP ২২\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[চায়ের\N_NN বাগান\N_NN থেকে\PSP]]_NP [[যাত্রা\N_NN করা\V_VM_VNG]]_VGNN [[ভালো\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd603	[[বাঁধের\N_NN চারদিকে\N_NN]]_NP [[ঘন\JJ জঙ্গল\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd604	[[টোপ\N-NNP স্টেশন\N_NN হল\V_VAUX]]_VGF [[মুন্নার\N-NNP থেকে\PSP ৩২\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[মুন্নার\N-NNP কোডাইকানাল\N-NNP মার্গে\N_NN]]_NP [[সবথেকে\RP_INTF উচুঁ\JJ অঞ্চল\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd605	[[এখানে\N_NST]]_RBP [[নীলকুরুঞ্জি\N_NN নামক\N_NN বিশ্ববিখ্যাত\JJ ফুল\N_NN]]_NP [[পাওয়া\V_VAUX যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd606	[[এই\DM_DMD পাহাড়\N_NN থেকে\PSP]]_NP [[তামিলনাড়ুর\N-NNP ঝলকও\N_NN]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd607	[[নীলকুরুঞ্জি\N_NN]]_NP [[বারো\QT_QTC বছরে\N_NN]]_NP [[একবারই\QT_QTC]]_RBP [[ফোটে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd608	[[এটা\DM_DMD হল\V_VAUX]]_VGF [[কেরলের\N-NNP কাছে\PSP]]_NP [[প্রকৃতির\N_NN বরদান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd609	[[যখন\CC_CCS]]_RBP [[নীলকুরুঞ্জি\N_NN ফোটে\V_VM_VNF]]_VGF [[তখন\CC_CCS]]_RBP [[পাহাড়\N_NN এমন\DM_DMD দেখতে\V_VM_VINF লাগে\V_VM_VNF]]_VGF [[যেন\RP_RPD তা\PR_PRL নীল\JJ রঙে\N_NN ডুবে\V_VM_VNF গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd610	[[এই\DM_DMD ফুলটি\N_NN]]_NP [[নীল\JJ রঙের\N_NN]]_NP [[প্রায়\JJ]]_RBP [[৬০টি\QT_QTC শেডসে\N_NN পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd611	[[যখন\CC_CCS]]_RBP [[এটা\DM_DMD ফোটে\V_VM_VNF]]_VGF [[তখন\CC_CCS]]_RBP [[মনে\V_VM_VNF হয়\V_VAUX]]_VGF [[যেন\RP_RPD সমস্ত\QT_QTF প্রকৃতি\N_NN]]_NP [[নীল\JJ রঙে\N_NN স্নান\N_NN করে\V_VM_VNF উঠেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd612	[[প্রকৃতির\N_NN এই\DM_DMD অদ্ভূত\JJ দৃশ্য\N_NN]]_NP [[কোবিলুর\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[কড়াবরি\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[রাজমলা\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[ইশবিকুঠ্ঠম\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[মুন্নার\N-NNP অঞ্চলের\N_NN দর্শকদের\N_NN]]_NP [[মন্ত্রমুগ্ধ\N_NN করে\V_VM_VNF দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd613	[[গতবার\RB]]_RBP [[২০০৬\QT_QTC সালে\N_NN]]_NP [[নীলকুরুঞ্জি\N_NN ফুটেছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd614	[[যদিও\CC_CCS]]_RBP [[প্রতি\JJ বছরই\N_NN]]_NP [[কিছু\QT_QTF পাহাড়ে\N_NN]]_NP [[নীলকুরুঞ্জি\N_NN ফোটে\V_VM_VF]]_VGF [[,\RD_PUNC]]_BLK [[কিন্তু\CC_CCS]]_CCP [[পূর্ণ\QT_QTF নীলাভ\JJ পুষ্প\N_NN উত্সবের\N_NN জন্য\PSP]]_NP [[আমাদের\PR_PRP ২০১৮\QT_QTC পর্যন্ত\PSP]]_NP [[অপেক্ষা\N_NN করতে\V_VM_VINF হবে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd615	[[মুন্নার\N-NNP পর্যটন\N_NN কার্যক্রমের\N_NN মধ্যে\PSP]]_NP [[চা\N_NN -\RD_PUNC সংগ্রাহালয়কেও\N_NN]]_NP [[স্থান\N_NN দেওয়া\V_VM_VNG]]_VGNN [[উচিত\RB]]_JJP [[৷\RD_PUNC]]_BLK
+htd616	[[চা\N_NN -\RD_PUNC সংগ্রাহালয়\N_NN]]_NP [[নল্লতণ্ণি\N-NNP নামক\N_NN `\RD_PUNC টি\N_NN এস্টেটে\N_NN `\RD_PUNC আছে\V_VAUX]]_VGF [[যা\PR_PRL হল\V_VAUX টাটা\N-NNP টি`র\N-NNP]]_NP [[অধীণস্থ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd617	[[মুন্নারের\N-NNP চা\N_NN -\RD_PUNC সংগ্রাহালয়ে\N_NN]]_NP [[প্রদর্শিত\N_NN]]_JJP [[প্রাচীন\JJ বস্তুগুলির\N_NN মধ্যে\PSP মহত্বপূর্ণ\JJ হল\V_VAUX]]_VGF [[-\RD_PUNC]]_BLK [[মুন্নারে\N-NNP চা\N_NN ক্ষেত\N_NN বিকাশের\N_NN পর্যায়\N_NN]]_NP [[,\RD_PUNC]]_BLK [[আগের\JJ যন্ত্র\N_NN]]_NP [[যা\PR_PRL ঘন\JJ জঙ্গলকে\N_NN]]_NP [[চা\N_NN বাগানে\N_NN পরিণত\N_NN করার\V_VM_VNG জন্য\PSP]]_NP [[ব্যবহার\N_NN করা\V_VM_VNG হত\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd618	[[১৯০৫\QT_QTC সালের\N_NN টি\N_NN সেলার\N_NN]]_NP [[,\RD_PUNC]]_CCP [[১৯৩০র\QT_QTC পেল্টন\N_NN উইল\N_NN]]_NP [[,\RD_PUNC]]_CCP [[চা\N_NN নিয়ে\PSP যাওয়ার\V_VM_VNG জন্য\PSP]]_NP [[হাই\JJ রেঞ্জে\N_NN স্থাপিত\N_NN]]_NP [[লাইট\JJ রেললাইনে\N_NN চলা\V_VM_VNG রেলগাড়ির\N_NN কল\N_NN -\RD_PUNC ইত্যাদি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd619	[[চা\N_NN পাতা\N_NN তৈরির\V_VM_VNG বিভিন্ন\JJ স্তর\N_NN দেখাও\V_VM_VNG]]_VGNN [[যথেষ্ট\RP_INTF আকর্ষক\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd620	[[খ্রীষ্ট\N_NN পূর্ব\N_NN দ্বিতীয়\QT_QTC শতাব্দীর\N_NN]]_NP [[`\RD_PUNC চিতা\N_NN -\RD_PUNC ভষ্ম\N_NN কলস\N_NN `\RD_PUNC নামক\N_NN একটি\QT_QTC দ্বিতীয়\QT_QTO বস্তু\N_NN আছে\V_VAUX]]_VGF [[যা\PR_PRL আপনারা\PR_PRP দেখতে\V_VAUX পারেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd621	[[এ\DM_DMD ছাড়াও\PSP]]_CCP [[চা\N_NN -\RD_PUNC উত্পাদনের\N_NN প্রথাগত\JJ প্রক্রিয়া\N_NN]]_NP [[,\RD_PUNC]]_CCP [[বিভিন্ন\JJ ধরণের\N_NN চা\N_NN পাতা\N_NN]]_NP [[এখানে\N_NST]]_RBP [[প্রদর্শিত\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd622	[[ইডুক্কি\N-NNP জেলার\N_NN পাণ্ডিক্কুষি\N-NNP অঞ্চল\N_NN হল\V_VAUX]]_VGF [[বন\N_NN]]_NP [[ও\CC_CCD]]_CCP [[বন্যজন্তুর\N_NN ফোটোগ্রাফের\N_NN জন্য\PSP]]_NP [[উপযুক্ত\JJ স্থান\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd623	[[পাণ্ডিক্কুষির\N-NNP শস্য\JJ শ্যামল\JJ প্রকৃতি\N_NN]]_NP [[আর\CC_CCD]]_CCP [[বিবিধ\JJ বন্যপ্রাণী\N_NN]]_NP [[দর্শকদের\N_NN মন্ত্রমুগ্ধ\N_NN করে\V_VM_VNF দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd624	[[চেল্লারকোবিলের\N-NNP কাছে\PSP]]_NP [[তামিলনাড়ুর\N-NNP সীমায়\N_NN পাণ্ডিক্কুষি\N-NNP]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd625	[[সমুদ্রতল\N_NN থেকে\PSP ৯১৫\QT_QTC মিটার\N_NN উচ্চতায়\N_NST]]_NP [[পীরুমেড়ু\N-NNP]]_NP [[অবস্থিত\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd626	[[চা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কফি\N_NN]]_CCP [[,\RD_PUNC]]_CCP [[রবার\N_NN]]_NP [[,\RD_PUNC]]_CCP [[এলাচ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ইউক্যালিপ্টাস\N_NN]]_NP [[ইত্যাদির\N_NN বাগান\N_NN]]_NP [[পীরুমেড়ুর\N-NNP শ্যামনিমাকে\N_NN]]_NP [[জীবিত\N_NN রেখেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd627	[[সবুজ\JJ মাঠ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[জলপ্রপাত\N_NN]]_NP [[,\RD_PUNC]]_CCP [[পাইন\N_NN গাছ\N_NN]]_NP [[ইত্যাদি\N_NN পীরুমেড়ুর\N-NNP সৌন্দর্যকে\N_NN]]_NP [[আরও\RP_INTF আর্কষণীয়\N_NN করে\V_VM_VNF তোলে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd628	[[পীরুমেড়ু\N-NNP হল\V_VAUX]]_VGF [[ট্রেকিং\N_NN]]_NP [[,\RD_PUNC]]_CCP [[সাইকেল\N_NN সওয়ার\V_VM_VNG]]_NP [[,\RD_PUNC]]_CCP [[ঘোড়া\N_NN সওয়ার\V_VM_VNG]]_NP [[ইত্যাদির\N_NN জন্য\PSP উপযুক্ত\JJ স্থান\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd629	[[পেরিয়ার\N-NNP নদীর\N_NN সাথে\PSP লাগানো\V_VM_VNG]]_VGNN [[শস্য\JJ শ্যামল\JJ পর্বতমালা\N_NN হল\V_VAUX]]_VGF [[পুলমেড়ু\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd630	[[পীরুমেড়ু\N-NNP থেকে\PSP]]_NP [[সবরীমলা\N-NNP মন্দির\N_NN]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd631	[[সবরীমলা\N-NNP মন্দির\N_NN যাওয়ার\V_VM_VNG পথে\N_NN]]_NP [[পুলমেড়ু\N-NNP পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd632	[[আমরা\PR_PRP জিপ\N_NN নিয়েও\PSP]]_NP [[পুলমেড়ু\N-NNP যেতে\V_VM_VINF পারি\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd633	[[এটা\DM_DMD সংরক্ষিত\JJ বন\N_NN হওয়ার\V_VM_VNG ফলে\PSP]]_NP [[ভ্রমণের\N_NN জন্য\PSP বন\N_NN বিভাগের\N_NN অনুমতি\N_NN]]_NP [[আবশ্যক\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd634	[[চেল্লারকোবিল\N-NNP হল\V_VAUX]]_VGF [[পীরুমেড়ুর\N-NNP একটি\QT_QTC অংশ\N_NN]]_NP [[,\RD_PUNC]]_BLK [[এখানে\N_NST]]_RBP [[অনেক\QT_QTF জলপ্রপাত\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd635	[[চেল্লারকোবিল\N-NNP অঞ্চল\N_NN]]_NP [[অত্যন্ত\RP_INTF রমণীয়\JJ প্রকৃতির\N_NN সঙ্গে\PSP]]_NP [[যুক্ত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd636	[[চেল্লারকোবিল\N-NNP গ্রামের\N_NN একটি\QT_QTC অংশে\N_NN]]_NP [[খাড়া\JJ পাথরের\N_NN রাস্তা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd637	[[চেল্লারকোবিল\N-NNP গ্রামের\N_NN]]_NP [[খাড়া\JJ পাথরের\N_NN রাস্তা\N_NN নিচে\N_NST]]_NP [[তামিলনাড়ুর\N_NN কম্বমে\N_NN অবস্থিত\N_NN]]_NP [[নারকোলের\N-NNP বাগান\N_NN পর্যন্ত\PSP গেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd638	[[বণ্ডেপ্পেরিয়ার\N-NNP হল\V_VAUX]]_VGF [[প্রকৃতি\N_NN সমৃদ্ধ\N_NN অঞ্চল\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd639	[[বণ্ডেপ্পেরিয়ারের\N-NNP]]_NP [[চা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কফি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[গোলমরিচ\N_NN]]_NP [[ইত্যাদির\N_NN চাষ\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd640	[[এর\DM_DMD মাঝখান\N_NST দিয়ে\PSP]]_NP [[পেরিয়ার\N-NNP নদী\N_NN বয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd641	[[এখানে\N_NST]]_RBP [[সরকারি\JJ কৃষি\N_NN উদ্যান\N_NN]]_NP [[আর\CC_CCD]]_CCP [[পুষ্পোদ্যান\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd642	[[এটা\DM_DMD হল\V_VAUX]]_VGF [[পাহাড়ি\JJ ফল\N_NN -\RD_PUNC ফুল\N_NN]]_NP [[,\RD_PUNC]]_CCP কন্দ\N_NN -\RD_PUNC [[মূল\N_NN]]_NP [[ইত্যাদির\N_NN কেন্দ্র\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd643	[[`\RD_PUNC পট্টমলা\N-NNP `\RD_PUNC নামের\N_NN অর্থ\N_NN হল\V_VAUX]]_VGF [[সবুজ\JJ পাহাড়\N_NN]]_NP [[যা\PR_PRL দেখে\V_VM_VNF]]_VGNF [[মনে\V_VM_VNF হয়\V_VAUX]]_VGF [[যেন\RP_RPD রেশমে\N_NN ঢাকা\N_NN রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd644	[[পীরুমেড়ুতে\N-NNP অবস্থিত\N_NN]]_NP [[পট্টমলার\N-NNP সৌন্দর্য\N_NN হল\V_VAUX]]_VGF [[অলৌকিক\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd645	[[পট্টমলা\N-NNP]]_NP [[নিজের\PR_PRF সৌন্দর্য\N_NN দ্বারা\PSP]]_NP [[বিশ্বের\N_NN মন\N_NN ভরিয়ে\V_VM_VNF দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd646	[[পট্টমলার\N-NNP সবুজে\N_NN ভরা\V_VM_VNG পাহাড়ি\JJ শিখরে\N_NN অবস্থিত\N_NN]]_NP [[বেলাংকণ্ণি\N-NNP মাতা\N-NNP চার্চ\N-NNP হল\V_VAUX]]_VGF [[একটি\QT_QTC প্রসিদ্ধ\JJ তীর্থস্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd647	[[চার্চের\N_NN একেবারে\RB কাছে\PSP]]_NP [[একটি\QT_QTC সুন্দর\JJ উদ্যানও\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd648	[[বণ্ডনমেড়ু\N-NNP হল\V_VAUX]]_VGF [[বিশ্ব\JJ বিখ্যাত\JJ এলাচ\N_NN বিক্রয়\N_NN কেন্দ্র\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd649	[[বণ্ডনমেড়ুর\N-NNP নিলাম\N_NN অঞ্চলে\N_NN]]_NP [[সারা\JJ বিশ্বের\N_NN ব্যবসায়ীদের\N_NN]]_NP [[ভিড়\N_NN থাকে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd650	[[ইডুক্কি\N-NNP হল\V_VAUX]]_VGF [[একটি\QT_QTC ঘন\JJ জঙ্গল\N_NN]]_NP [[ও\CC_CCD]]_CCP [[ঘাসযুক্ত\JJ বনাঞ্চল\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd651	[[তট্টেক্কাড়ু\N-NNP হল\V_VAUX]]_VGF [[ইডুক্কি\N-NNP জেলার\N_NN দেবিকুলম\N-NNP উপবিভাগের\N_NN]]_NP [[অন্তর্গত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd652	[[তট্টেক্কাড়ু\N-NNP ইডুক্কিতে\N-NNP]]_NP [[প্রায়\RB]]_RBP [[৫০০\QT_QTC প্রজাতির\N_NN দুর্লভ\JJ পাখি\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd653	[[তাই\RB]]_CCP [[কেরল\N-NNP সরকার\N_NN]]_NP [[এই\DM_DMD অঞ্চলে\N_NN প্রসিদ্ধ\JJ পক্ষী\N_NN বিশারদ\N_NN]]_NP [[ডা.\N-NNP সেলিম\N-NNP আলির\N-NNP নামে\N_NN]]_NP [[এখানে\N_NST]]_RBP [[`\RD_PUNC পক্ষী\N_NN অভয়ারণ্য\N_NN `\RD_PUNC বানিয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd654	[[তট্টেক্কাড়ু\N-NNP ইডুক্কি\N-NNP পক্ষী\N_NN অভয়ারণ্য\N_NN হল\V_VAUX]]_VGF [[বিশ্ব\N_NN প্রসিদ্ধ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd655	[[তট্টেক্কাড়ু\N-NNP ইডুক্কি\N-NNP কোচি\N-NNP নগর\N_NN থেকে\PSP]]_NP [[৫৮\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd656	[[তট্টেক্কাড়ু\N-NNP হল\V_VAUX]]_VGF [[পেরিয়ার\N-NNP নদীর\N_NN দুইটি\QT_QTC ধারার\N_NN মধ্যে\PSP]]_NP [[অবস্থিত\N_NN]]_JJP [[২৫\QT_QTC বর্গ\N_NN কি.মি.\N_NN ক্ষেত্রফলের\N_NN একটি\QT_QTC দ্বীপ\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd657	[[তট্টেক্কাড়ুতে\N-NNP অনেক\JJ প্রজাতির\N_NN পাখি\N_NN ছাড়াও\JJ]]_NP [[২৮\QT_QTC প্রকার\N_NN বৃক্ষ\N_NN]]_NP [[,\RD_PUNC]]_BLK [[ভীমাকৃতি\JJ বৃক্ষ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[নয়\QT_QTC ধরণের\N_NN সরীসৃপ\N_NN]]_NP [[ইত্যাদি\N_NN পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd658	[[ইডুক্কি\N-NNP বন্যজীব\N_NN অভয়ারণ্য\N_NN]]_NP [[সমুদ্রতল\N_NN থেকে\PSP ৪৫০\QT_QTC -\RD_PUNC ৭৪৮\QT_QTC মিটার\N_NN উচুঁতে\N_NST]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd659	[[ইডুক্কি\N-NNP বন্যজীব\N_NN অভয়ারণ্যের\N_NN ব্যাপ্তি\N_NN হল\V_VAUX]]_VGF [[৭৭\QT_QTC বর্গ\N_NN কি.মি.\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd660	[[ইডুক্কি\N-NNP বন্যজীব\N_NN অভয়ারণ্য\N_NN]]_NP [[তোড়ুপুষা\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[উড়ুম্বনচোলা\N-NNP]]_NP [[জেলার\N_NN অধীণে\N_NN আসে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd661	[[ইডুক্কি\N-NNP বন্যজীব\N_NN অভয়ারণ্য\N_NN হল\V_VAUX]]_VGF [[পেরিয়ার\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[চেরুতোণিপ্পুষার\N-NNP]]_NP [[মাঝের\N_NST বনাঞ্চল\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd662	[[পেরিয়ার\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[চেরুতোণিপ্পুষা\N-NNP]]_NP [[হল\V_VAUX]]_VGF [[এই\DM_DMD অঞ্চলের\N_NN চিরসবুজ\JJ বন\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd663	[[পেরিয়ার\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[চেরুতোণিপ্পুষা\N-NNP]]_NP [[জঙ্গলে\N_NN]]_NP [[শূকর\N_NN]]_NP [[,\RD_PUNC]]_CCP [[বাঘ\N_NN]]_NP [[ইত্যাদি\N_NN পশু\N_NN বসবাস\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd664	[[নাগ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ভাইপার\N_NN]]_NP [[,\RD_PUNC]]_CCP [[চকমকে\JJ সাপ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ময়না\N_NN]]_NP [[,\RD_PUNC]]_CCP [[বুলবুল\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কাটঠোকরা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[মাছরাঙা\N_NN]]_NP [[ইত্যাদিও\N_NN ওই\DM_DMR বনে\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd665	[[ইডুক্কি\N-NNP বন্যজীব\N_NN অভয়ারণ্য\N_NN]]_NP [[ইড়ুক্কি\N-NNP বাঁধের\N_NN কাছে\JJ]]_NP [[অবস্থিত\N_NN রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd666	[[পেরিয়ার\N-NNP থেকে\PSP]]_NP [[বোট\N_NN যাত্রার\N_NN ব্যবস্থা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd667	[[বণ্ডেপ্পেরিয়ার\N-NNP হল\V_VAUX]]_VGF [[প্রকৃতি\JJ সমৃদ্ধ\JJ অঞ্চল\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd668	[[বণ্ডেপ্পেরিয়ারের\N-NNP]]_NP [[চা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কফি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[গোলমরিচ\N_NN]]_NP [[ইত্যাদির\N_NN চাষ\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd669	[[এর\DM_DMD মাঝখান\N_NST দিয়ে\PSP]]_NP [[পেরিয়ার\N-NNP নদী\N_NN]]_NP [[বয়ে\V_VM_VNF যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd670	[[এখানে\N_NST]]_RBP [[সরকারি\JJ কৃষি\N_NN উদ্যান\N_NN]]_NP [[আর\CC_CCD]]_CCP [[পুষ্পোদ্যান\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd671	[[এটা\DM_DMD হল\V_VAUX]]_VGF [[পাহাড়ি\JJ]]_NP [[ফল\N_NN -\RD_PUNC ফুল\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কন্দ\N_NN -\RD_PUNC মূল\N_NN]]_NP [[ইত্যাদির\N_NN কেন্দ্র\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd672	[[রামক্কল্মেড়ু\N-NNP হল\V_VAUX]]_VGF [[সুন্দর\JJ আবহাওয়া\N_NN]]_NP [[আর\CC_CCD]]_CCP [[মৃদুমন্দ\JJ বাতাসযুক্ত\N_NN একটি\QT_QTC ভ্রমণ\N_NN কেন্দ্র\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd673	[[পাহাড়\N_NN থেকে\PSP]]_NP [[কম্বম\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[বোড়ি\N-NNP]]_NP [[ইত্যাদি\N_NN দূরের\N_NN দৃশ্য\N_NN]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd674	[[রামক্কল্মেড়ু\N-NNP ইড়ুক্কি\N-NNP থেকে\PSP]]_NP [[৪৫\QT_QTC কি.মি\N_NN]]_NP [[ও\CC_CCD]]_CCP [[মুন্নার\N-NNP থেকে\PSP]]_NP [[৭৫\QT_QTC কি.মি.\N_NN]]_NP [[দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd675	[[সকাল\N_NN ৯.৩০এ\QT_QTC]]_NP [[মুন্নার\N-NNP থেকে\PSP]]_NP [[,\RD_PUNC]]_CCP [[১০.৩০এ\QT_QTC]]_NP [[কোট্টয়ম\N-NNP থেকে\PSP]]_NP [[আর\CC_CCD]]_CCP [[৯.৩০র\QT_QTC]]_NP [[সময়\N_NN]]_NP [[এর্ণাকুলাম\N-NNP থেকে\PSP]]_NP [[রামক্কল্মেড়ুর\N-NNP জন্য\PSP বাস\N_NN ছাড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd676	[[পল্লিক্কুন্নুতে\N-NNP]]_NP [[`\RD_PUNC সহাদ্রি\N-NNP `\RD_PUNC নামক\N_NN]]_NP [[একটি\QT_QTC প্রসিদ্ধ\JJ আয়ুর্বেদ\N_NN কেন্দ্র\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd677	[[সহাদ্রি\N-NNP আয়ুর্বেদ\N-NNP কেন্দ্র\N-NNP হল\V_VAUX]]_VGF [[পীরুমেড়ু\N-NNP বিকাশ\N-NNP সমিতির\N-NNP]]_NP [[অধীণস্থ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd678	[[সহাদ্রি\N-NNP আয়ুর্বেদ\N-NNP কেন্দ্রের\N-NNP পাশে\PSP]]_NP [[ঔষধিগুণাবলীযুক্ত\JJ গাছপালার\N_NN একটি\QT_QTC উদ্যান\N_NN আছে\V_VAUX]]_VGF [[যাতে\N_NST চিকিত্সার\N_NN জন্য\PSP প্রয়োজনীয়\JJ জড়িবুটি\N_NN]]_NP [[তৈরি\N_NN করা\V_VM_VNG হয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd679	[[সহাদ্রি\N-NNP আয়ুর্বেদ\N-NNP কেন্দ্রে\N-NNP বিভিন্ন\JJ রোগের\N_NN চিকিত্সা\N_NN ছাড়াও\PSP]]_NP [[সুখময়\JJ চিকিত্সা\N_NN ব্যবস্থা\N_NN]]_NP [[অর্থাত\CC_CCS]]_CCP [[স্বাস্থ্য\N_NN ভালো\N_NN করার\V_VM_VNG]]_VGNN [[চিকিত্সার\N_NN ব্যবস্থাও\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd680	[[পেরিয়ার\N-NNP বন্যাপ্রাণী\N_NN অভয়ারণ্যের\N_NN ওপর\PSP]]_NP [[কেরল\N-NNP গর্ববোধ\N_NN করতে\V_VM_VINF পারে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd681	[[পেরিয়ার\N-NNP বন্যাপ্রাণী\N_NN অভয়ারণ্যে\N_NN]]_NP [[পেরিয়ার\N-NNP সরোবরের\N_NN তটে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd682	[[পশ্চিম\N-NNP ঘাটে\N-NNP অবস্থিত\N_NN]]_NP [[পেরিয়ার\N-NNP বন্যপ্রাণী\N_NN অভয়ারণ্যের\N_NN এই\DM_DMD ভূঅঞ্চল\N_NN হল\V_VAUX]]_VGF [[অদ্ভূত\JJ শ্যামলিমার\N_NN সাথে\PSP যুক্ত\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd683	[[এখানে\N_NST]]_RBP [[হাতি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[হরিণ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[বাঘ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ছোটো\JJ লেজওলা\JJ বানর\N_NN]]_NP [[ইত্যাদি\N_NN জীবজন্তু\N_NN পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd684	[[এখানে\N_NST]]_RBP [[নদীতে\N_NN নৌকো\N_NN চড়ার\V_VM_VNG সময়\N_NN]]_NP [[তটের\N_NN পাশে\PSP]]_NP [[ঘাসের\N_NN মাঠে\N_NN চরতে\V_VM_VINF বেরানো\V_VM_VNG হাতির\N_NN দঙ্গল\N_NN]]_VGF [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd685	[[তেক্কড়ি\N-NNP বনে\N_NN ট্রেকিং\N_NN করে\V_VM_VNF]]_VGNF [[জঙ্গলের\N_NN মাঝামাঝি\PSP অবস্থিত\N_NN শিলা\N_NN মন্দিরে\N_NN]]_NP [[(\RD_PUNC মঙ্গলা\N-NNP দেবী\N_NN মন্দির\N_NN )\RD_PUNC]]_NP [[পৌঁছানো\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd686	[[জঙ্গলি\JJ হাতির\N_NN ছবি\N_NN তোলার\V_VM_VNG জন্য\PSP]]_NP [[তেক্কড়ি\N-NNP হল\V_VAUX]]_VGF [[সবথেকে\RP_INTF উপযুক্ত\JJ স্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd687	[[তেক্কড়িতে\N-NNP দুটি\QT_QTC সংস্থা\N_NN]]_NP [[সরোবরের\N_NN তটে\N_NN থাকা\V_VM_VNG সুবিধা\N_NN প্রদান\V_VM_VNG করে\V_VM_VF]]_VGF [[-\RD_PUNC]]_BLK [[তিরুবিতাংকুর\N-NNP নরেশের\N-NNP]]_NP [[গ্রীষ্মকালীন\JJ বাংলো\N_NN লেক\N_NN প্যালেস\N_NN]]_NP [[আর\CC_CCD]]_CCP [[অরণ্যনিবাস\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd688	[[লেক\N-NNP প্যালেস\N-NNP]]_NP [[অরণ্যনিবাস\N_NN সরোবরের\N_NN পাশে\PSP]]_NP [[একটি\QT_QTC ছোটো\JJ দ্বীপে\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd689	[[দুটিই\QT_QTC]]_NP [[এখন\RB]]_RBP [[কে.টি.ডি.সি`র\N-NNP]]_NP [[অধীণস্থ\N_NN]]_RBP [[৷\RD_PUNC]]_BLK
+htd690	[[ত্রিশঙ্কুমলার\N-NNP পার্বত্য\JJ অঞ্চল\N_NN হল\V_VAUX]]_VGF [[অত্যন্ত\RP_INTF রমণীয়\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd691	[[ত্রিশঙ্কুমলারতে\N-NNP]]_NP [[মন্ত্রমুগ্ধ\N_NN করে\V_VM_VNF দেওয়ার\V_VM_VNG মতো\RP_RPD সুষমা\N_NN]]_NP [[ছ়ডিয়ে\V_VM_VNF রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd692	[[ত্রিশঙ্কুমলাতে\N-NNP]]_NP [[পাহাড়\N_NN থেকে\PSP]]_NP [[সূর্যাস্ত\N_NN দর্শন\N_NN করা\V_VM_VNG]]_VGNN [[সাক্ষাত্\N_NN সৌন্দর্য\N_NN দর্শন\N_NN করার\V_VM_VNG মতোই\RP_RPD]]_NP [[৷\RD_PUNC]]_BLK
+htd693	[[কিন্তু\CC_CCS]]_CCP [[ত্রিশঙ্কুমলা\N-NNP থেকে\PSP]]_NP [[নিচে\N_NST তাকানোর\V_VM_VNG জন্য\PSP]]_NP [[সাহস\N_NN লাগে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd694	[[ত্রিশঙ্কুমলার\N-NNP]]_NP [[হাল্কা\JJ হাল্কা\JJ বাতাসের\N_NN রেশমি\JJ স্পর্শের\N_NN আনন্দ\N_NN]]_NP [[উপভোগ\N_NN করে\V_VM_VNF]]_VGNF [[বন\N_NN প্রদেশের\N_NN মধ্যে\PSP ভ্রমণ\N_NN করে\V_VM_VNF]]_VGF [[সময়\N_NN কাটানো\V_VM_VNG]]_VGNN [[অনির্বচনীয়\JJ অনুভূতি\N_NN বলে\V_VM_VNF]]_VGNF [[মনে\N_NN হবে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd695	[[ত্রিশঙ্কুমলা\N-NNP]]_NP [[পীরুমেড়ু\N-NNP থেকে\PSP ৪\QT_QTC কি.মি\N_NN]]_NP [[আর\CC_CCD]]_CCP [[কুট্টিক্কানম\N-NNP থেকে\PSP আধ\QT_QTC কি.মি.\N_NN]]_NP [[দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd696	[[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\RP_RPD পীরু\N-NNP মহম্মদ\N-NNP নামক\N_NN]]_NP [[সুফি\N_NN সন্তের\N_NN নামে\N_NN এই\DM_DMD পাহাড়\N_NN]]_NP [[পীরুমলা\N-NNP নামে\N_NN প্রসিদ্ধ\N_NN হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd697	[[এটা\DM_DMD হল\V_VAUX]]_VGF [[যাযাবর\N_NN]]_NP [[আর\CC_CCD]]_CCP [[ট্রেকিংপ্রেমীদের\N_NN]]_NP [[প্রিয়\JJ স্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd698	[[তিরুবনন্তপুরম\N-NNP রেলওয়ে\N_NN স্টেশন\N_NN থেকে\PSP]]_NP [[৩৯\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP [[কিলিমানুর\N-NNP রাজমহল\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd699	[[তিরুবনন্তপুরম\N-NNP]]_NP [[আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP থেকে\PSP]]_NP [[৪৬\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP [[কিলিমানুর\N-NNP রাজমহল\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd700	[[পীরুমলা\N-NNP সুফি\N-NNP মকওয়ারা\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[দিওয়ান\N-NNP ভবন\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[রাজ\N_NN প্রাসাদের\N_NN সদস্যদের\N_NN গ্রীষ্মকালীন\JJ প্রাসাদ\N_NN]]_NP [[ইত্যাদি\N_NN হল\V_VAUX দেখার\V_VM_VNG মতো\RP_RPD]]_NP [[৷\RD_PUNC]]_BLK
+htd701	[[পীরুমলা\N-NNP পীরুমেড়ু\N-NNP থেকে\PSP ৪\QT_QTC কি.মি.\N_NN]]_NP [[আর\CC_CCD]]_CCP [[কুট্টিক্কানম\N-NNP থেকে\PSP এক\QT_QTC কি.মি.\N_NN]]_NP [[দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd702	[[পীরুমলা\N-NNP কোট্টয়ম\N-NNP]]_NP [[রেলওয়ে\N_NN স্টেশন\N_NN থেকে\PSP]]_NP [[৭৫\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd703	[[পীরুমলার\N-NNP নিকটতম\JJ বিমানবন্দর\N_NN]]_NP [[কোচি\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[১৮০\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd704	[[বাগামণ\N-NNP সম্বন্ধে\N_NN]]_NP [[অসংখ্য\QT_QTF কাহিনী\N_NN]]_NP [[প্রচলিত\N_NN রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd705	[[বাগামণ\N-NNP অঞ্চলের\N_NN অনুপম\JJ সৌন্দর্য\N_NN]]_NP [[চোখ\N_NN -\RD_PUNC কান\N_NN দুটোকেই\QT_QTC]]_NP [[রসাস্বাদিত\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd706	[[মনে\N_NN হয়\V_VAUX]]_VGF [[যেন\RP_RPD সবুজে\JJ মোড়া\JJ পাহাড়ে\N_NN]]_NP [[নিগূড়\JJ সৌন্দর্যের\N_NN ঝলক\N_NN]]_NP [[অনায়াসেই\RB প্রকট\N_NN হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd707	[[বাগামণে\N-NNP দাঁড়িয়ে\V_VM_VNF]]_VGNF [[শ্যামলিমা\N_NN দর্শনকারীর\N_NN কাছে\PSP]]_NP [[এই\DM_DMD প্রদেশের\N_NN সৌন্দর্য\N_NN]]_NP [[ধীরে\RB ধীরে\RB]]_RBP [[অনাবৃত\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd708	[[বাগামণের\N-NNP কাছে\PSP এমন\DM_DMD পাহাড়\N_NN আছে\V_VAUX]]_VGF [[যেখানে\N_NST]]_RBP [[মুসলিমদের\N_NN সমাধি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[হিন্দু\N_NN সম্প্রদায়ের\N_NN মন্দির\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ক্রুজ\N-NNP পাহাড়\N-NNP নামে\N_NN পরিচিত\N_NN]]_NP [[খ্রীষ্টীয়\N_NN গীর্জা\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd709	[[বাগামণের\N-NNP ঢালে\N_NN]]_NP [[পাইনের\N_NN বন\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd710	[[চার্চের\N_NN ভিতরে\PSP ডায়েরি\N_NN ফার্মও\N_NN হল\V_VAUX]]_VGF [[দর্শনীয়\N_NN স্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd711	[[বাগামণ\N-NNP]]_NP [[পীরুমেড়ু\N-NNP থেকে\PSP]]_NP ২৫\QT_QTC [[কি.মি.\N_NN দূরে\N_NN]]_NP [[৷\RD_PUNC]]_BLK [[বাসে\N_NN করে\V_VM_VNF]]_VGNF [[বাগামণ\N-NNP যাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd712	[[বাগামণের\N-NNP নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN]]_NP [[কোট্টায়ম\N-NNP]]_NP [[১০০\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd713	[[বাগামণের\N-NNP নিকটতম\JJ বিমানবন্দর\N_NN]]_NP [[কোচি\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[১৭৫\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd714	[[মুন্নার\N-NNP থেকে\PSP ৪৫\QT_QTC কি.মি.\N_NN পূর্বে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[বট্টাবড়া\N-NNP হল\V_VAUX]]_VGF [[একটি\QT_QTO গ্রাম\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd715	[[বট্টাবড়া\N-NNP হল\V_VAUX]]_VGF [[প্রাকৃতিক\JJ সৌন্দর্য\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[শান্ত\JJ আবহাওয়ার\N_NN জন্য\PSP]]_NP [[বিখ্যাত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd716	[[বট্টাবড়াতে\N-NNP]]_NP [[পর্যটকদের\N_NN আকর্ষণ\N_NN করার\V_VM_VNG মতো\RP_RPD বিভিন্ন\JJ স্থানও\N_NN]]_NP [[এখনও\RB]]_RBP [[পুরোপুরি\RB সামনে\N_NN আসেনি\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd717	[[যেভাবে\CC_CCS]]_RBP [[মুন্নার\N-NNP]]_NP [[নিজের\PR_PRF চা\N_NN বাগানোর\N_NN জন্য\PSP মনোরম\N_NN]]_NP [[,\RD_PUNC]]_CCP [[তেমনিই\CC_CCS]]_CCP [[বট্টাবড়া\N-NNP হল\V_VAUX]]_VGF [[নিজের\PR_PRF বনস্পতি\N_NN উদ্যেনের\N_NN জন্য\PSP]]_NP [[দর্শনীয়\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd718	[[বট্টাবড়া\N-NNP]]_NP [[সমুদ্র\N_NN তল\N_NN থেকে\PSP ৬৫০০\QT_QTC ফিট\N_NN উচ্চতায়\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[তাও\CC_CCS]]_CCP [[বট্টাবড়ায়\N-NNP]]_NP [[শীতকালে\N_NN অসহ্য\JJ ঠান্ডা\N_NN]]_NP [[লাগে\N_NN না\RP_NEG]]_VGF [[৷\RD_PUNC]]_BLK
+htd719	[[বট্টাবড়ায়\N-NNP]]_NP [[চড়াই\N_NN এলাকাকে\N_NN সমতল\N_NN বানিয়ে\V_VM_VNF]]_VGNF [[শাক\N_NN -\RD_PUNC সব্জি\N_NN চাষ\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd720	[[বট্টাবড়াতে\N-NNP]]_NP [[বিভিন্ন\JJ ধরণের\N_NN]]_NP [[প্রজাপতি\N_NN]]_NP [[আর\CC_CCD]]_CCP [[পাখি\N_NN]]_NP [[পাওয়া\V_VAUX যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+ htd721	[[বট্টাবড়া\N-NNP থেকেই\PSP]]_NP [[কোডাইকানাল\N-NNP]]_NP [[,\RD_PUNC]]_BLK [[টোপ\N-NNP স্টেশন\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[মাট্টুপ্পেটিট\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[কান্তল্লুরস\N-NNP মীশপ্পুলিমলা\N-NNP]]_NP [[পর্যন্ত\PSP বন\N_NN যাত্রা\N_NN]]_NP [[করা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd722	[[এর\DM_DMD জন্য\PSP]]_NP [[জিপ\N_NN]]_NP [[বা\CC_CCD]]_CCP [[মোটর\N_NN সাইকেল\N_NN]]_NP [[করেও\V_VM_VNF]]_VGNF [[যাত্রা\N_NN করা\V_VM_VNG যেতে\V_VM_VINF পারে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd723	[[বট্টাবড়া\N-NNP]]_NP [[ও\CC_CCD]]_CCP [[জঙ্গলে\N_NN]]_NP [[তাঁবু\N_NN লাগানোর\V_VM_VNG জন্য\PSP]]_NP [[প্রাইভেট\N_NN এজেন্সির\N_NN সাহায্য\N_NN]]_NP [[পাওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd724	[[বট্টাবড়া\N-NNP]]_NP [[মুন্নার\N-NNP থেকে\PSP]]_NP [[সড়ক\N_NN পথে\N_NN ৪৫\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd725	[[বট্টাবড়া\N-NNP থেকে\PSP]]_NP [[১৭৫\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN এর্ণাকুলাম\N-NNP জংশন\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd726	[[কোচি\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[বট্টাবড়া\N-NNP থেকে\PSP]]_NP [[১৫৫\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd727	[[আরঠ্ঠম\N-NNP হল\V_VAUX]]_VGF [[বন্যপ্রাণীর\N_NN অভয়াণ্য\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd728	[[আরঠ্ঠম\N-NNP সহাদ্রির\N-NNP ঢাল\N_NN]]_NP [[৫৫\QT_QTC বর্গ\N_NN কি.মি.\N_NN এলাকা\N_NN জুড়ে\V_VM_VNF]]_NP [[ছড়িয়ে\V_VM_VNF আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd729	[[আরঠ্ঠমে\N-NNP হরিণ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[হাতি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[বাইসন\N_NN]]_NP [[,\RD_PUNC]]_CCP [[জঙ্গলি\JJ শূকর\N_NN]]_NP [[ইত্যাদি\N_NN সাধরণত\RB]]_RBP [[ঘুরে\V_VM_VNF বেড়ায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd730	[[চিতা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[জঙ্গলি\JJ বেড়াল\N_NN]]_NP [[ও\CC_CCD]]_CCP [[বিভিন্ন\JJ ধরণের\N_NN কাঠবেড়ালি\N_NN]]_NP [[ইত্যাদিও\N_NN কখনও\RB কখনও\RB]]_RBP [[দেখা\N_NN যেতে\V_VM_VINF পারে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd731	[[৩০৬০\QT_QTC হেক্টরে\N_NN বিস্তৃত\N_NN `\RD_PUNC]]_NP [[আরঠ্ঠম\N-NNP ফার্ম\N-NNP `\RD_PUNC]]_NP [[এর\DM_DMD কাছেই\N_NST]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd732	[[আরঠ্ঠম\N-NNP]]_NP [[তলশ্শেরী\N-NNP থেকে\PSP ৩৫\QT_QTC কি.মি.\N_NN]]_NP [[আর\CC_CCD]]_CCP [[কুণ্ণুর\N-NNP টাউন\N_NN থেকে\PSP]]_NP [[৬০\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd733	[[আরঠ্ঠমের\N-NNP]]_NP [[নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN হল\V_VAUX]]_VGF [[তলশ্শেরী\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd734	[[আরঠ্ঠমের\N-NNP নিকটতম\JJ বিমানবন্দর\N_NN]]_NP [[করিপ্পুর\N-NNP বিমানবন্দর\N-NNP]]_NP [[তলশ্শেরী\N-NNP থেকে\PSP]]_NP [[৭১\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd735	[[উত্তর\N-NNP কেরলের\N-NNP এই\DM_DMD অংশে\N_NN]]_NP [[`\RD_PUNC কব্বায়ি\N-NNP `\RD_PUNC নামে\N_NN পরিচিত\N_NN এই\DM_DMD ঝিল\N_NN]]_NP [[অনুপম\JJ সৌন্দর্য\N_NN প্রকাশ\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd736	[[কব্বায়ি\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[কাঙ্কোল\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[বণ্ণাত্তিচ্চাল\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[কুণ্ণিত্তোড়ু\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[কুনিয়ান\N-NNP]]_NP [[ইত্যাদি\N_NN জলধারা\N_NN]]_NP [[ঝিলের\N_NN রূপ\N_NN গ্রহণ\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd737	[[কব্বায়ি\N-NNP ঝিল\N_NN]]_NP [[লম্বায়\N_NN হল\V_VAUX]]_VGF [[৩৭\QT_QTC বর্গ\N_NN কি.মি.\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd738	[[ঝিলের\N_NN সৌন্দর্য\N_NN সম্পূর্ণভাবে\RB উপভোগ\N_NN করার\V_VM_VNG জন্য\PSP]]_NP [[কোটিট\N-NNP -\RD_PUNC কোট্টপ্পুরম\N-NNP মার্গ\N_NN থেকে\PSP]]_NP [[নৌকা\N_NN করে\V_VM_VNF]]_VGNF [[যাত্রা\N_NN করা\V_VM_VNG]]_VGNN [[উচিত\RB]]_JJP [[৷\RD_PUNC]]_BLK
+htd739	[[কব্বায়ি\N-NNP ঝিলের\N_NN নিকটতম\JJ]]_NP [[পয়ন্নুর\N-NNP রেলওয়ে\N_NN স্টেশন\N_NN]]_NP [[৪\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd740	[[৯৩\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[কব্বায়ি\N-NNP ঝিলের\N_NN নিকটতম\JJ এয়ারপোর্ট\N_NN হল\JJ]]_VGF [[করিপ্পুর\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[যা\PR_PRL কুণ্ণুরে\N-NNP]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd741	[[কুণ্ণুরের\N-NNP পষয়ংগাড়িতে\N-NNP]]_NP [[অবস্থিত\N_NN]]_JJP [[মাড়ায়িপ্পারা\N-NNP হল\V_VAUX]]_VGF [[জৈব\N_NN -\RD_PUNC বিবিধতা\N_NN]]_NP [[ও\CC_CCD]]_CCP [[ঐতিহাসিক\JJ পরম্পরায়\N_NN]]_NP [[সমৃদ্ধ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd742	[[এষিমলা\N-NNP]]_NP [[কোলত্তুনাড়\N-NNP রাজার\N_NN]]_NP [[রাজধাণী\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd743	[[১৪তম\QT_QTO শতাব্দী\N_NN থেকে\PSP]]_VGF [[১৮তম\QT_QTO শতাব্দী\N_NN পর্যন্ত\PSP]]_NP [[কোলত্তুনাড়\N-NNP নরেশের\N_NN]]_NP [[অভিষেক\N_NN মাড়ায়িপ্পারাতেই\N-NNP সম্পন্ন\N_NN হতো\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd744	[[পাহাড়ের\N_NN দক্ষিণ\N_NN ঘাটে\N_NN]]_NP [[পুরানো\JJ কেল্লার\N_NN অবশিষ্টাংশ\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd745	[[এক\QT_QTC দিকে\N_NN জলাশয়\N_NN আছে\V_VAUX]]_VGF [[যা\PR_PRL হল\V_VAUX]]_VGF [[লম্বা\JJ হাতওলা\JJ দর্পণের\N_NN আকৃতির\N_NN মতো\RP_RPD]]_NP [[৷\RD_PUNC]]_BLK
+htd746	[[বলা\V_VM_VNG হয়\V_VAUX]]_VGF [[যে\RP_RPD ইহুদিরা\N-NNP]]_NP [[মাড়ায়িপ্পারা\N-NNP জলাশয়\N_NN নির্মাণ\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd747	[[মাড়ায়িপ্পারা\N-NNP অন্য\JJ আকর্ষণ\N_NN হল\V_VAUX]]_VGF [[শিব\N_NN মন্দির\N_NN]]_NP [[,\RD_PUNC]]_CCP [[এক\QT_QTC একর\N_NN বিস্তৃত\N_NN মন্দিরের\N_NN জলাশয়\N_NN]]_NP [[আর\CC_CCD]]_CCP [[মাড়ায়িক্কাবু\N-NNP (\RD_PUNC]]_NP [[ঘন\JJ জঙ্গলে\N_NN পবিত্র\JJ স্থান\N_NN )\RD_PUNC]]_NP [[৷\RD_PUNC]]_BLK
+htd748	[[মাড়ায়িপ্পুরমের\N-NNP (\RD_PUNC উত্সব\N_NN )\RD_PUNC আয়োজন\N_NN হল\V_VAUX]]_VGF [[মাড়ায়িক্কাবুর\N-NNP সঙ্গে\PSP]]_NP [[সম্পর্কযুক্ত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd749	[[এই\DM_DMD পাহাড়ের\N_NN অন্যান্য\JJ আকর্ষণ\N_NN হল\V_VAUX -\RD_PUNC]]_VGF [[৩০০টি\QT_QTC বিভিন্ন\JJ প্রজাতির\N_NN ফল\N_NN]]_NP [[আর\CC_CCD]]_CCP [[ফুল\N_NN]]_NP [[,\RD_PUNC]]_CCP [[৩০\QT_QTC প্রজাতির\N_NN মূল\N_NN -\RD_PUNC কন্দ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[জড়ি\N_NN -\RD_PUNC বুটির\N_NN শেকড়\N_NN]]_NP
+htd750	[[প্রজাতি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[মাংসাশী\JJ বনস্পতি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[১৫০টি\QT_QTC বিভিন্ন\JJ প্রজাতির\N_NN পাখি\N_NN]]_NP [[ইত্যাদি\N_NN]]_BLK [[৷\RD_PUNC]]_BLK
+htd751	[[পৃথিবীর\N_NN সবথেকে\RP_INTF বড়\JJ প্রজাপতি\N_NN]]_NP [[`\RD_PUNC অ্যাটলস\N-NNP প্রজাপতি\N_NN `ও\CC_CCD]]_NP [[মাড়ায়িপ্পারায়\N_NN]]_NP [[আতিথ্য\N_NN লাভের\N_NN জন্য\PSP আসে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd752	[[মাড়ায়িপ্পারা\N-NNP অঞ্চলের\N_NN]]_NP [[ঐতিহাসিক\JJ]]_NP [[এবং\CC_CCD]]_CCP [[জৈব\JJ বৈজ্ঞানিক\JJ]]_NP [[বিশেষত্বের\N_NN প্রতি\PSP নজর\N_NN দিয়ে\PSP]]_VGNF [[রাজ্য\N_NN সরকার\N_NN]]_NP [[এর\PR_PRP সংরক্ষণের\N_NN জন্য\PSP]]_NP [[বিশেষ\JJ যোজনা\N_NN তৈরি\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd753	[[মাড়ায়িপ্পারা\N-NNP থেকে\PSP নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN]]_NP [[পষয়ংগাড়ি\N-NNP]]_NP [[২\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd754	[[মাড়ায়িপ্পারা\N-NNP থেকে\PSP নিকটতম\JJ বিমানবন্দর\N_NN]]_NP [[করিপ্পুর\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[১১৮\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd755	[[মলয়াল\N-NNP কলাগ্রামম\N-NNP হল\V_VAUX]]_VGF [[শিল্পীদের\N_NN একটি\QT_QTC প্রশিক্ষাণালয়\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd756	[[মলয়াল\N-NNP কলাগ্রামমে\N-NNP]]_NP [[অনেক\JJ শিল্প\N_NN শেখার\V_VM_VNG]]_VGNN [[ও\CC_CCD]]_CCP [[তা\PR_PRL অভ্যাস\N_NN করার\V_VM_VNG]]_VGNN [[সুযোগ\N_NN দেওয়া\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd757	[[মলয়াল\N-NNP কলাগ্রামমে\N-NNP]]_NP [[চিত্রনাট্য\N_NN লেখা\V_VM_VNG]]_VGNN [[,\RD_PUNC]]_CCP [[শিল্প\N_NN কলা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[সংগীত\N_NN]]_NP [[,\RD_PUNC]]_CCP [[নৃত্য\N_NN]]_NP [[,\RD_PUNC]]_CCP [[এঁটেল\N_NN মাটির\N_NN বাসন\N_NN তৈরি\N_NN করা\V_VM_VNG]]_VGNN [[ইত্যাদিতে\N_NN]]_BLK [[সম্পূর্ণকালীন\JJ]]_RBP [[প্রশিক্ষণ\N_NN দেওয়া\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd758	[[মলয়াল\N-NNP কলাগ্রামমে\N-NNP]]_NP [[যোগ\N_NN ব্যায়াম\N_NN]]_NP [[আর\CC_CCD]]_CCP [[সংস্কৃত\N_NN]]_NP [[ইত্যাদির\N_NN ক্লাসও\N_NN চালানো\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd759	[[মলয়াল\N-NNP কলাগ্রামমে\N-NNP]]_NP [[কেরলের\N-NNP সংস্কৃতি\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[ইতিহাস\N_NN বিষয়ে\N_NN আলোচনাসভা\N_NN]]_NP [[আয়োজন\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd760	[[মলয়াল\N-NNP কলাগ্রামমের\N-NNP গ্রন্থশালা\N_NN]]_NP [[খুবই\RP_INTF ভালো\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd761	[[মলয়াল\N-NNP কলাগ্রামমের\N-NNP অধ্যাপক\N_NN]]_NP [[ও\CC_CCD]]_CCP [[বিদ্যর্থীদের\N_NN]]_NP [[সাথে\PSP একটা\QT_QTC দিন\N_NN অতিবাহিত\N_NN করলে\V_VM_VNF]]_VGNF [[এক\QT_QTC নতুন\JJ অনুভূতি\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd762	[[মলয়াল\N-NNP কলাগ্রামম\N-NNP নিউ\N-NNP মাহি\N-NNP]]_NP [[,\RD_PUNC]]_BLK [[কণ্ণুর\N-NNP থেকে\PSP ২৯\QT_QTO কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd763	[[মলয়াল\N-NNP কলাগ্রামমের\N-NNP]]_NP [[নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN হল\V_VAUX]]_VGF [[মাহি\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd764	[[মলয়াল\N-NNP কলাগ্রামম\N-NNP থেকে\PSP নিকটতম\JJ বিমানবন্দর\N_NN হল\V_VAUX]]_VGF [[করিপ্পুর\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[যা\PR_PRL ৬৪\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd765	[[কণিমঙ্গলম\N-NNP হল\V_VAUX]]_VGF [[পেতলের\N_NN তৈরি\N_NN শিল্প\N_NN]]_NP [[আর\CC_CCD]]_CCP [[প্রদীপের\N_NN জন্য\PSP]]_NP [[বিখ্যাত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd766	[[কণিমঙ্গলম\N-NNP হল\V_VAUX]]_VGF [[পয়ন্নুরের\N-NNP পাশে\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd767	[[মুষপ্পিলংগাড়ু\N-NNP বিচ\N_NN হল\V_VAUX]]_VGF [[কেরলের\N-NNP]]_NP [[অসাধারণ\JJ ড্রাইভ\N_NN -\RD_PUNC ইন\N_NN সমুদ্রতটগুলির\N_NN মধ্যে\PSP]]_NP [[একটি\QT_QTC]]_NP [[৷\RD_PUNC]]_BLK
+htd768	[[প্রায়\RB]]_RBP [[৪\QT_QTC কি.মি.\N_NN লম্বা\JJ মুষপ্পিলংগাড়ু\N-NNP বিচে\N_NN]]_NP [[সমুদ্রতট\N_NN ধরে\V_VM_VNF]]_VGNF [[গাড়িতে\N_NN যাত্রা\N_NN করার\V_VM_VNG অনুভূতি\N_NN হল\V_VAUX]]_VGF [[অপূর্ব\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd769	[[মুষপ্পিলংগাড়ু\N-NNP বিচে\N_NN]]_NP [[সমুদ্রের\N_NN উত্তাল\JJ তরঙ্গকে\N_NN আটকানোর\V_VM_VNG জন্য\PSP]]_NP [[অনেক\QT_QTF বিশালাকার\JJ পাথর\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd770	[[এই\DM_DMD পাথরগুলির\N_NN ফলে\PSP]]_NP [[অনেক\QT_QTF নৈসর্গিক\JJ জলাধার\N_NN]]_NP [[তৈরি\N_NN হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd771	[[এই\DM_DMD কারণে\N_NN]]_CCP [[মুষপ্পিলংগাড়ু\N-NNP বিচকে\N_NN]]_NP [[সাঁতারুদের\N_NN স্বর্গ\N_NN মনে\N_NN করা\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd772	[[তটের\N_NN]]_NP [[সমান্তরালভাবে\RB]]_RBP [[দাঁড়ানো\V_VM_VNG নারকোল\N_NN গাছ\N_NN]]_NP [[তটভূমিকে\N_NN ছায়া\N_NN দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd773	[[মুষপ্পিলংগাড়ু\N-NNP বিচ\N_NN]]_NP [[কণ্ণুর\N-NNP থেকে\PSP ১৫\QT_QTC কি.মি.\N_NN]]_NP [[ও\CC_CCD]]_CCP [[তলশ্শেরী\N-NNP থেকে\PSP ৮\QT_QTC কি.মি.\N_NN]]_NP [[দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd774	[[মুষপ্পিলংগাড়ু\N-NNP বিচের\N_NN নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN কণ্ণুর\N-NNP]]_NP [[২০\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd775	[[মুষপ্পিলংগাড়ু\N-NNP বিচের\N_NN নিকটতম\JJ এয়ারপোর্ট\N_NN]]_NP [[-\RD_PUNC]]_BLK [[মঙ্গলুর\N-NNP ১৪০\QT_QTC দূরে\N_NN]]_NP [[,\RD_PUNC]]_BLK [[যেখানে\PR_PRL]]_RBP [[করিপ্পুর\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP ১০৩\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd776	[[পয়াংবলম\N-NNP সমুদ্রতট\N_NN হল\V_VAUX]]_VGF [[একটি\QT_QTC শান্ত\JJ সন্ধ্যা\N_NN কাটানোর\V_VM_VNG জন্য\PSP]]_NP [[উপযুক্ত\JJ স্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd777	[[কিছুকাল\RB আগে\PSP পর্যন্তও\PSP]]_NP [[পয়াংবলম\N-NNP সমুদ্রতট\N_NN]]_NP [[স্থানীয়\JJ লোকেদের\N_NN]]_NP [[পিকনিকের\N_NN জায়গা\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd778	[[ধীরে\RB ধীরে\RB]]_RBP [[পয়াংবলম\N-NNP সমুদ্রতটে\N_NN]]_NP [[পর্যটকদের\N_NN আগমন\N_NN বাড়ছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd779	[[পয়াংবলম\N-NNP সমুদ্রতটের\N_NN নিকটতম\N_NN রেলওয়ে\N_NN স্টেশন\N_NN]]_NP [[–\RD_PUNC]]_BLK [[কণ্ণুর\N-NNP ২\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd780	[[পয়াংবলম\N-NNP সমুদ্রতটের\N_NN থেকে\PSP নিকটতম\JJ এয়ারপোর্ট\N_NN]]_NP [[-\RD_PUNC]]_BLK [[করিপ্পুর\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP ৯৫\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd781	[[পর্তুগিজ\N-NNP ভাইসরয়\N_NN]]_NP [[ফ্রান্সিসকো\N-NNP ডি\N-NNP অল্মেড\N-NNP দ্বারা\PSP]]_NP [[১৫০৫\QT_QTC সালে\N_NN]]_NP [[নির্মিত\N_NN হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd782	[[লাল\JJ পাথরের\N_NN তৈরি\N_NN]]_NP [[এই\DM_DMD কেল্লা\N_NN হল\V_VAUX]]_VGF [[ত্রিকোণাকার\JJ আকৃতির\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd783	[[১৬৬৩\QT_QTC সালে\N_NN]]_NP [[সেন্ট\N-NNP আঞ্চলো\N-NNP কেল্লা\N_NN]]_NP [[ডাচরা\N-NNP দখল\N_NN করে\V_VM_VNF]]_VGF [[আর\CC_CCD]]_CCP [[কণ্ণুরের\N-NNP আলি\N-NNP রাজাকে\N_NN]]_NP [[তা\PR_PRL বিক্রি\N_NN করে\V_VM_VNF দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd784	[[১৭০৯\QT_QTC সালে\N_NN]]_NP [[ব্রিটিশরা\N-NNP সেন্ট\N-NNP আঞ্চলো\N-NNP কেল্লা\N_NN]]_NP [[নিজেদের\PR_PRF অধীণে\N_NN আনে\V_VM_VNF]]_VGF [[আর\CC_CCD]]_CCP [[মলওয়ার\N-NNP সেনাদের\N_NN]]_NP [[প্রমুখ\JJ কেন্দ্র\N_NN বানিয়ে\V_VM_VNF নেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd785	[[আজ\RB]]_RBP [[সেন্ট\N-NNP আঞ্চলো\N-NNP কেল্লা\N_NN হল\V_VAUX]]_VGF [[পুরাতত্ত্ব\N_NN বিভাগের\N_NN অন্তর্গত\N_NN]]_NP [[সংরক্ষিত\JJ স্মারক\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd786	[[সেন্ট\N-NNP আঞ্চলো\N-NNP কেল্লার\N_NN বাইরে\N_NST]]_NP [[জল\JJ -\RD_PUNC অভেদ্য\JJ দেওয়াল\N_NN]]_NP [[বানানো\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd787	[[জল\JJ -\RD_PUNC অভেদ্য\JJ দেওয়াল\N_NN]]_NP [[সেন্ট\N-NNP আঞ্চলো\N-NNP কেল্লাকে\N_NN]]_NP [[স্রোতের\N_NN ধাক্কা\N_NN থেকে\PSP বাঁচায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd788	[[সেন্ট\N-NNP আঞ্চলো\N-NNP কেল্লার\N_NN ওপর\PSP দাঁড়িয়ে\V_VM_VNF]]_VGNF [[`\RD_PUNC মাপ্পিলা\N-NNP বে\N-NNP মত্স\N_NN `\RD_PUNC সংগ্রহণ\N_NN বন্দর\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ধর্মডম\N-NNP দ্বীপ\N_NN]]_NP [[ইত্যাদি\N_NN দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd789	[[`\RD_PUNC মাপ্পিলা\N-NNP বে\N-NNP বন্দর\N-NNP `\RD_PUNC হল\V_VAUX]]_VGF [[প্রকৃতির\N_NN বরদান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd790	[[মাপ্পিলা\N-NNP বে\N-NNP বন্দরের\N-NNP]]_NP [[ইন্দো\N-NNP -\RD_PUNC নরওয়েজিয়ান\N-NNP পরিযোজনার\N_NN অন্তর্গত\N_NN]]_NP [[আধুণিকীকরণ\N_NN হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd791	[[ধর্মডম\N-NNP দ্বীপ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[যার\PR_PRL বিস্তার\N_NN ৫\QT_QTC একর\N_NN]]_NP [[,\RD_PUNC]]_CCP [[তা\PR_PRL সমুদ্রতট\N_NN থেকে\PSP]]_NP [[মাত্র\RB]]_RBP [[১০০\QT_QTC মিটার\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd792	[[সেন্ট\N-NNP আঞ্চলো\N-NNP কেল্লার\N_NN]]_NP [[নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN কুণ্ণুর\N-NNP]]_NP [[৩\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_VGF [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd793	[[সেন্ট\N-NNP আঞ্চলো\N-NNP কেল্লার\N_NN থেকে\PSP]]_NP [[নিকটতম\JJ এয়ারপোর্ট\N_NN]]_NP [[-\RD_PUNC]]_BLK [[করিপ্পুর\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[৯৩\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd794	[[কেরলের\N-NNP ইতিহাসে\N_NN]]_NP [[তলশ্শেরীর\N-NNP]]_NP [[বিশেষ\JJ স্থান\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd795	[[তলশ্শেররী\N-NNP ঐতিহ্যের\N_NN মধ্যে\PSP]]_NP [[বিদেশের\N_NN সাথে\PSP ক্রমাগত\RB সম্পর্ক\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ব্যবসায়িক\JJ পরম্পরা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[প্রৌঢ়\N_NN -\RD_PUNC ক্রিকেট\N_NN পরম্পরা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[সার্কাসের\N_NN পরম্পরা\N_NN]]_NP [[ইত্যাদি\N_NN পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd796	[[পর্তুগিজ\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[ডাচরা\N-NNP]]_NP [[তলশ্শেরীতে\N-NNP]]_NP [[কতৃত্ব\N_NN স্থাপন\N_NN করার\V_VM_VNG]]_VGNN [[চেষ্টা\N_NN করেছেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd797	[[ব্রিটিশ\N-NNP সেনাপতি\N_NN]]_NP [[আর্থার\N-NNP মিলার\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[যিনি\PR_PRL পষশ্শি\N-NNP রাজাকে\N_NN অধীণস্থ\N_NN করতে\V_VM_VINF এসেছিলেন\V_VM_VF]]_VGF [[,\RD_PUNC]]_BLK [[তিনি\PR_PRP অনেকটা\QT_QTF সময়\N_NN]]_NP [[তলশ্শেরীতে\N-NNP ছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd798	[[আর্থার\N-NNP মিলার\N-NNP]]_NP [[তলশ্শেরীতে\N-NNP]]_NP [[ক্রিকেট\N_NN খেলার\N_NN সাথে\PSP]]_NP [[পরিচিতি\N_NN করান\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd799	[[ধীরে\RB ধীরে\RB]]_RBP [[স্থানীয়\JJ লোকেরা\N_NN]]_NP [[ব্রিটিশ\N-NNP সেনার\N_NN খেলা\N_NN]]_NP [[শিখে\V_VM_VNF নেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd800	[[মুসা\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[মাংপঠিঠ\N-NNP]]_NP [[ইত্যাদি\N_NN বড়\JJ বড়\JJ পরিবার\N_NN]]_NP [[ক্রিকেটে\N_NN উত্সাহ\N_NN দিয়েছেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd801	[[এমনও\DM_DMD একটা\QT_QTC সময়\N_NN ছিল\V_VAUX]]_VGF [[যখন\CC_CCS]]_RBP [[তলশ্শেরীতে\N-NNP]]_NP [[ব্রিটেন\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[শ্রীলঙ্কায়\N-NNP]]_NP [[খেলার\V_VM_VNG জন্য\PSP]]_NP [[ক্রিকেট\N_NN ক্লাব\N_NN আসত\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd802	[[এইভাবেই\RB]]_RBP [[যে\RP_RPD সকল\QT_QTF স্থানে\N_NN]]_NP [[সর্বপ্রথম\N_NN ক্রিকেট\N_NN খেলার\N_NN আয়োজন\N_NN হয়েছিল\V_VM_VF]]_VGF [[,\RD_PUNC]]_CCP [[তাদের\PR_PRP মধ্যে\PSP]]_NP [[তলশ্শেরীকে\N-NNP]]_NP [[প্রথম\QT_QTO স্থান\N_NN দেওয়া\V_VM_VNG যেতে\V_VM_VINF পারে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd803	[[সার্কাস\N_NN পরম্পরাতেও\N_NN]]_NP [[তলশ্শেরীর\N-NNP]]_NP [[গুরুত্বপূর্ণ\JJ যোগদান\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd804	[[তলশ্শেরীর\N-NNP সার্কাস\N_NN কুশলীরা\N_NN]]_NP [[সর্বোত্তম\JJ প্রদর্শনী\N_NN প্রস্তুত\N_NN করে\V_VM_VNF]]_VGNF [[আন্তর্জাতিক\JJ স্তরে\N_NN]]_NP [[যশ\N_NN অর্জন\N_NN করেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd805	[[ভারতের\N-NNP গুরুত্বপূর্ণ\JJ সাকার্স\N_NN তারকার\N_NN মধ্যে\PSP]]_NP [[`\RD_PUNC উড়ন্ত\N-NNP আলো\N-NNP `\RD_PUNC হল\V_VAUX]]_VGF [[তলশ্শেরীর\N-NNP বংশধর\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd806	[[মিষ্টি\N_NN বানানো\V_VM_VNG]]_VGNN [[আর\CC_CCD]]_CCP [[নতুন\JJ নতুন\JJ মিষ্টি\N_NN তৈরি\N_NN করে\V_VM_VNF]]_VGNF [[দেখানোয়\V_VM_VNG]]_VGNN [[তলশ্শেরীর\N-NNP লোকেরা\N_NN হলেন\V_VM_VF]]_VGF [[সিদ্ধহস্ত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd807	[[কেরলের\N-NNP প্রমুখ\JJ বেকারি\N_NN পরিবার\N_NN হল\V_VAUX]]_VGF [[(\RD_PUNC Bakery\RD_RDF Family\RD_RDF )\RD_PUNC]]_NP [[মাংপঠিঠ\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd808	[[বেকারি\N_NN পরিবারের\N_NN]]_NP [[বেকারি\N_NN ব্যবসা\N_NN হল\V_VAUX]]_VGF [[১২০\QT_QTC বছরের\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd809	[[মাংপঠিঠ\N-NNP পরিবার\N_NN]]_NP [[কেরলের\N-NNP এক\QT_QTC স্থান\N_NN থেকে\PSP]]_NP [[দ্বিতীয়\QT_QTO স্থানে\N_NN]]_NP [[বেকারি\N_NN স্থাপনা\N_NN করে\V_VM_VNF]]_VGNF [[একটি\QT_QTC নতুন\JJ যুদ্ধ\N_NN চালিয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd810	[[আজও\RB]]_RBP [[কেরলে\N-NNP কিছু\JJ জায়গায়\N_NN]]_NP [[মাংপঠিঠদের\N-NNP বেকারি\N_NN]]_NP [[গৌরবে\N_NN দাঁড়িয়ে\V_VM_VNF আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd811	[[তলশ্শেরীর\N-NNP লোগন\N-NNP স্ট্রিট\N_NN হল\V_VAUX]]_VGF [[(\RD_PUNC গলি\N_NN )\RD_PUNC]]_NP [[একটি\QT_QTC অন্য\JJ আকর্ষণ\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd812	[[এই\DM_DMD জায়গা\N_NN হল\V_VAUX]]_NP [[মিষ্টি\N_NN -\RD_PUNC সেমাই\N_NN]]_NP [[,\RD_PUNC]]_BLK [[কাপড়\N_NN]]_NP [[আর\CC_CCD]]_CCP [[বিরিয়ানির\N_NN]]_NP [[জন্য\PSP]]_BLK [[প্রসিদ্ধ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd813	[[লোগন\N-NNP স্ট্রিটে\N_NN অবস্থিত\N_NN]]_NP [[প্যারিস\N-NNP হোটেল\N_NN হল\V_VAUX]]_VGF [[বিরিয়ানির\N_NN জন্য\PSP]]_NP [[বিখ্যাত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd814	[[তলশ্শেরীর\N-NNP দ্বিতীয়\QT_QTO আকর্ষণ\N_NN হল\V_VAUX]]_VGF [[১৪৩\QT_QTC বছর\N_NN পুরানো\N_NN কলেজ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[হরমান\N-NNP গুণ্ডর্টের\N-NNP নিবাসস্থান\N_NN]]_NP [[যা\DM_DMQ `\RD_PUNC ইল্লিক্কুন্নু\N-NNP বাংলো\N_NNV `\RD_PUNC নামে\N_NN পরিচিত\N_NN]]_NP [[ও\CC_CCD]]_CCP [[তল্লশেরী\N-NNP কেল্লা\N_NN ইত্যাদি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd815	[[ফোর্ট\N-NNP অগুআড়া\N-NNP থেকে\PSP শুরু\N_NN হওয়া\V_VM_VNG]]_VGNN [[উত্তর\N-NNP গোয়ার\N-NNP সমুদ্র\N_NN তট\N_NN হল\V_VAUX]]_VGF [[প্রায়\RB]]_RBP [[৩০\QT_QTC কি.মি.\N_NN লম্বা\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd816	[[তলশ্শেরীতে\N-NNP]]_NP [[একটি\QT_QTC রেলওয়ে\N_NN স্টেশন\N_NN আছে\V_VAUX]]_NP [[৷\RD_PUNC]]_BLK
+htd817	[[তলশ্শেরীর\N-NNP নিকটতম\JJ এয়ারপোর্ট\N_NN হল\V_VAUX]]_VGF [[করিপ্পুর\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd818	[[তোড়িক্কুঠ্ঠম\N-NNP শিব\N_NN মন্দির\N_NN হল\V_VAUX]]_VGF [[অত্যন্ত\RP_INTF পুরানো\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd819	[[কিছু\QT_QTF লোকের\N_NN মতে\N_NN]]_NP [[তোড়িক্কুঠ্ঠমের\N-NNP]]_NP [[দুমংজিলা\N-NNP চৌকোণা\N_NN মন্দির\N_NN হল\V_VAUX]]_VGF [[দুই\QT_QTC হাজার\N_NN বছর\N_NN পুরানো\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd820	[[বিশেষ\RB প্রাচীর\N_NN চিত্র\N_NN হল\V_VAUX]]_VGF [[এই\DM_DMD মন্দিরের\N_NN বিশেষত্ব\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd821	[[তোড়িক্কুঠ্ঠমের\N-NNP]]_NP [[শ্রীমন্দিরের\N-NNP (\RD_PUNC গর্ভগৃহ\N_NN )\RD_PUNC দেওয়ালে\N_NN]]_NP [[৭০০\QT_QTC বর্গ\N_NN চওড়া\JJ দেওয়ালে\N_NN]]_NP [[৪০টি\QT_QTC পংত্তিতে\N_NN]]_NP [[প্রায়\RB]]_RBP [[১৫০টি\QT_QTC প্রাচীর\N_NN চিত্র\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd822	[[এই\DM_DMD সকল\QT_QTF চিত্রের\N_NN]]_NP [[বিষয়বস্তু\N_NN হল\V_VAUX]]_VGF [[`\RD_PUNC রূক্মীণির\N-NNP স্বয়ংম্ভর\N_NN `\RD_PUNC]]_NP [[,\RD_PUNC]]_CCP [[`\RD_PUNC রাবণ\N-NNP -\RD_PUNC বধ\N_NN]]_NP [[`\RD_PUNC ইত্যাদি\N_NN ৷\RD_PUNC]]_BLK
+htd823	[[এর\DM_DMD সাথে\PSP]]_RBP [[আরও\QT_QTF অনেক\QT_QTF চিত্র\N_NN আছে\V_VAUX]]_VGF [[যা\PR_PRL গ্রাম্যজীবন\N_NN বোঝায়\V_VM_VNG]]_VGF [[ও\CC_CCD]]_CCP [[যা\PR_PRL হল\V_VAUX]]_VGF [[১৬\QT_QTC -\RD_PUNC ১৮\QT_QTC শতাব্দীর\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd824	[[তোড়িক্কুঠ্ঠমের\N-NNP নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN]]_NP [[-\RD_PUNC]]_BLK [[তলশ্শেরী\N-NNP]]_NP [[৩৪\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd825	[[তোড়িক্কুঠ্ঠমের\N-NNP নিকটতম\JJ এয়ারপোর্ট\N_NN]]_NP [[করিপ্পুর\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[৭১\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd826	[[পরশ্শিনিক্কটবু\N-NNP শ্রীমুত্তপ্পন\N-NNP মন্দিরে\N_NN]]_NP [[অপূর্ব\RB]]_RBP [[ও\CC_CCD]]_CCP [[অসাধারণভাবে\RB]]_RBP [[ধার্মিক\JJ অনুষ্ঠান\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[আচার\N_NN সম্পন্ন\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd827	[[পরশ্শিনিক্কটবু\N-NNP শ্রীমুত্তপ্পন\N-NNP মন্দিরে\N_NN]]_NP [[বিভিন্ন\JJ ধর্ম\N_NN -\RD_PUNC জাতের\N_NN লোক\N_NN]]_NP [[উপাসনার\N_NN জন্য\PSP আসেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd828	[[পরশ্শিনিক্কটবু\N-NNP শ্রীমুত্তপ্পন\N-NNP মন্দির\N_NN]]_NP [[`\RD_PUNC বসুধেবকুটুম্বকম\N-NNP `\RD_PUNC ধারণার\N_NN]]_NP [[বীজরোপণ\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd829	[[পরশ্শিনিক্কটবু\N-NNP শ্রীমুত্তপ্পনে\N-NNP]]_NP [[যেকোনও\DM_DMQ জাত\N_NN -\RD_PUNC ধর্ম\N_NN মেনে\V_VM_VNF চলা\V_VM_VNG ভক্ত\N_NN]]_NP [[প্রবেশ\N_NN করতে\V_VM_VINF পারে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd830	[[শ্রীমুত্তপ্পন\N-NNP মন্দির\N_NN]]_NP [[বঠ্ঠপট্টণম\N-NNP নদীর\N_NN তটে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd831	[[মুত্তপ্পন\N-NNP মন্দির\N_NN হল\V_VAUX]]_VGF [[কণ্মুর\N-NNP থেকে\PSP ২০\QT_QTC কি.মি.\N_NN দূর\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd832	[[মুত্তপ্পনে\N-NNP তৌয়ম\N-NNP নামক\N_NN লোকনৃত্যও\N_NN]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd833	[[প্রস্তুত\JJ মন্দির\N_NN স্থাপনার\N_NN পিছনে\PSP]]_NP [[একটি\QT_QTC কিংবদন্তী\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd834	[[এখানে\N_NST]]_RBP [[একটি\QT_QTC বালক\N_NN]]_NP [[আকস্মিক\RB]]_RBP [[দেখা\V_VM_VNG দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd835	[[কিছু\QT_QTF চমকপ্রদ\JJ ঘটনার\N_NN পরে\PSP]]_NP [[উধাও\N_NN হয়ে\V_VM_VNF যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd836	[[বালক\N_NN উধাও\N_NN হওয়ার\V_VM_VNG পর\PSP]]_NP [[লোকেদের\N_NN মনে\N_NN]]_NP [[ওখানে\N_NST]]_RBP [[ভগবত\N_NN ছিলেন\V_VM_VF]]_VGF [[এমন\DM_DMD অনুভূতি\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd837	[[পরিণামস্বরূপ\RB]]_RBP [[এই\DM_DMD মন্দির\N_NN]]_NP [[বানানো\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd838	[[১৬৮৩\QT_QTC সালে\N_NN]]_NP [[ইস্ট\N-NNP ইন্ডিয়া\N-NNP কোম্পানি\N_NN]]_NP [[তলশ্শেরীর\N-NNP সাথে\PSP]]_NP [[ক্রমাগত\RB]]_RBP [[সম্পর্ক\N_NN রাখার\V_VM_VNG জন্য\PSP এসেছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd839	[[১৭০৩\QT_QTC সালে\N_NN]]_NP [[কোম্পানি\N_NN]]_NP [[তলশ্শেরীতে\N-NNP]]_NP [[একটি\QT_QTC কেল্লা\N_NN বানায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd840	[[পরে\RB]]_RBP [[তলশ্শেরীর\N-NNP এই\DM_DMD কেল্লার\N_NN]]_NP [[বড়\JJ শহরের\N_NN গড়ে\V_VM_VNF ওঠে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd841	[[এই\DM_DMD কেল্লা\N_NN হল\V_VAUX]]_VGF [[ইতিহাস\N_NN প্রেমীদের\N_NN]]_NP [[প্রিয়\N_NN]]_JJP [[৷\RD_PUNC]]_NP
+htd842	[[তলশ্শেরীর\N-NNP]]_NP [[এই\DM_DMD কেল্লার\N_NN দেওয়াল\N_NN হল\V_VAUX]]_VGF [[অনেক\JJ উঁচু\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd843	[[তলশ্শেরীর\N-NNP এই\DM_DMD কেল্লায়\N_NN]]_NP [[এমন\DM_DMD অনেক\QT_QTF রহস্যপূর্ণ\JJ সুড়ঙ্গ\N_NN আছে\V_VAUX]]_VGF [[যা\PR_PRL সমুদ্রের\N_NN দিকে\N_NN খোলে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd844	[[বঠ্ঠপট্টণম\N-NNP কাঠ\N_NN উদ্যোগ\N_NN কেন্দ্রে\N_NN]]_NP [[এশিয়ার\N-NNP সবথেকে\RP_INTF প্রাচীন\JJ]]_NP [[উদ্যোগ\N_NN স্থল\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd845	[[বঠ্ঠপট্টণম\N-NNP নদীর\N_NN ঘন\JJ জঙ্গল\N_NN থেকে\PSP পাওয়া\V_VM_VNG]]_VGNN [[সেগুণ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ইরুলি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[ইলবা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[করিমুরিক্কু\N_NN]]_NP [[,\RD_PUNC]]_CCP [[চন্দন\N_NN]]_NP [[ইত্যাদি\N_NN গাছের\N_NN কাঠ\N_NN থেকে\PSP]]_NP [[বঠ্ঠপট্টণম\N-NNP কাঠ\N_NN]]_NP
+htd846	[[ওয়েস্টোর্ন\N-NNP ইন্ডিয়া\N-NNP প্লাইউড\N-NNP লিমিটেড\N-NNP]]_NP [[বঠ্ঠপট্টণমের\N-NNP কাঠ\N_NN উদ্যোগ\N_NN কোম্পানি\N_NN]]_NP [[দক্ষিণ\N-NNP -\RD_PUNC পূর্ব\N-NNP এশিয়ার\N-NNP]]_NP [[বিখ্যাত\JJ কাঠ\N_NN প্রস্তুতকারক\N_NN কোম্পানি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd847	[[বঠ্ঠপট্টণমে\N-NNP]]_NP [[চা\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কফি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[তামাক\N_NN]]_NP [[,\RD_PUNC]]_NP [[কাজু\N_NN]]_NP [[ইত্যাদিরও\N_NN চাষ\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd848	[[কেরলের\N-NNP তামাক\N_NN -\RD_PUNC চাষের\N_NN অপূর্ব\JJ ক্ষেতের\N_NN মধ্যে\PSP]]_NP [[বঠ্ঠপট্টণমের\N-NNP নাম\N_NN আসে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK [[দ্বিতীয়\QT_QTO আকর্ষণ\N_NN হল\V_VAUX]]_VGF [[মত্স\N_NN সংগ্রহণ\N_NN কেন্দ্র\N_NN]]_NP [[,\RD_PUNC]]_CCP [[জলসিঞ্চন\N_NN কেন্দ্র\N_NN]]_NP [[ইত্যাদি\N_NN]]_BLK [[৷\RD_PUNC]]_BLK
+htd849	[[বঠ্ঠপট্টণমের\N-NNP নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN]]_NP [[–\RD_PUNC]]_BLK [[কণ্ণুর\N-NNP]]_NP [[৭\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd850	[[বঠ্ঠপট্টণমের\N-NNP নিকটতম\JJ এয়ারপোর্ট\N_NN]]_NP [[-\RD_PUNC]]_BLK [[করিপ্পুর\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[১০০\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd851	[[বেক্কল\N-NNP কেল্লা\N-NNP হল\V_VAUX]]_VGF [[কেরলের\N-NNP]]_NP [[সবথেকে\RP_INTF বিখ্যাত\JJ কেল্লা\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd852	[[বেক্কল\N-NNP কেল্লা\N-NNP থেকে\PSP]]_NP [[ঘন\JJ নীলবর্ণ\JJ সমুদ্র\N_NN দেখার\V_VM_VNG অনুভূতি\N_NN হল\N_NN]]_VGF [[অবিস্মরণীয়\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd853	[[বেক্কল\N-NNP কেল্লা\N-NNP হল\V_VAUX]]_VGF [[মলয়ালম\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[তামিল\N-NNP]]_CCP [[,\RD_PUNC]]_CCP [[বলিউড\N-NNP সিনেমার\N_NN শুটিংএর\N_NN]]_NP [[প্রিয়\JJ লোকেশন\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd854	[[কেরল\N-NNP সরকার\N-NNP]]_NP [[বেক্কল\N-NNP কেল্লা\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[সমুদ্রতট\N_NN]]_NP [[আর\CC_CCD]]_CCP [[সেই\DM_DMD সংক্রান্ত\N_NN পর্যটন\N_NN কেন্দ্রের\N_NN বিকাশের\N_NN জন্য\PSP]]_NP [[বেক্কল\N-NNP রিসোর্ট\N-NNP ডেভেলপেন্ট\N-NNP করপোরেশন\N-NNP গঠন\N_NN করেছেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd855	[[এর\DM_DMR সাথেই\PSP]]_RBP [[বেক্কল\N-NNP সমুদ্রতটের\N_NN সৌন্দর্য\N_NN বাড়ানোর\V_VM_VNG জন্য\PSP]]_NP [[অনেক\QT_QTF যোজনা\N_NN শুরু\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd856	[[এই\DM_DMD যোজনার\N_NN অন্তর্গত\N_NN]]_NP [[তৈয়ম\N-NNP শিল্প\N_NN]]_NP [[,\RD_PUNC]]_CCP [[প্রাচীর\N_NN চিত্র\N_NN]]_NP [[,\RD_PUNC]]_CCP [[শিল্পোদ্যান\N_NN]]_NP [[ইত্যাদি\N_NN এই\DM_DMD শিল্পের\N_NN বিকাশও\N_NN পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd857	[[পার্কিংএর\N_NN কাছে\PSP]]_NP [[৭০০০\QT_QTC বর্গ\N_NN মি.\N_NN বিস্তৃত\JJ]]_NP [[পার্কিং\N_NN করার\V_VM_VNG জায়গা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd858	[[বিশ্রামের\N_NN জন্য\PSP]]_NP [[ট্রি\N_NN -\RD_PUNC হাউস\N_NN]]_NP [[আর\CC_CCD]]_CCP [[ডরমিটরির\N_NN]]_NP [[ব্যবস্থাও\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd859	[[বাচ্চাদের\N_NN জন্য\PSP পার্ক\N_NN]]_NP [[-\RD_PUNC]]_BLK [[১৪\QT_QTC বছর\N_NN বয়সের\N_NN কম\N_NN বাচ্চাদের\N_NN বিনোদনের\N_NN জন্য\PSP]]_NP [[এই\DM_DMD পার্ক\N_NN]]_NP [[উপযুক্ত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd860	[[বেক্কল\N-NNP সমুদ্রতটে\N_NN]]_NP [[প্রবেশ\N_NN করার\V_VM_VNG জন্য\PSP]]_NP [[প্রত্যেক\JJ ব্যাক্তিকে\N_NN]]_NP [[এক\QT_QTC টাকার\N_NN টিকিট\N_NN কাটতে\V_VM_VINF হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd861	[[পার্কিং\N_NN শুল্কও\N_NN দিতে\V_VM_VINF হয়\V_VAUX]]_VGF [[,\RD_PUNC]]_BLK [[যা\DM_DMR বেশি\N_NN নয়\V_VAUX]]_NP [[৷\RD_PUNC]]_BLK
+htd862	[[আর\CC_CCD ডি\N-NNP সি`র\N-NNP কাছে\PSP]]_NP [[এখানে\N_NST]]_RBP [[১১\QT_QTO একর\N_NN জমিতে\N_NN]]_NP [[একটা\QT_QTC ওয়াটার\N-NNP থিম\N-NNP পার্ক\N-NNP বানানোর\V_VAUX]]_VGNN [[যোজনাও\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd863	[[বেক্কল\N-NNP কেল্লার\N_NN নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN হল\V_VAUX]]_VGF [[কাসরগোড়\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd864	[[বেক্কল\N-NNP কেল্লার\N_NN নিকটতম\JJ বিমানবন্দর\N_NN মঙ্গলুরু\N-NNP]]_NP [[৫০\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[,\RD_PUNC]]_CCP [[করিপ্পুর\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[২০০\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd865	[[চন্দ্রগিরিপ্পুষার\N-NNP (\RD_PUNC নদী\N_NN )\RD_PUNC তটে\N_NN]]_NP [[১৭তম\QT_QTO শতাব্দীতে\N_NN নির্মিত\N_NN]]_NP [[একটি\QT_QTC কেল্লা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd866	[[ওই\DM_DMD কেল্লা\N_NN থেকে\PSP]]_NP [[আরব\N-NNP সাগর\N-NNP]]_NP [[ও\CC_CCD]]_CCP [[চন্দ্রগিরি\N-NNP নদীর\N_NN]]_NP [[অদ্ভূত\JJ দৃশ্য\N_NN]]_NP [[উপভোগ\N_NN করা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd867	[[নদী\N_NN তটের\N_NN কাছে\PSP]]_NP [[কিষুর\N-NNP মন্দিরের\N_NN গীতোত্সব\N_NN হল\V_VAUX]]_VGF [[অতি\RP_INTF প্রসিদ্ধ\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd868	[[বেক্কল\N-NNP রিসোর্ট\N-NNP ডেভেলপমেন্ট\N-NNP করপোরেশন\N-NNP]]_NP [[চন্দ্রগিরি\N-NNP নদীতে\N_NN]]_NP [[বোটিং\N_NN করার\V_VM_VNG ব্যবস্থা\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd869	[[চন্দ্রগিরি\N-NNP হল\V_VAUX]]_VGF [[কাসরগোড়\N-NNP টাউনের\N_NN অনেক\RP_INTF কাছে\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd870	[[নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN]]_NP [[-\RD_PUNC]]_BLK [[কাসরগোড়\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd871	[[নিকটতম\JJ বিমানবন্দর\N_NN]]_NP [[-\RD_PUNC]]_BLK [[মঙ্গলুর\N-NNP]]_NP [[,\RD_PUNC]]_BLK [[৫০\QT_QTC কি.মি\N_NN দূরে\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd872	[[চিত্তারি\N-NNP হল\V_VAUX]]_VGF [[সবুজে\N_NN ঢাকা\N_NN]]_NP [[একটা\QT_QTC ছোটো\JJ দ্বীপ\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd873	[[চিত্তারি\N-NNP তটভাগ\N_NN হল\V_VAUX]]_VGF [[বিশাল\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd874	[[চিত্তারি\N-NNP হল\V_VAUX]]_NP [[বেক্কল\N-NNP পর্যটন\N-NNP পরিযোজনার\N-NNP অংশ\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd875	[[পর্যটনের\N_NN শোরগোল\N_NN]]_NP [[এই\DM_DMD দ্বীপকে\N_NN স্পর্শ\N_NN পর্যন্ত\PSP করেনি\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd876	[[শান্তিতে\N_NN সময়\N_NN কাটানোর\V_VM_VNG জন্য\PSP]]_NP [[চিত্তারি\N-NNP হল\V_VAUX]]_VGF [[উপযুক্ত\JJ স্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd877	[[চিত্তারির\N-NNP নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN হল\V_VAUX]]_VGF [[কাংজংগাড়ু\N-NNP]]_NP [[যা\PR_PRL ৫\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_VGF [[অবস্থিত\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd878	[[বেক্কলের\N-NNP ভিড়ভাড়\JJ যাত্রার\N_NN পর\PSP]]_NP [[যদি\PSP]]_RBP [[শান্ত\JJ পরিবেশে\N_NN কিছুটা\QT_QTF সময়\N_NN কাটাতে\V_VM_VINF চান\V_VM_VF]]_VGF [[তাহলে\CC_CCS]]_CCP [[কাপ্পিল\N-NNP সমুদ্রতট\N_NN হল\V_VAUX]]_VGF [[উপযুক্ত\JJ জায়গা\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd879	[[কাপ্পিল\N-NNP বেক্কল\N-NNP থেকে\PSP]]_NP [[ছয়\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[ও\CC_CCD]]_CCP [[অত্যন্ত\RP_INTF শান্ত\RP_INTF স্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd880	[[এখানকার\N_NST]]_RBP [[আকর্ষণ\N_NN হল\V_VAUX]]_VGF [[রৌদ্রে\N_NN ঝিলমিলিয়ে\V_VM_VNF ওঠা\V_VM_VNG সমুদ্র\N_NN]]_NP [[আর\CC_CCD]]_CCP [[শান্ত\JJ পরিবেশ\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd881	[[যে\PR_PRL সাহসী\N_NN]]_NP [[সে\PR_PRP পাশের\N_NST কোড়িক্কুন্নুতে\N-NNP চড়ে\V_VM_VNF]]_VGF [[বিস্তৃত\JJ আরব\N-NNP সাগর\N-NNP দেখতে\V_VM_VINF পারে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd882	[[কাপ্পিল\N-NNP বিচের\N_NN নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN]]_NP [[কাসরগোড়\N-NNP]]_NP [[১২\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd883	[[কাপ্পিল\N-NNP বিচের\N_NN নিকটতম\JJ বিমানবন্দর\N_NN]]_NP [[মঙ্গলুর\N-NNP]]_NP [[৫০\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd884	[[উত্তর\N-NNP কেরলে\N-NNP]]_NP [[যদি\PSP]]_CCP [[আপনি\PR_PRP আলপ্পুষার\N-NNP মতো\RP_RPD পরিবেশ\N_NN দেখতে\V_VM_VINF চান\V_VM_VF]]_VGF [[,\RD_PUNC]]_BLK [[তাহলে\CC_CCS]]_CCP [[পড়ন্না\N-NNP যান\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd885	[[পড়ন্না\N-NNP অঞ্চলের\N_NN]]_NP [[লেক\N_NN ট্যুরিজিমের\N_NN উপযোগী\N_NN বানানোর\V_VM_VNG]]_VGNN [[অন্যতম\RP_INTF সহায়ক\JJ উপাদান\N_NN হল\V_VAUX]]_VGF [[–\RD_PUNC]]_BLK [[বলিয়পরম্বু\N-NNP ঝিল\N-NNP]]_NP [[,\RD_PUNC]]_BLK [[সবুজে\JJ আচ্ছাদিত\JJ দ্বীপ\N_NN]]_NP [[,\RD_PUNC]]_BLK [[জলধারা\N_NN]]_NP [[ইত্যাদি\N_NN]]_BLK [[৷\RD_PUNC]]_BLK
+htd886	[[এখানে\N_NST]]_RBP [[ঝিনুক\N_NN চাষ\N_NN]]_NP [[সারা\QT_QTF পৃথিবীর\N_NN]]_NP [[মনোযোগ\N_NN আকর্ষণ\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd887	[[গুল\N-NNP মহম্মদ\N-NNP হল\V_VAUX]]_VGF [[এর\PR_PRP চাষি\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd888	[[গুল\N-NNP মহম্মদ\N-NNP]]_NP [[এখানে\N_NST]]_RBP [[ঝিনুক\N_NN চাষ\N_NN]]_NP [[শুধুমাত্র\RB]]_RBP [[পর্যটনের\N_NN অঙ্গ\N_NN বানিয়ে\V_VM_VNF]]_VGNF [[নিজের\PR_PRP কল্পনা\N_NN শক্তির\N_NN পরিচয়\N_NN দিয়েছেন\V_VM_VF]]_VGF [[তাইই\CC_CCS নয়\V_VM_VF]]_RBP [[,\RD_PUNC বরং\CC_CCS]]_CCP [[পুরো\JJ গ্রামকে\N_NN]]_NP [[প্রগতির\N_NN পথে\N_NN অগ্রসারিত\N_NN করেছেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd889	[[গুল\N-NNP মহম্মদ\N-NNP]]_NP [[নিজের\PR_PRF গ্রামবাসীদের\N_NN]]_NP [[এটা\DM_DMD শিখিয়েছেন\V_VM_VF]]_VGF [[যে\RP_RPD জীবনযাপনের\N_NN পরম্পরাগত\JJ রাস্তা\N_NN উপেক্ষা\N_NN না\RP_NEG করেও\V_VM_VNF]]_VGNF [[কিভাবে\RB]]_RBP [[পর্যটন\N_NN উদ্যোগ\N_NN থেকে\PSP]]_NP [[লাভবান\N_NN হওয়া\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd890	[[অয়েস্টার\N-NNP অপেরা\N-NNP নামক\N_NN অভিযান\N_NN চালিয়ে\V_VM_VNF]]_VGNF [[গুল\N-NNP মহম্মদ\N-NNP]]_NP [[নিজের\PR_PRP পর্যটন\N_NN পরিকল্পনা\N_NN]]_NP [[প্রস্তুত\N_NN করেছেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd891	[[পড়ন্না\N-NNP এসে\V_VM_VNF]]_VGNF [[কাছ\N_NST থেকে\PSP কৃযকদের\N_NN জীবন\N_NN]]_NP [[দেখা\JJ]]_VGNN [[ও\CC_CCD]]_CCP [[বোঝা\V_VM_VNG]]_VGNN [[যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd892	[[অয়েস্টার\N-NNP অপেরাতে\N-NNP]]_NP [[পরিষ্কার\JJ পরিচ্ছন্ন\JJ পরিবেশ\N_NN আছে\V_VAUX]]_VGF [[,\RD_PUNC]]_CCP [[থাকার\V_VM_VNG উত্তম\JJ ব্যবস্থা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd893	[[পড়ন্নাতে\N-NNP থেকে\PSP]]_VGNF [[এক\QT_QTC সাথে\PSP]]_RBP [[অনেক\QT_QTF জায়গা\N_NN ঘোরার\V_VM_VNG]]_VGNN [[অনুভূতি\N_NN লাভ\N_NN করতে\V_VM_VINF পারবেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd894	[[পড়ন্নার\N-NNP পাশের\N_NST দ্বীপ\N_NN পর্যন্ত\PSP]]_NP [[বোটিং\N_NN করা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd895	[[পড়ন্না\N-NNP অঞ্চলের\N_NN বিশেষত্ব\N_NN হল\V_VAUX]]_VGF [[–\RD_PUNC]]_BLK [[বিশাল\JJ সমুদ্রতট\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[সাগর\N_NN মোহনা\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd896	[[অয়েস্টার\N-NNP অপেরা\N-NNP]]_NP [[পাশের\N_NST তেজস্বিনী\JJ নদী\N_NN যাত্রা\N_NN করার\V_VM_VNG]]_VGNN [[সুবিধাও\N_NN প্রদান\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd897	[[পরশ্শিতিক্কড়বু\N-NNP]]_NP [[,\RD_PUNC]]_BLK [[বেক্কল\N-NNP কেল্লা\N_NN]]_NP [[ইত্যাদি\N_NN স্থান\N_NN]]_NP [[এর\DM_DMD কাছে\PSP পরে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd898	[[পড়ন্না\N-NNP থেকে\PSP নিকটতম\JJ বাসস্টপ\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[রেলওয়ে\N_NN স্টেশন\N_NN ৯\QT_QTC]]_NP [[কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd899	[[পড়ন্না\N-NNP থেকে\PSP নিকটতম\JJ এয়ারপোর্ট\N_NN]]_NP [[-\RD_PUNC]]_BLK [[মঙ্গলুর\N-NNP]]_NP [[,\RD_PUNC]]_BLK [[১২০\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[আর\CC_CCD]]_CCP [[করিপ্পুর\N-NNP]]_NP [[আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP]]_NP [[১৮০\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd900	[[সমুদ্রতল\N_NN থেকে\PSP ১৮৯০\QT_QTC মিটার\N_NN উঁচুতে\N_NST]]_NP [[সহাদ্রির\N-NNP শিখরে\N_NN]]_NP [[অগস্ত্যারকুড়ম\N-NNP]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd901	[[জনশ্রুতির\N_NN অনুসারে\RB]]_RBP [[অগস্ত্য\N-NNP বন\N_NN]]_NP [[মহর্ষি\N_NN অগস্ত্যের\N-NNP]]_NP [[বসবাস\N_NN স্থান\N_NN ছিল\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd902	[[শিখরে\N_NN পৌঁছানোর\V_VM_VNG জন্য\PSP]]_NP [[সীমাহীন\JJ বনের\N_NN]]_NP [[দুর্গম\JJ রাস্তা\N_NN]]_NP [[পার\N_NN করতে\V_VM_VINF হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd903	[[অগস্ত্য\N-NNP পর্বত\N_NN হল\V_VAUX]]_VGF [[দুর্লভ\JJ জড়িবুটির\N_NN জন্য\PSP]]_NP [[গুরুত্বপূর্ণ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd904	[[আদিবাসীদের\N_NN বিশ্বাস\N_NN]]_NP [[যে\RP_RPD এখানে\N_NST]]_RBP [[ব্রক্ষচারী\N_NN মহর্ষি\N_NN]]_NP [[অগস্ত্য\N-NNP মুনি\N_NN বসবাস\N_NN করতেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd905	[[তাই\RB]]_CCP [[কোনও\PR_PRQ সময়ে\N_NN]]_NP [[ওখানে\N_NST]]_RBP [[মহিলাদের\N_NN যাওয়ার\V_VM_VNG]]_VGNN [[অনুমতি\N_NN নেই\V_VM_VF]]_NP [[৷\RD_PUNC]]_BLK
+htd906	[[এই\DM_DMD স্থান\N_NN]]_NP [[ডিসেম্বরের\N-NNP দ্বিতীয়\QT_QTO সপ্তাহ\N_NN থেকে\PSP]]_NP [[ফেব্রুয়ারি\N-NNP পর্যন্ত\PSP]]_NP [[পর্যটকদের\N_NN কাছে\PSP আকর্ষণীয়\JJ স্থান\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd907	[[এখানে\N_NST]]_RBP [[যাওয়ার\V_VM_VNG জন্য\PSP]]_NP [[তিরুবনন্তপুরমের\N-NNP]]_NP [[পি.টি.পি.\N-NNP নগরে\N_NN অবস্থিত\N_NN]]_NP [[ওয়াইল্ড\N-NNP লাইফ\N-NNP ওয়ার্ডেন\N-NNP থেকে\PSP]]_NP [[অনুমতি\N_NN পত্র\N_NN নেওয়া\V_VM_VNG]]_VGNN [[আবশ্যক\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd908	[[তিরুবনন্তপুরম\N-NNP রেলওয়ে\N_NN স্টেশন\N_NN থেকে\PSP]]_NP [[অগস্ত্যারকুড়ম\N-NNP পর্যন্ত\PSP]]_NP [[দূরত্ব\N_NN হল\V_VAUX]]_VGF [[৬১\QT_QTC কি.মি.\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd909	[[তিরুবনন্তপুরম\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP থেকে\PSP]]_NP [[বোণক্কাড়\N-NNP]]_NP [[৬৯\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd910	[[তিরুবনন্তপুরম\N-NNP থেকে\PSP ৩৬\QT_QTC কি.মি.\N_NN উত্তরে\N-NNP]]_NP [[প্রসিদ্ধ\JJ বর্কলা\N-NNP বিচের\N_NN পাশে\PSP]]_NP [[অন্চুতেঙ্গু\N-NNP নামক\N_NN]]_NP [[ঐতিহাসিক\JJ মহত্বপূর্ণ\JJ সমুদ্রতটীয়\JJ]]_NP [[অঞ্চল\N_NN রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd911	[[অন্চুতেঙ্গুর\N-NNP প্রাকৃতিক\JJ সুষমা\N_NN হল\V_VAUX]]_VGF [[দর্শনীয়\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd912	[[ভারতের\N-NNP ইউরোপীয়\N-NNP ঔপনিবেশিক\JJ শাসনের\N_NN সাথে\PSP]]_NP [[অন্চুতেঙ্গুর\N-NNP সম্পর্ক\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd913	[[পর্তুগিজ\N-NNP]]_JJP [[,\RD_PUNC]]_CCP [[ডাচ\N-NNP]]_JJP [[এবং\CC_CCD]]_CCP [[ব্রিটিশ\N-NNP]]_NP [[সাম্রাজ্য\N_NN]]_NP [[এখানে\N_NST]]_RBP [[শাসন\N_NN করেছিল\V_VM_VNF]]_VGF [[৷\RD_PUNC]]_BLK
+htd914	[[১৬৮৪\QT_QTC সালে\N_NN]]_NP [[ইস্ট\N-NNP ইন্ডিয়া\N-NNP কোম্পানি\N-NNP]]_NP [[অন্চুতেঙ্গুতে\N-NNP]]_NP [[নিজেদের\PR_PRF প্রথম\QT_QTO ব্যবসা\N_NN কেন্দ্র\N_NN]]_NP [[স্থাপন\N_NN করেছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd915	[[আটিঙ্গল\N-NNP রাণি\N_NN]]_NP [[একটি\QT_QTC এলাকা\N_NN]]_NP [[বার্ষিক\JJ করের\N_NN চুক্তিতে\N_NN]]_NP [[ব্রিটিশ\N-NNP কোম্পানিকে\N_NN দিয়েছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd916	[[পাঁচটা\QT_QTC নারকোল\N_NN গাছের\N_NN কারণে\PSP]]_NP [[এই\DM_DMD ভূভাগ\N_NN]]_NP [[`\RD_PUNC অন্চুতেঙ্গু\N-NNP `\RD_PUNC নামে\N_NN]]_NP [[প্রসিদ্ধ\N_NN]]_JJP [[হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd917	[[অন্চুতেঙ্গুর\N-NNP বিখ্যাত\JJ ঐতিহাসিক\JJ স্মারক\N_NN]]_NP [[হল\V_VAUX]]_VGF [[`\RD_PUNC ইংলিশ\N-NNP কেল্লা\N-NNP `\RD_PUNC]]_NP [[যা\PR_PRL]]_NP [[এখন\RB]]_RBP [[সংরক্ষিত\N_NN]]_JJP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd918	[[কেল্লার\N_NN ভিতরে\PSP]]_NP [[একটি\QT_QTC কবরস্থান\N_NN আছে\V_VAUX]]_VGF [[যাতে\N_NST]]_NP [[প্রায়\RB]]_RBP [[১৭০৪\QT_QTC সালের\N_NN সমাধি\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd919	[[ঝিল\N_NN]]_NP [[,\RD_PUNC]]_CCP [[সারি\N_NN দিয়ে\PSP দাঁড়ানো\V_VM_VNG নারকেল\N_NN গাছ\N_NN]]_NP [[আর\CC_CCD]]_CCP [[তরঙ্গ\N_NN]]_NP [[অন্চুতেঙ্গুর\N-NNP শোভাকে\N_NN]]_NP [[মনোরম\N_NN করে\V_VM_VNF তোলে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd920	[[অন্চুতেঙ্গুর\N-NNP সমুদ্র\N_NN তট\N_NN]]_NP [[হল\V_VAUX]]_VGF [[অত্যন্ত\RP_INTF সুন্দর\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd921	[[অন্চুতেঙ্গু\N-NNP]]_NP [[হল\V_VAUX]]_VGF [[জেলেদের\N_NN বিশেষ\JJ এলাকা\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd922	[[অন্চুতেঙ্গুর\N-NNP নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN থেকে\PSP]]_NP [[বর্কলা\N-NNP]]_NP [[৮\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd923	[[তিরুবনন্তপুরম\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP থেকে\PSP]]_NP [[অন্চুতেঙ্গু\N-NNP]]_NP [[৪৬\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd924	[[আক্কুলম\N-NNP ঝিল\N_NN]]_NP [[হল\V_VAUX]]_VGF [[নৌকো\N_NN সফরের\N_NN দৃষ্টি\N_NN থেকে\PSP]]_NP [[মহত্বপূর্ণ\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd925	[[আক্কুলম\N-NNP ঝিলের\N_NN পিকনিক\N_NN স্পট\N_NN]]_NP [[সকাল\N_NN ১০টা\QT_QTC থেকে\PSP অনেক\QT_QTF রাত\N_NN পর্যন্ত\PSP]]_NP [[খোলা\V_VM_VNG থাকে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd926	[[বোটিং\N_NN]]_NP [[আর\CC_CCD]]_CCP [[বাচ্চাদের\N_NN পার্ক\N_NN]]_NP [[দুটোই\QT_QTC]]_JJP [[বাচ্চাদের\N_NN]]_NP [[ভীষণই\RP_INJ পছন্দের\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd927	[[তিরুবনন্তপুরম\N-NNP রেলওয়ে\N_NN স্টেশন\N_NN থেকে\PSP]]_NP [[আক্কুলম\N-NNP]]_NP [[১০\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd928	[[তিরুবনন্তপুরম\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP থেকে\PSP]]_NP [[আক্কুলম\N-NNP]]_NP [[৭\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd929	[[১৯৮৩\QT_QTC সালে\N_NN স্থাপিত\N_NN ইন্ডিয়ান\N-NNP স্কুল\N-NNP অফ\N-NNP মার্শিয়াল\N-NNP আর্টসের\N-NNP (\RD_PUNC ISMA\RD_RDF )\RD_PUNC প্রতিষ্ঠাতা\N_NN]]_NP [[হল\V_VAUX]]_VGF [[শ্রী\N_NN বালচন্দ্রন\N-NNP নায়ার\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd930	[[ভারত\N-NNP সরকার\N-NNP]]_NP [[ও\CC_CCD]]_CCP [[কেরল\N-NNP স্পোর্টস\N-NNP কাউন্সিল\N-NNP]]_NP [[দ্বারা\PSP]]_NP [[স্বীকৃত\N_NN]]_JJP [[এই\DM_DMD সংস্থা\N_NN]]_NP [[হল\V_VAUX]]_VGF [[কলরিপ্পয়ট্টু\N-NNP নামক\N_NN আয়োধন\N_NN কলার\N_NN প্রশিক্ষাণালয়\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd931	[[ইন্ডিয়ান\N-NNP স্কুল\N-NNP অফ\N-NNP মার্শিয়াল\N-NNP আর্টস\N-NNP]]_NP [[একটি\QT_QTC তিন\QT_QTC মহলা\N_NN ইমারতে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd932	[[ইন্ডিয়ান\N-NNP স্কুল\N-NNP অফ\N-NNP মার্শিয়াল\N-NNP আর্টসে\N-NNP]]_NP [[ক্যালরি\N_NN চিকিত্সারও\N_NN ব্যবস্থা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd933	[[ইন্ডিয়ান\N-NNP স্কুল\N-NNP অফ\N-NNP মার্শিয়াল\N-NNP আর্টসে\N-NNP উষিচ্চিলের\N-NNP (\RD_PUNC ম্যাসাজ\N_NN )\RD_PUNC জন্য\PSP]]_NP [[৬০০\QT_QTC বছরের\N_NN পুরানো\N_NN `\RD_PUNC এণ্ণত্তোণি\N-NNP `\RD_PUNC]]_NP [[(\RD_PUNC]]_BLK [[মালিশের\N_NN জন্য ব্যবহৃত\JJ বস্তু\N_NN]]_NP [[)\RD_PUNC]]_BLK [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd934	[[ইস্মার\N-NNP (\RD_PUNC ISMA\RD_RDF )\RD_PUNC অন্য\JJ বিশেষত্ব\N_NN]]_NP [[হল\V_VAUX]]_VGF [[ধাণের\N_NN কুঠুরি\N_NN]]_NP [[আর\CC_CCD]]_CCP [[ঔষধি\N_NN জড়িবুটির\N_NN রুফ\N_NN গার্ডেন\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd935	[[অতিথিদের\N_NN জন্য\PSP]]_NP [[সাধারণ\JJ মানের\N_NN]]_NP [[থাকার\V_VM_VNG জায়গা\N_NN]]_NP [[আর\CC_CCD]]_CCP [[খাওয়ার\V_VM_VNG ব্যব্স্থা\N_NN]]_NP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd936	[[ইন্ডিয়ান\N-NNP স্কুল\N-NNP অফ\N-NNP মার্শিয়াল\N-NNP আর্টসে\N-NNP]]_NP [[অনেক\QT_QTF তালপাতার\N_NN গ্রন্থ\N_NN]]_NP [[সংরক্ষিত\N_NN]]_JJP [[আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd937	[[তিরুবনন্তপুরম\N-NNP রেলওয়ে\N_NN স্টেশন\N_NN থেকে\PSP]]_NP [[ইন্ডিয়ান\N-NNP স্কুল\N-NNP অফ\N-NNP মার্শিয়াল\N-NNP আর্টস\N-NNP]]_NP [[২\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd938	[[তিরুবনন্তপুরম\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP থেকে\PSP]]_NP [[ইন্ডিয়ান\N-NNP স্কুল\N-NNP অফ\N-NNP মার্শিয়াল\N-NNP আর্টস্\N-NNP]]_NP [[৮\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd939	[[অগস্ত্য\N-NNP পাহাড়ের\N_NN পাশের\N_NST দিকে\N_NN]]_NP [[নৈয়ার\N-NNP বনে\N_NN]]_NP [[উত্তরম\N-NNP কয়ম\N-NNP]]_NP [[অবস্থিত\N_NN]]_JJP [[রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd940	[[উত্তরম\N-NNP কয়ম\N-NNP]]_NP [[হল\V_VAUX]]_VGF [[বিবিধ\JJ জড়িবুটি\N_NN]]_NP [[আর\CC_CCD]]_CCP [[বিভিন্ন\JJ ধরণের\N_NN পাখিতে\N_NN]]_NP [[ভরা\V_VM_VNG]]_VGNN [[একটি\QT_QTC ছোটো\JJ অঞ্চল\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd941	[[আজকাল\RB]]_RBP [[কেরলের\N-NNP বন\N_NN বিভাগ\N_NN]]_NP [[এখানে\N_NST]]_RBP ট্রি\N_NN [[হাউসের\N_NN ব্যবস্থা\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd942	[[উত্তরম\N-NNP কয়ম\N-NNP যাওয়ার\V_VM_VNG জন্য\PSP]]_NP [[নৈয়ার\N-NNP রির্জারভয়ার\N-NNP থেকে\PSP বোট\N_NN নিয়ে\V_VM_VNF]]_VGNF [[কোম্বা\N-NNP নামক\JJ স্থানে\N_NN]]_NP [[পৌঁছাতে\V_VM_VINF হবে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd943	[[কোম্বা\N-NNP থেকে\PSP]]_NP [[দুই\QT_QTC কিলোমিটার\N_NN ঘন\JJ জঙ্গল\N_NN থেকে\PSP]]_NP [[পায়ে\N_NN হেঁটে\V_VM_VNF]]_VGNF [[উত্তরকয়ম\N-NNP]]_NP [[পৌঁছানো\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd944	[[উত্তরম\N-NNP কয়ম\N-NNP থেকে\PSP দুই\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[মীনমুট্টি\N-NNP জলপ্রপাত\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd945	[[মীনমুট্টি\N-NNP জলপ্রপাত\N_NN]]_NP [[হল\V_VAUX]]_VGF [[বল্লিয়ার\N-NNP]]_NP [[,\RD_PUNC]]_CCP [[মুল্লয়ার\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[নৈয়ার\N-NNP]]_NP [[ইত্যাদি\N_NN জলধারার\N_NN]]_NP [[উত্পত্তি\N_NN স্থান\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd946	[[বন\N_NN বিভাগ\N_NN দ্বারা\PSP]]_NP [[উত্তরম\N-NNP কয়ম\N-NNP পর্যটনের\N_NN ব্যবস্থা\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_SYM]]_BLK
+htd947	[[উত্তরম\N-NNP কয়মের\N-NNP নিকটতম\JJ রেলওয়ে\N_NN স্টেশন\N_NN তিরুবনন্তপুরম\N-NNP]]_NP [[৩২\QT_QTC কি.মি.\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd948	[[নিকটতম\JJ এয়ারপোর্ট\N_NN]]_NP [[-\RD_PUNC]]_BLK [[তিরুবনন্তপুরম\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP থেকে\PSP ৩৮\QT_QTC কি.মি\N_NN দূরে\N_NN]]_NP [[উত্তরম\N-NNP কয়ম\N-NNP]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd949	[[পৌন্মুডি\N-NNP (\RD_PUNC প্রসিদ্ধ\N_NN পাহাড়ি\JJ সুখবাস\N_NN কেন্দ্র\N_NN )\RD_PUNC যাওয়ার\V_VM_VNG পথে\N_NN]]_NP [[কল্লার\V_VM_VNG নদী\N_NN]]_NP [[পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd950	[[কল্লার\N-NNP নদীর\N_NN জন্য\PSP]]_NP [[এই\DM_DMD স্থানের\N_NN নাম\N_NN]]_NP [[কল্লার\N-NNP]]_NP [[হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd951	[[কল্লারে\N-NNP]]_NP [[গোলাকার\JJ পাথরের\N_NN টুকরো\N_NN]]_NP [[ভরে\V_VM_VNF পড়ে\V_VM_VNF আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd952	[[তিরুবনন্তপুরম\N-NNP থেকে\PSP ৫০\QT_QTC কি.মি.\N_NN দূরে\N_NN অবস্থিত\N_NN কল্লার\N-NNP]]_NP [[পর্যটক\N_NN]]_NP [[আর\CC_CCD]]_CCP [[যাত্রীদের\N_NN]]_NP [[মনোরঞ্জনের\N_NN]]_NP [[প্রিয়\N_NN স্থান\N_NN]]_VGF [[৷\RD_PUNC]]_BLK
+htd953	[[কল্লা-এর\N-NNP প্রধাণ\JJ আকর্ষণ\N_NN]]_NP [[হল\V_VAUX]]_VGF [[পাশের\N_NST বনাঞ্চলের\N_NN গোল্ডেন\N-NNP ভ্যালি\N-NNP (\RD_PUNC সুবর্ণ\JJ উপত্যকা\N_NN )\RD_PUNC]]_NP [[আর\CC_CCD]]_CCP [[মীনমুট্টি\N-NNP জলপ্রপাত\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd954	[[গোল্ডেন\N-NNP ভ্যালি\N-NNP]]_NP [[হল\V_VAUX]]_VGF [[প্রধাণ\JJ সড়কের\N_NN অনেক\JJ কাছে\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd955	[[এখানে\N_NST]]_RBP [[কল্লারের\N-NNP থেকে\PSP]]_NP [[পরিষ্কার\JJ]]_JJP [[,\RD_PUNC]]_CCP [[ঠান্ডা\JJ]]_JJP [[জলে\N_NN]]_NP [[স্নান\N_NN করার\V_VM_VNG]]_VGNN [[সুবিধা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd956	[[পাথরের\N_NN ওপর\N_NST দিয়ে\PSP বয়ে\V_VM_VNF যাওয়া\V_VM_VNG কল্লার\N-NNP গোল্ডেন\N-NNP ভ্যালিতে\N-NNP]]_NP [[অনেক\QT_QTF ছোটো\JJ ছোটো\JJ জলরাশি\N_NN]]_NP [[তৈরি\N_NN হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd957	[[কল্লার\N-NNP পুলের\N_NN পাশ\N_NN থেকে\PSP ডান\N_NN দিকে\N_NN]]_NP [[যদি\CC_CCS]]_CCP [[চলতে\V_VM_VINF থাকেন\V_VM_VF]]_VGF [[তাহলে\CC_CCS]]_CCP [[আপনি\PR_PRP]]_NP [[মীনমুট্টি\N-NNP]]_NP [[পৌঁছে\V_VM_VNF যাবেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd958	[[এই\DM_DMD যাত্রায়\N_NN]]_NP [[অনেক\QT_QTF রকমের\N_NN]]_NP [[প্রজাপতি\N_NN]]_NP [[আর\CC_CCD]]_CCP [[পাখি\N_NN]]_NP [[দেখতে\V_VM_VINF পাবেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd959	[[মীনমুট্টির\N-NNP জঙ্গলে\N_NN]]_NP [[বর্ষার\N_NN সময়\N_NN]]_NP [[চুলকানি\N_NN তৈরি\N_NN করে\V_VM_VF এমন\DM_DMD কীট\N_NN পতঙ্গ\N_NN]]_NP [[থাকে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd960	[[কল্লার\N-NNP বনসংরক্ষণ\N-NNP সমিতি\N-NNP থেকে\PSP]]_NP বন\N_NN [[-\RD_PUNC ভ্রমণের\N_NN জন্য\PSP]]_NP [[গাইড\N_NN নিয়োগ\N_NN]]_BLK করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd961	[[অঞ্চলের\N_NN বসবাসকারীরা\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[বন\N_NN বিভাগ\N_NN]]_NP [[মিলে\N_NN]]_VGNF [[বন\N_NN সংরক্ষণ\N_NN সমিতি\N_NN]]_NP [[গঠন\N_NN করেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd962	[[কল্লারে\N-NNP]]_NP [[পর্যটকদের\N_NN জন্য\PSP]]_NP [[জেলা\N-NNP ট্যুরিজিম\N-NNP প্রমোশন\N-NNP কাউন্সিল\N-NNP]]_NP [[অনেক\QT_QTF সুযোগসুবিধার\N_NN ব্যবস্থা\N_NN]]_NP [[রেখেছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd963	[[কল্লারে\N-NNP]]_NP [[বিশ্রাম\N_NN]]_NP [[ও\CC_CCD]]_CCP [[অতিথি\N_NN -\RD_PUNC সত্কারের\N_NN]]_NP [[ব্যবস্থাও\N_NN]]_NP [[করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd964	[[কল্লারে\N-NNP]]_NP [[আহার\N_NN কক্ষ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[শৌচালয়\N_NN]]_NP [[,\RD_PUNC]]_CCP [[চেঞ্জিং\N_NN রুম\N_NN]]_NP [[,\RD_PUNC]]_CCP [[বন\N_NN সংস্থার\N_NN বিক্রয়\N_NN কেন্দ্র\N_NN]]_NP [[,\RD_PUNC]]_CCP [[টেলিফোন\N_NN বুথ\N_NN]]_NP [[,\RD_PUNC]]_CCP [[পার্কিং\N_NN স্থান\N_NN]]_NP [[ইত্যাদির\N_NN]]_NP [[সুবিধা\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd965	[[কল্লারের\N-NNP নিকটবর্তী\JJ রেলওয়ে\N_NN স্টেশন\N_NN তিরুবনন্তপুরম\N-NNP]]_NP [[৬১\QT_QTC কিলোমিটার\N_NN দূরত্বে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd966	[[তিরুবনন্তপুরম\N-NNP আন্তর্জাতিক\N-NNP বিমানবন্দর\N-NNP থেকে\PSP]]_NP [[কল্লার\N-NNP]]_NP [[৬৭\QT_QTC কিলোমিটার\N_NN দূরে\N_NN পড়ে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd967	[[যদি\CC_CCS]]_CCP [[আপনি\PR_PRP]]_NP [[এখনও\RB পর্যন্ত\PSP]]_NP [[পায়ে\N_NN হেঁটে\V_VM_VNF]]_VGNF [[বা\CC_CCD]]_CCP [[গাড়ি\N_NN চড়েই\V_VM_VNF]]_VGNF [[বনের\N_NN সৌন্দর্য\N_NN উপভোগ\N_NN করে\V_VM_VNF থাকেন\V_VM_VF]]_VGF [[তাহলে\CC_CCS]]_CCP [[হাতির\N_NN ওপর\PSP চড়ে\V_VM_VNF বন\N_NN ভ্রমণের\N_NN সুবিধা\N_NN পাওয়া\V_VM_VNG গেলে\V_VM_VNF]]_VGNF [[আপনি\PR_PRP কি\DM_DMQ]]_NP [[তা\PR_PRL]]_NP [[উপভোগ\N_NN করবেন\V_VM_VF না\RP_NEG]]_VGF [[?\RD_PUNC]]_BLK
+htd968	[[বন্যপশু\N_NN বিভাগ\N_NN]]_NP [[ও\CC_CCD]]_CCP [[কোট্টুর\N-NNP ইকো\N-NNP ডেভেলপমেন্ট\N-NNP সমিতির\N-NNP]]_NP [[সংযুক্ত\N-NNP তত্ত্বাবধানে\N_NN]]_NP [[এই\DM_DMD সুবিধা\N_NN দেওয়া\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd969	[[তিরুবনন্তপুরম\N-NNP থেকে\PSP ১৮\QT_QTC কিলোমিটার\N_NN দূরে\N_NN]]_NP [[কাট্টাক্কড়ার\N-NNP পাশে\PSP]]_NP [[কাণ্ণুকাড়ু\N-NNP]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd970	[[বোট\N_NN ল্যান্ডিং\N_NN পয়েন্ট\N_NN থেকে\PSP]]_NP [[হাতির\N_NN সফর\N_NN]]_NP [[শুরু\N_NN হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd971	[[অগস্ত্য\N-NNP বননাঞ্চলে\N_NN আয়োজিত\N_NN এই\DM_DMD আধ\QT_QTC ঘন্টার\N_NN সফর\N_NN]]_NP [[ভ্রমণকারী\N_NN]]_NP [[আর\CC_CCD]]_CCP [[প্রকৃতি\N_NN প্রেমিকদের\N_NN]]_NP [[কাছে\PSP]]_NP [[চিরস্মরণীয়\JJ অনুভূতি\N_NN]]_NP [[প্রমাণিত\N_NN]]_JJP [[হবে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd972	[[কাণ্ণুকাড়ু\N-NNP থেকে\PSP শুরু\N_NN হওয়া\V_VM_VNG এই\DM_DMD ভ্রমণ\N_NN যাত্রা\N_NN]]_NP [[ঘন\JJ জঙ্গল\N_NN হয়ে\V_VM_VNF যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd973	[[ভ্রমণকারীরা\N_NN]]_NP [[ইরাভুপারা\N-NNP হয়ে\V_VM_VNF]]_VGNF [[আবার\RB]]_JJP [[কাণ্ণুকাড়ুতে\N-NNP]]_NP [[ফেরত\N_NN যেতে\V_VM_VINF পারেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd974	[[কাণ্ণুকাড়ু\N-NNP ট্রাইবাল\N-NNP ইকো\N-NNP ডেভেলপমেন্ট\N-NNP কমিটি\N-NNP দ্বারা\PSP প্রস্তুত\N_NN ভ্রমণ\N_NN ব্যবস্থার\N_NN মূল্য\N_NN]]_NP [[মাত্র\JJ ১০০\QT_QTC টাকা\N_NN]]_NP [[৷\RD_PUNC]]_BLK
+htd975	[[পালোডের\N-NNP পাশে\N_NN]]_NP [[ইন্ডিজারের\N-NNP বনের\N_NN ভিতর\PSP]]_NP [[কালক্কয়ম\N-NNP জলপ্রপাত\N_NN]]_NP [[নিজের\PR_PRF রূপ\N_NN প্রদর্শন\N_NN করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd976	[[কালক্কয়ম\N-NNP জলপ্রপাত\N_NN]]_NP [[সাহসী\JJ পর্যটক\N_NN]]_NP [[ও\CC_CCD]]_CCP [[প্রকৃতি\N_NN প্রেমিকদের\N_NN]]_NP [[নিজের\PR_PRF দিকে\N_NN]]_NP [[আকৃষ্ট\N_NN]]_JJP [[করে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd977	[[পালোড\N-NNP]]_NP [[তিরুবন্নতপুরম\N-NNP থেকে\PSP]]_NP [[৩৫\QT_QTC কিলোমিটার\N_NN দূরে\N_NN]]_NP [[অবস্থিত\N_NN]]_JJP [[৷\RD_PUNC]]_BLK
+htd978	[[পালোড\N-NNP থেকে\PSP]]_NP [[পৈরিঙ্গম্মলা\N-NNP]]_NP [[পৌঁছেতে\V_VM_VINF পারেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd979	[[পৈরিঙ্গম্মলা\N-NNP থেকে\PSP ইন্ডিঝারের\N-NNP পথে\N_NN এগিয়ে\V_VM_VNF গেলে\V_VM_VNF]]_VGNF [[১২\QT_QTC কিলোমিটার\N_NN পর\PSP]]_NP [[কুড়িশ্বাড়ি\N-NNP]]_NP [[পৌঁছে\V_VM_VNF যাবেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd980	[[পালোড\N-NNP থেকে\PSP]]_NP [[কালক্কয়ম\N-NNP জলপ্রপাত\N_NN]]_NP [[দেখা\V_VM_VNG যায়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd981	[[কালক্কয়ম\N-NNP জলপ্রপাত\N_NN]]_NP [[আর\CC_CCD]]_CCP [[তার\PR_PRP চারপাশের\N_NST প্রকৃতি\N_NN]]_NP [[অপূর্ব\JJ দৃশ্য\N_NN দিয়ে\PSP]]_NP [[মন\N_NN ভরিয়ে\V_VM_VNF দেয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd982	[[জলপ্রপাত\N_NN হল\V_VAUX মঙ্কয়ম\N-NNP ঝরণার\N_NN অংশ\N_NN]]_NP [[যা\PR_PRL]]_NP [[সামনের\PSP অগস্ত্যকুন্ড\N-NNP থেকে\PSP]]_NP [[বোরোয়\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd983	[[কালক্কয়ম\N-NNP জলপ্রপাতের\N_NN আগে\N_NST]]_NP [[একটা\QT_QTC জলরাশি\N_NN]]_NP [[তৈরি\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd984	[[এই\DM_DMD জলরাশিতে\N_NN]]_NP [[বেশি\QT_QTF মাত্রায়\N_NN চিকচিকে\JJ পাথর\N_NN আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd985	[[এই\DM_DMD জলরাশিতে\N_NN যেতে\V_VM_VINF হলে\V_VM_VNF]]_VGNF [[অনেক\QT_QTF সর্তকতা\N_NN অবলম্বন\N_NN করা\V_VM_VNG]]_VGNN [[উচিত\JJ]]_JJP [[৷\RD_PUNC]]_BLK
+htd986	[[বনমার্গ\N_NN থেকে\PSP পর্যটকদের\N_NN জন্য\PSP আয়োজিত\N_NN ভ্রমণ\N_NN যাত্রায়\N_NN]]_NP [[পশু\N_NN]]_NP [[ও\CC_CCD]]_CCP [[গাছগাছালির\N_NN]]_NP [[বিভিন্ন\JJ সম্প্রাদায়\N_NN]]_NP [[দেখানো\V_VM_VNG হয়\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
+htd987	[[আধুণিক\JJ চিত্রকলার\N_NN জনক\N_NN রাজা\N_NN রবি\N-NNP বর্মার\N-NNP জন্ম\N_NN]]_NP [[কিলিমানুর\N-NNP রাজমহলে\N_NN]]_NP [[হয়েছিল\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd988	[[এটা\DM_DMD বলা\V_VM_VNG]]_VGNN [[উচিত\N_NN]]_JJP [[যে\CC_CCS]]_CCP [[রবি\N-NNP বর্মা\N-NNP ছাড়াও\PSP]]_NP [[তার\PR_PRP]]_NP [[মামা\N_NN]]_NP [[আর\CC_CCD]]_CCP [[বোন\N_NN]]_NP [[বিখ্যাত\JJ চিত্রশিল্পী\N_NN]]_NP [[ছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd989	[[কিলিমানুর\N-NNP রাজমহলে\N-NNP জন্ম\N_NN নেওয়া\V_VM_VNG রবি\N-NNP বর্মার\N-NNP প্রথম\QT_QTC গুরু\N_NN]]_NP [[ছিলেন\V_VM_VF]]_VGF [[তার\PR_PRP মামা\N_NN রাজরাজ\N-NNP বর্মা\N-NNP]]_NP [[৷\RD_PUNC]]_BLK
+htd990	[[রাজমহলে\N-NNP থেকে\V_VM_VNF]]_VGNF [[রাজা\N_NN রবি\N-NNP বর্মা\N-NNP]]_NP [[পশ্চিমি\N_NN চিত্রকলা\N_NN পদ্ধতি\N_NN]]_NP [[,\RD_PUNC]]_CCP [[বিশেষ\RB করে\V_VM_VNF]]_RBP [[তৈলচিত্র\N_NN কলা\N_NN]]_NP [[শিখেছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd991	[[পরবর্তীকালে\RB]]_RBP [[রাজা\N_NN রবি\N-NNP বর্মা\N-NNP]]_NP [[বিশ্ববিখ্যাত\N_NN]]_JJP [[হন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd992	[[রাজা\N_NN রবি\N-NNP বর্মা\N-NNP]]_NP [[বেশ\RP_INTF কয়েক\QT_QTF বছর\N_NN]]_NP [[মুম্বই\N-NNP]]_NP [[আর\CC_CCD]]_CCP [[বরোদাতে\N-NNP]]_NP [[ছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd993	[[তিরুবনন্তপুরম\N-NNP থেকে\PSP ৩৯\QT_QTC কিলোমিটার\N_NN দূরে\N_NN অবস্থিত\N_NN কিলিমানুর\N-NNP রাজমহল\N-NNP]]_NP [[১৫\QT_QTC একর\N_NN জমি\N_NN ওপর\PSP ছড়ানো\V_VM_VNG রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd994	[[কিলিমানুর\N-NNP রাজমহলে\N-NNP]]_NP [[ছোট\JJ -\RD_PUNC বড়\JJ ভবন\N_NN]]_NP [[,\RD_PUNC]]_CCP [[জলাশয়\N_NN]]_NP [[,\RD_PUNC]]_CCP [[কুঁয়া\N_NN]]_NP [[সবই\QT_QTF]]_NP [[নির্মাণ\N_NN করা\V_VM_VNG হয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd995	[[রবি\N-NNP বর্মার\N-NNP চিত্রের\N_NN সবথেকে\RP_INTF বড়\JJ সংগ্রহালয়\N_NN]]_NP [[এখনও\RB]]_RBP [[বরোদা\N-NNP রাজপরিবারের\N_NN কাছেই\PSP রয়েছে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd996	[[বরোদাতে\N-NNP দুই\QT_QTC বছরের\N_NN জীবনে\N_NN]]_NP [[তিনি\PR_PRP]]_NP [[পুরাণ\N_NN সংক্রান্ত\N_NN ১৪টি\QT_QTC চিত্র\N_NN বানিয়েছেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd997	[[ভারতের\N-NNP রাজা\N_NN]]_NP [[এবং\CC_CCD]]_CCP [[ব্রিটিশ\N-NNP শাসকেরা\N_NN]]_NP [[সকলেই\QT_QTF]]_NP [[রবি\N-NNP বর্মাকে\N-NNP দিয়ে\PSP ছবি\N_NN আঁকানোর\V_VM_VNG জন্য\PSP]]_NP [[অত্যন্ত\RP_INTF আগ্রহী\JJ]]_JJP [[ছিলেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd998	[[রাজমহলের\N-NNP প্রবেশ\N_NN দ্বার\N_NN]]_NP [[রাজা\N_NN রবি\N-NNP বর্মার\N-NNP চিত্রশালার\N_NN (\RD_PUNC আর্ট\N_NN গ্যালারি\N_NN )\RD_PUNC দিকে\N_NST]]_NP [[খোলে\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd999	[[রাজমহলের\N-NNP প্রবেশ\N_NN দ্বারে\N_NN বসে\V_VM_VNF]]_VGNF [[রাজা\N_NN রবি\N-NNP বর্মা\N-NNP]]_NP [[চিত্র\N_NN আঁকতেন\V_VM_VF]]_VGF [[৷\RD_PUNC]]_BLK
+htd1000	[[এই\DM_DMD স্টুডিওতেই\N_NN]]_NP [[তার\PR_PRP আঁকা\V_VM_VNG ছবি\N_NN]]_NP [[সুরক্ষিত\JJ]]_JJP [[রাখা\V_VM_VNG আছে\V_VAUX]]_VGF [[৷\RD_PUNC]]_BLK
